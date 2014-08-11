@@ -1,0 +1,21 @@
+{
+	"rWaprox" : 
+	{
+		"peers" : {},
+		"sWaprox_address" : "localhost",
+		"sWaprox_port" : 9090,	
+		"http_proxy_port" : 33332,
+		"hashcache_port" : 33333,
+		"debug" : true
+	},
+	"sWaprox" :
+	{
+		"rWaprox_port" : 9090,
+		"debug" : true,
+		"hashcache_port" : 33333
+	},
+	"hashCache" : 
+	{
+		"mrc_level" : 4
+	}
+}

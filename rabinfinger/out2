@@ -1,0 +1,1745 @@
+start:0,&5544174505203268863,&12,&<!DOCTYPE htm
+
+start:1,&2963199153470900223,&69,&l><html lang="en" data-cast-api-enabled="true"><head><scri
+
+start:2,&4436355345390210943,&76,&ipt>var 
+
+start:3,&3632521401781995071,&108,& ytcsi = {gt: function(n) {n = (n
+
+start:4,&801175158724328447,&174,&n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {
+
+start:5,&9134160747203959487,&242,&{},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +
+
+start:6,&1527072486625767167,&327,&+new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? 
+
+start:7,&8054656688543709055,&371,& s :+new Date() - ytcsi.data_.tick[l];},info:
+
+start:8,&6361560271095392063,&374,&: fu
+
+start:9,&2148600265747441279,&541,&unction(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_st
+
+start:10,&7276499704949268095,&585,&tart', ytcsi.perf ? ytcsi.perf.timing.respons
+
+start:11,&7389366355949981503,&640,&seStart : null);if (document.webkitVisibilityState == 'p
+
+start:12,&6641270546727001535,&661,&prerender') {ytcsi.inf
+
+start:13,&9089019192519582335,&685,&fo('prerender', 1);docume
+
+start:14,&5335198673170816895,&755,&ent.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('
+
+start:15,&3761841411089237183,&818,&'_start');}, false);}</script>  <script>
+    try {window.ytbuffe
+
+start:16,&94567159743640319,&860,&er = {};ytbuffer.handleClick = function(e) 
+
+start:17,&4136924559917517119,&867,& {var el
+
+start:18,&5182306760842747455,&874,&lement =
+
+start:19,&4190244982005711167,&906,&= e.target || e.srcElement;while 
+
+start:20,&893275918474446463,&908,& (e
+
+start:21,&1623840991139604543,&1098,&element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentEle
+
+start:22,&4837242774116900415,&1266,&ement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(
+
+start:23,&6921239053702483071,&1373,&(e) {}
+    (function(){function a(b,g,k){var h=document.getElementsByTagName("html")[0],e=[h.className];b&&1
+
+start:24,&2597709755664361919,&1641,&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(e.push("guide-pinned"),g&&e.push("show-guide"));k&&(b=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&g&&(b-=230),e.push("
+
+start:25,&8818442540188176895,&1648,&" ",1262
+
+start:26,&372235357630934463,&1769,&2<=b?"content-snap-width-3":1056<=b?"content-snap-width-2":"content-snap-width-1"));h.className=e.join(" ")}
+var c=["yt","
+
+start:27,&690462989735666431,&1790,&"www","masthead","sizi
+
+start:28,&3081855126057444799,&1840,&ing","runBeforeBodyIsReady"],d=this;c[0]in d||!d.ex
+
+start:29,&1865373492236314687,&1968,&xecScript||d.execScript("var "+c[0]);for(var f;c.length&&(f=c.shift());)c.length||void 0===a?d[f]?d=d[f]:d=d[f]={}:d[f]=a;})();
+y
+
+start:30,&1519731327489930111,&1979,&yt.www.masth
+
+start:31,&8778045295785125311,&2153,&head.sizing.runBeforeBodyIsReady(false,true,false);
+  </script>
+
+
+
+        <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vfltpmjOU/www-scheduler.js" type="text/javascript
+
+start:32,&6843826246882426623,&2168,&t" name="www-sch
+
+start:33,&1706478969656136575,&2304,&heduler"></script>
+
+
+    <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.
+
+start:34,&5446817443671567935,&2334,&.count;ytimg[count] = img;img.o
+
+start:35,&5716875347119304831,&2659,&onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+
+
+
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-vfl5BoEuz.css" name="www-core">
+<script>if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}</script>  
+  
+
+<title>BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:36,&6138398745744511935,&2724,&Solder &amp; Kingbo Flux XModdz - YouTube</title><link rel="search
+
+start:37,&2356694465533795967,&2761,&h" type="application/opensearchdescrip
+
+start:38,&4705792080314246527,&2858,&ption+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><lin
+
+start:39,&6138398745743793599,&2871,&nk rel="shortc
+
+start:40,&6425391060002639615,&2901,&cut icon" href="https://s.ytimg
+
+start:41,&3738971128715529279,&2967,&g.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link
+
+start:42,&2607284768706385215,&3116,&k rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="canonical" href="http://www.youtube.com/watch?v=s38vQxXv0G
+
+start:43,&2607284768706385215,&3203,&GE"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=s38vQxXv0G
+
+start:44,&2523324722445682111,&3260,&GE"><link rel="alternate" media="only screen and (max-widt
+
+start:45,&2178414614013447871,&3284,&th: 640px)" href="http://
+
+start:46,&2607284768706385215,&3316,&/m.youtube.com/watch?v=s38vQxXv0G
+
+start:47,&6138398745743793599,&3336,&GE"><link rel="shortl
+
+start:48,&1704271199485890431,&3381,&link" href="http://youtu.be/s38vQxXv0GE">     
+
+start:49,&5716875347119304831,&3468,&  <meta name="title" content="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:50,&2721850432279446975,&3501,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:51,&7998819080531638335,&3586,&
+
+      <meta name="description" content="Training document http://goo.gl/5ecTw Update
+
+start:52,&4694227522280242239,&3647,&ed cleaning procedure http://www.youtube.com/watch?v=3fceVikYw
+
+start:53,&7797515817320063295,&3886,&w1o http://xmoddz.com/repair-consulting kingboflux.co...">
+
+      <meta name="keywords" content="reflow, reball, amtech, rrod, e74, e73, ylod, glod, Hakko, xbox 360 repair, ps3 repair, xbox 360 reflow, ps3 reflow, xbox 360 reball, ps3 rebal
+
+start:54,&2757742977321098879,&4184,&ll, kingbo flux...">
+
+      <link rel="alternate" href="android-app://com.google.android.youtube/http/youtube.com/watch/s38vQxXv0GE">
+
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds38vQxXv0GE&amp;forma
+
+start:55,&5716875347119304831,&4257,&at=json" title="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:56,&2721850432279446975,&4290,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:57,&2757742977321098879,&4441,&
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds38vQxXv0GE&amp;forma
+
+start:58,&5716875347119304831,&4513,&at=xml" title="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:59,&2721850432279446975,&4546,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:60,&2225097244184417599,&4578,&
+
+        <meta property="og:site
+
+start:61,&5617649271753020991,&4649,&e_name" content="YouTube">
+    <meta property="og:url" content="http://w
+
+start:62,&2607284768706385215,&4682,&www.youtube.com/watch?v=s38vQxXv0G
+
+start:63,&1704271199487594367,&4690,&GE">
+    
+
+start:64,&2225097244184416831,&4713,& <meta property="og:titl
+
+start:65,&5716875347119304831,&4783,&le" content="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:66,&2721850432279446975,&4816,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:67,&7998819080531638335,&5002,&
+    <meta property="og:image" content="https://i.ytimg.com/vi/s38vQxXv0GE/maxresdefault.jpg">
+
+      <meta property="og:description" content="Training document http://goo.gl/5ecTw Update
+
+start:68,&4694227522280242239,&5063,&ed cleaning procedure http://www.youtube.com/watch?v=3fceVikYw
+
+start:69,&5617668951565423999,&5291,&w1o http://xmoddz.com/repair-consulting kingboflux.co...">
+
+    <meta property="al:ios:app_store_id" content="544007664">
+    <meta property="al:ios:app_name" content="YouTube">
+      <meta property="al:ios:url" content="vnd.yout
+
+start:70,&2607284768706385215,&5331,&tube://www.youtube.com/watch?v=s38vQxXv0G
+
+start:71,&5617649271753020991,&5409,&GE&amp;feature=applinks">
+    <meta property="al:android:url" content="http://w
+
+start:72,&2607284768706385215,&5442,&www.youtube.com/watch?v=s38vQxXv0G
+
+start:73,&5617656852759989119,&5584,&GE&amp;feature=applinks">
+    <meta property="al:android:app_name" content="YouTube">
+    <meta property="al:android:package" content="com.goog
+
+start:74,&1436161025981923967,&5642,&gle.android.youtube">
+    <meta property="al:web:url" conte
+
+start:75,&5617649271753020991,&5654,&ent="http://w
+
+start:76,&2607284768706385215,&5687,&www.youtube.com/watch?v=s38vQxXv0G
+
+start:77,&8955856359852052479,&5722,&GE&amp;feature=applinks">
+
+    <meta
+
+start:78,&2225097244184416319,&5790,&a property="og:type" content="video">
+        <meta property="og:vide
+
+start:79,&5617649271753020991,&5810,&eo" content="http://w
+
+start:80,&8142716945806302527,&5839,&www.youtube.com/v/s38vQxXv0GE?
+
+start:81,&2225097244184416319,&5895,&?autohide=1&amp;version=3">
+      <meta property="og:vide
+
+start:82,&1483925221025665663,&5921,&eo:type" content="applicati
+
+start:83,&2225097244184416319,&5973,&ion/x-shockwave-flash">
+      <meta property="og:vide
+
+start:84,&2225097244184416319,&6027,&eo:width" content="1440">
+      <meta property="og:vide
+
+start:85,&2833735618890687615,&6190,&eo:height" content="1080">
+
+    <meta property="fb:app_id" content="87741124305">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site"
+
+start:86,&7842614701156091711,&6251,&" content="@youtube">
+    <meta name="twitter:url" content="ht
+
+start:87,&5617649271753020991,&6257,&ttp://w
+
+start:88,&2607284768706385215,&6290,&www.youtube.com/watch?v=s38vQxXv0G
+
+start:89,&1704271199487594367,&6298,&GE">
+    
+
+start:90,&2833735618891015295,&6323,& <meta name="twitter:title
+
+start:91,&5716875347119304831,&6392,&e" content="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:92,&2721850432279446975,&6425,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:93,&8884624822602201215,&6456,&
+    <meta name="twitter:descrip
+
+start:94,&7998819080531638335,&6515,&ption" content="Training document http://goo.gl/5ecTw Update
+
+start:95,&4694227522280242239,&6576,&ed cleaning procedure http://www.youtube.com/watch?v=3fceVikYw
+
+start:96,&981524296357872255,&6892,&w1o http://xmoddz.com/repair-consulting kingboflux.co...">
+    <meta name="twitter:image" content="https://i.ytimg.com/vi/s38vQxXv0GE/maxresdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" cont
+
+start:97,&7009077274910120447,&6894,&ten
+
+start:98,&3907775316172872447,&6943,&nt="YouTube">
+    <meta name="twitter:app:id:ipad"
+
+start:99,&5086534633413395135,&6956,&" content="544
+
+start:100,&5747946735795954943,&6978,&4007664">
+      <meta n
+
+start:101,&4155808663303379903,&6979,&na
+
+start:102,&7733311149147043967,&7002,&ame="twitter:app:url:iph
+
+start:103,&5617668951565423999,&7024,&hone" content="vnd.yout
+
+start:104,&2607284768706385215,&7064,&tube://www.youtube.com/watch?v=s38vQxXv0G
+
+start:105,&7733311149147043967,&7126,&GE&amp;feature=applinks">
+      <meta name="twitter:app:url:ipa
+
+start:106,&5617668951565423999,&7146,&ad" content="vnd.yout
+
+start:107,&2607284768706385215,&7186,&tube://www.youtube.com/watch?v=s38vQxXv0G
+
+start:108,&8976629235136414527,&7225,&GE&amp;feature=applinks">
+    <meta name
+
+start:109,&7279236250145438207,&7320,&e="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" co
+
+start:110,&5617656852759989119,&7335,&ontent="com.goog
+
+start:111,&2038680239668411263,&7403,&gle.android.youtube">
+    <meta name="twitter:app:url:googleplay" con
+
+start:112,&5617649271753020991,&7417,&ntent="http://w
+
+start:113,&2607284768706385215,&7450,&www.youtube.com/watch?v=s38vQxXv0G
+
+start:114,&1704271199487594367,&7458,&GE">
+    
+
+start:115,&5037010509634834111,&7467,&   <meta n
+
+start:116,&5449804580109943231,&7502,&name="twitter:player" content="https
+
+start:117,&3981723300135966463,&7527,&s://www.youtube.com/embed/
+
+start:118,&1704271199487594367,&7545,&/s38vQxXv0GE">
+    
+
+start:119,&5037010509634834111,&7554,&   <meta n
+
+start:120,&7885038338008997887,&7581,&name="twitter:player:width" 
+
+start:121,&7885038273516653823,&7637,& content="1440">
+      <meta name="twitter:player:height"
+
+start:122,&5789037870133874367,&7898,&" content="1080">
+
+      <meta name=attribution content=xboxhaxorz%2Buser/>  
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-pageframe-vflccmXBg.css" name="www-pageframe">
+        <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-watch-trans
+
+start:123,&9185448856890605439,&7903,&script
+
+start:124,&3245618103256940095,&7925,&t-vflp-Zp3x.css" name="
+
+start:125,&9185448856890605439,&7945,&"www-watch-transcript
+
+start:126,&233878219190104191,&7951,&t">
+
+<s
+
+start:127,&4184095118716360319,&8039,&script>if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}</script></head>    <body di
+
+start:128,&2956149728149453311,&8042,&ir="
+
+start:129,&6831251551440243391,&8125,&"ltr" class="  ltr       site-center-aligned site-as-giant-card appbar-hidden     no
+
+start:130,&4456811660987031231,&8272,&ot-nirvana-dogfood not-nirvana-playlist  not-watch8    delayed-frame-styles-not-in  " id="body">
+
+  <div id="early-body"></div>
+  <div id="body-cont
+
+start:131,&6024959566885947903,&8305,&tainer"><form name="logoutForm" me
+
+start:132,&8461125054551707967,&8435,&ethod="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id
+
+start:133,&8226928351439053823,&8455,&d="yt-masthead-contai
+
+start:134,&340484985407875839,&8473,&iner" class="yt-gri
+
+start:135,&7171297456843550079,&8489,&id-box yt-base-gu
+
+start:136,&5800910551517757567,&8530,&utter"><div id="yt-masthead" class=""><div
+
+start:137,&3465390091332296319,&8534,&v cla
+
+start:138,&6627969753226578879,&8610,&ass="yt-masthead-logo-container ">    <a id="logo-container" href="/" title="
+
+start:139,&2767927615331452863,&8716,&"YouTube home" class="     spf-link 
+"><img id="logo" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:140,&5556087569961720319,&8723,&" alt="Y
+
+start:141,&9020455720015000191,&8729,&YouTube
+
+start:142,&2940520857806877055,&8760,&e home"></a>
+  <div id="appbar-g
+
+start:143,&5462049340539437311,&8806,&guide-button-container">
+    <button class="yt-
+
+start:144,&8641374177047756863,&8811,&-uix-b
+
+start:145,&3978783427922221567,&8863,&button yt-uix-button-size-default yt-uix-button-text 
+
+start:146,&1248585470301460351,&8928,& yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle ap
+
+start:147,&3889477046655991039,&8935,&ppbar-gu
+
+start:148,&2524115773868178751,&9012,&uide-clickable-ancestor" type="button" onclick=";return false;" aria-controls=
+
+start:149,&4607656103959416639,&9079,&="appbar-guide-menu" id="appbar-guide-button" aria-label="Guide"><sp
+
+start:150,&2767927615331452863,&9175,&pan class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:151,&418958033910702335,&9245,&" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite" 
+
+start:152,&4971400092304732863,&9250,& alt="
+
+start:153,&8992497365497232959,&9268,&""></span><img src=
+
+start:154,&2767927615331452863,&9317,&="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:155,&2940520857806877055,&9394,&" class="yt-uix-button-arrow yt-sprite" alt=""></button>
+    <div id="appbar-g
+
+start:156,&2767927615331452863,&9509,&guide-button-notification-check" class="yt-valign">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:157,&366688924480479871,&9558,&" class="appbar-guide-notification-icon yt-valign-
+
+start:158,&3336950515468975359,&9564,&-conten
+
+start:159,&2940520857806877055,&9624,&nt yt-sprite" alt="">
+    </div>
+  </div>
+  <div id="appbar-m
+
+start:160,&2591207690439299071,&9786,&main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a href="//www.youtube.com/upload" class="yt-uix
+
+start:161,&4716182246141677375,&9811,&x-button   yt-uix-sessionl
+
+start:162,&2448256024598517119,&9888,&link yt-uix-button-default yt-uix-button-size-default" data-sessionlink="featu
+
+start:163,&5563665188004540479,&9892,&ure=m
+
+start:164,&5462049340539437311,&10022,&mhsb&amp;ei=AiHhU-WDDcXz8Qag-4HICg" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-
+
+start:165,&8641374177047756863,&10027,&-uix-b
+
+start:166,&3005449211816056191,&10081,&button yt-uix-button-size-default yt-uix-button-primary
+
+start:167,&4202170927838589055,&10141,&y" type="button" onclick=";window.location.href=this.getAttri
+
+start:168,&6017736519801395519,&10289,&ibute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%
+
+start:169,&5654687100226595519,&10372,&%3Ffeature%3Dsign_in_button%26next%3D%252Fwatch%253Fv%253Ds38vQxXv0GE%26hl%3Den%26ap
+
+start:170,&8226928351439053823,&10550,&pp%3Ddesktop%26action_handle_signin%3Dtrue&amp;hl=en&amp;uilel=3&amp;service=youtube"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-conten
+
+start:171,&120151142970791231,&10579,&nt"><form id="masthead-search"
+
+start:172,&6936685840171544831,&10698,&" class="search-form consolidated-form" action="/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#
+
+start:173,&2111497033569187583,&10722,&#39;&#39;) return false;"
+
+start:174,&5462049340539437311,&10741,&"><button class="yt-
+
+start:175,&8641374177047756863,&10746,&-uix-b
+
+start:176,&2606278445762735103,&10873,&button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel(&#39
+
+start:177,&6936685840171544831,&10912,&9;masthead-search-term&#39;).value == &#
+
+start:178,&2111497033569187583,&10936,&#39;&#39;) return false; 
+
+start:179,&2097908938630327679,&10981,& _gel(&#39;masthead-search&#39;).submit(); ret
+
+start:180,&7797827232404696319,&11006,&turn false;;return true;" 
+
+start:181,&925089412641749823,&11116,& dir="ltr" id="search-btn" tabindex="2"><span class="yt-uix-button-content">Search </span></button><div id="mas
+
+start:182,&120151142970791231,&11129,&sthead-search-
+
+start:183,&120151142970791231,&11159,&-terms" class="masthead-search-
+
+start:184,&120151142970791231,&11217,&-terms-border" dir="ltr"><label><input id="masthead-search-
+
+start:185,&4383699597068513087,&11394,&-term" autocomplete="off"  class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"></label></div></form></div></div></div>
+
+start:186,&6794861368167187391,&11401,&>
+    <d
+
+start:187,&4383699597068513087,&11530,&div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+start:188,&7334401391632587327,&11585,&>
+
+</div><div id="masthead-positioner-height-offset"></d
+
+start:189,&551836340928375167,&11604,&div><div id="page-co
+
+start:190,&4452873197652762303,&11606,&ont
+
+start:191,&7348834847035006079,&11725,&tainer"><div id="page" class="  watch      watch-non-stage-mode   clearfix"><div id="guide" class="yt-scrollbar">    <di
+
+start:192,&2940520857806877055,&11739,&iv id="appbar-g
+
+start:193,&9085319941245491903,&11862,&guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+    <div id="guide-container">
+   
+
+start:194,&2767927615331452863,&12018,&    <div class="guide-module-content guide-module-loading">
+          <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:195,&7413853918280373823,&12164,&" class="yt-spinner-img yt-sprite" alt="Loading icon">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      </div>
+    </div
+
+start:196,&5574048122312079807,&12240,&v>
+  </div>
+
+</div><div id="alerts" class="content-alignment">      
+
+
+
+</div
+
+start:197,&2940504451316692351,&12363,&v><div id="header"></div><div id="player" class="      watch-small  "><div id="theater-background"></div>  <div id="player-m
+
+start:198,&2940504451316692351,&12401,&mole-container">
+
+    <div id="player-u
+
+start:199,&2767927615331452863,&12566,&unavailable" class="    hid    player-width player-height    player-unavailable ">
+              <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:200,&3967518063873366655,&12629,&" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt="">
+ 
+
+start:201,&1611319511743853695,&12692,&  <div class="content">
+    <h1 id="unavailable-message" class="
+
+start:202,&2595395357995462911,&12795,&"message">
+            This video is unavailable.
+    </h1>
+    <div id="unavailable-submessage" class="
+
+start:203,&5230214036490437311,&12820,&"submessage">
+    </div>
+ 
+
+start:204,&2940504451316692351,&12865,&  </div>
+
+
+    </div>
+
+      <div id="player-a
+
+start:205,&1610462982336929087,&12881,&api" class="playe
+
+start:206,&795820807132771199,&12951,&er-width player-height off-screen-target player-api"></div>
+
+          
+
+start:207,&4651580810061756735,&12963,& <script>if (
+
+start:208,&9203472089392926463,&13255,&(window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"url_v8": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/cps.swf", "params": {"allowscriptaccess": "always", "bgcolor": "#000000", "allowfullscreen": "true"}, "st
+
+start:209,&8072871435276402175,&13311,&ts": 16283, "assets": {"html": "\/html5_player_template",
+
+start:210,&412758985394764543,&13393,&, "css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflEIIru4.css", "js": "\/\/s.yti
+
+start:211,&1545590315541064511,&13447,&img.com\/yts\/jsbin\/html5player-en_US-vflEyBLiy\/html5
+
+start:212,&2285923878667764095,&13489,&5player.js"}, "attrs": {"id": "movie_player
+
+start:213,&140885803116801535,&13596,&r"}, "url_v9as2": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/cps.swf", "args": {"ad_logging_flag
+
+start:214,&4603715955810952895,&13598,&g":
+
+start:215,&7762979778350166527,&13626,&: 1, "dash": "1", "tag_for_ch
+
+start:216,&8780001164901625279,&13826,&hild_directed": false, "dashmpd": "http:\/\/manifest.googlevideo.com\/api\/manifest\/dash\/source\/youtube\/ip\/140.180.255.5\/expire\/1407284578\/gcr\/us\/sparams\/as%2Ccmbypass%2Cgcr%2Cid%2Cip%2Cipbi
+
+start:217,&1565916538459006719,&13827,&it
+
+start:218,&5967426871187174719,&13898,&ts%2Citag%2Cplayback_host%2Csource%2Cexpire\/ipbits\/0\/cmbypass\/yes\/a
+
+start:219,&575759718064230911,&13931,&as\/fmp4_audio_clear%2Cwebm_audio_
+
+start:220,&2090652067554238591,&13974,&_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear
+
+start:221,&7794416305713864319,&14093,&r%2Cwebm2_sd_hd_clear\/mws\/yes\/signature\/9D39FFEF1A3F05FF5D44CF6224803C88707BE5.99D4D9FDE89BEB12B905F922F0C2782BA0DCA
+
+start:222,&6114100295601177983,&14132,&A133\/mm\/31\/playback_host\/r4---sn-mv-
+
+start:223,&5657387761386074047,&14341,&-ab5e.googlevideo.com\/upn\/mWOcl4YhU88\/key\/yt5\/id\/o-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E\/mt\/1407262843\/itag\/0\/sver\/3\/mv\/m\/fexp\/900504%2C900825%2C902408%2C902547%2C902904%2C908582%2C927622
+
+start:224,&3761543598624395839,&14349,&2%2C93402
+
+start:225,&9132931435165263615,&14470,&24%2C934030%2C936928%2C946023\/ms\/au", "max_dynamic_allocation_ad_tag_length": 2040, "no_get_video_log": "1", "adsense_vi
+
+start:226,&4771266360526283007,&14759,&ideo_doc_id": "yt_s38vQxXv0GE", "csi_page_type": "watch,watch7ad", "keywords": "yt:crop=16:9,reflow,reball,amtech,rrod,e74,e73,ylod,glod,Hakko,xbox 360 repair,ps3 repair,xbox 360 reflow,ps3 reflow,xbox 360 reball,ps3 reball,kingbo flux,bga rework,bga cleaning,soldering,wide soldering tip,f
+
+start:227,&1105756774447701631,&14883,&flux,solder cleaning,lead solder,lead free solder,no clean flux,rma flux,liquid flux,paste flux,tacky flux,hakko fx,hakko sol
+
+start:228,&1956275642079497023,&14918,&ldering,jbc solder,bga repair,bga si
+
+start:229,&1527720241630278207,&14953,&ite cleaning,bga clean,achi ir pro,s
+
+start:230,&8115953479936680063,&15127,&scotle,LY IR6000,kester flux,Ball Grid Array", "c": "WEB", "tmi": "1", "iv3_module": "1", "t": "1", "ad_channel_code_instream": "yt_mpvid_-KOVIbqanHqRUG2N,yt_cid_1136964,ivp,y
+
+start:231,&1198713211025644031,&15175,&yt_no_ap,ytdevice_1,yt_no_cp,afv_user_id_eHJLY9R3
+
+start:232,&7187595286925613119,&15242,&31gCdBO38G68VCw,afv_user_xboxhaxorz,ytel_detailpage,ytps_default,Ver
+
+start:233,&8415927594752871807,&15257,&rtical_11,afv_in
+
+start:234,&3092853303194494079,&15273,&nstream,afv_instr
+
+start:235,&297600056178397311,&15278,&ream_u
+
+start:236,&6438036697363126207,&15302,&us", "loeid": "900504,900
+
+start:237,&6836230130992620927,&15309,&0825,902
+
+start:238,&5107159678364879231,&15474,&2547,902904,908582,936928,946023", "midroll_prefetch_size_html5": 1, "cc_module": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflU9nrpH\/subtitle_module.swf", "hl": "
+
+start:239,&2726793010370603071,&15485,&"en_US", "vi
+
+start:240,&8077045921457328703,&15597,&ideo_id": "s38vQxXv0GE", "enablecsi": "1", "cafe_experiment_id": "", "ad_slots": "0", "as_launched_in_country": "
+
+start:241,&2773151343817145215,&15621,&"1", "fmt_list": "22\/128
+
+start:242,&4954517695393717951,&15694,&80x720\/9\/0\/115,43\/640x360\/99\/0\/0,18\/640x360\/9\/0\/115,5\/320x240\
+
+start:243,&883897868465073023,&15700,&\/7\/0\
+
+start:244,&6582143422772176191,&15725,&\/0,36\/320x240\/99\/1\/0,
+
+start:245,&3673449653854746367,&16002,&,17\/176x144\/99\/1\/0", "ad_tag": "https:\/\/ad.doubleclick.net\/N4061\/pfadx\/com.ytpwatch.scitech\/main_1136964;kpeid=eHJLY9R31gCdBO38G68VCw;kpid=1136964;kpu=xboxhaxorz;kvid=s38vQxXv0GE;mpvid=-KOVIbqanHqRUG2N;ssl=1;sz=WIDTHxHEIGHT;afv=1;dc_output=xml_vast3;dc_yt=1;k2=11;k5=1
+
+start:246,&7215343757530994175,&16003,&11
+
+start:247,&1506654568950386623,&16010,&1;kclt=1
+
+start:248,&2296520592611963775,&16058,&1;kga=-1;kgg=-1;klg=en;ko=p;kr=F;kvlg=en;kvz=204;
+
+start:249,&4596078811479025023,&16068,&;nlfb=1;yt1
+
+start:250,&1312561320354825087,&16269,&1st=1;yt3pav=1;ytcat=28;ytdevice=1;ytexp=900504,900825,902547,902904,908582,936928,946023;yt_ec=5;yt_vrallowed=1;!c=1136964", "watermark": ",https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark
+
+start:251,&7103391858832279487,&16439,&k-vflHX6b6E.png,https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "ldpj": "-8", "afv_ad_tag": "http:\/\/googleads.g.doubleclick.net\/pagead\
+
+start:252,&7430630247666438207,&16468,&\/ads?ad_type=skippablevideo\u
+
+start:253,&4263313908641014527,&16532,&u0026client=ca-pub-6219811747049371\u0026description_url=http%3A%
+
+start:254,&5356904605758285951,&16595,&%2F%2Fwww.youtube.com%2Fvideo%2Fs38vQxXv0GE\u0026hl=en\u0026host
+
+start:255,&9098432823580733887,&16634,&t=ca-host-pub-8560383607216860\u0026ht_i
+
+start:256,&901798218200968255,&16738,&id=5128435\u0026loeid=900504,900825,902547,902904,908582,936928,946023\u0026max_ad_duration=15000\u0026ur
+
+start:257,&4132248480714688063,&16869,&rl=http%3A%2F%2Fwww.youtube.com%2Fvideo%2Fs38vQxXv0GE\u0026video_cpm=6000000\u0026ytdevice=1\u0026yt_pt=APb3F2_-4Jl5a9CFVVGYUOgDh2MH
+
+start:258,&1808705157425432255,&16880,&HVQOO-xLHa8X
+
+start:259,&9201892841503447743,&16922,&X_zGIUDpd5AbS2VicH61K_6o-R9JehKaJgkojfoZmRc
+
+start:260,&239522187868660735,&16992,&cOfsb7egkmeSkCA90kKA2DWYsK5Jc9ZqfjfVW_5rvMQuX-6Kic4wVm3vWBqmElIv4Gpp\u0
+
+start:261,&5939607829321462015,&17012,&0026channel=yt_mpvid_
+
+start:262,&1198713211025644031,&17109,&_-KOVIbqanHqRUG2N%2Byt_cid_1136964%2Bivp%2Byt_no_ap%2Bytdevice_1%2Byt_no_cp%2Bafv_user_id_eHJLY9R3
+
+start:263,&3592364337821257343,&17128,&31gCdBO38G68VCw%2Baf
+
+start:264,&5963801379879708223,&17129,&fv
+
+start:265,&4171336620400801343,&17274,&v_user_xboxhaxorz%2Bytel_detailpage%2Bytps_default%2BVertical_11%2Bafv_instream%2Bafv_instream_us", "enablejsapi": 1, "afv_video_min_cpm": 6000000
+
+start:266,&6376279166027401599,&17310,&0, "dclk": true, "ad_flags": 0, "time
+
+start:267,&5305536191105787263,&17376,&estamp": 1407262978, "eventid": "AiHhU-WDDcXz8Qag-4HICg", "url_enco
+
+start:268,&7524255538168385407,&17460,&oded_fmt_stream_map": "url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:269,&3694493433953553279,&17555,&ack%3Fsource%3Dyoutube%26ip%3D140.180.255.5%26expire%3D1407284578%26sparams%3Did%252Cip%252Cipbi
+
+start:270,&5915643676148754559,&17583,&its%252Citag%252Cratebypass%2
+
+start:271,&8618961141702511871,&17633,&252Csource%252Cupn%252Cexpire%26ipbits%3D0%26mws%3D
+
+start:272,&6475322263158489983,&17646,&Dyes%26signatu
+
+start:273,&3062287696140032319,&17839,&ure%3DD0AC488B70D8311E6F01CBE4409697CF1BCF559C.526FBAA9EE40AF1466E7A648C91848A33072870E%26mm%3D31%26upn%3Dof0mRF3-s1o%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26mt%3D140
+
+start:274,&4910391765530150207,&17906,&07262843%26ratebypass%3Dyes%26itag%3D22%26sver%3D3%26mv%3Dm%26fexp%3
+
+start:275,&4619605744127750335,&17930,&3D900504%252C900825%252C9
+
+start:276,&3303385148694094271,&17935,&902408
+
+start:277,&416715496237308351,&17970,&8%252C902547%252C902904%252C908582%2
+
+start:278,&5192976881642025151,&17974,&252C9
+
+start:279,&3699987284558690943,&17999,&927622%252C934024%252C9340
+
+start:280,&2206354146396407423,&18037,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:281,&7524255538168385407,&18241,&026itag=22\u0026fallback_host=tc.v2.cache6.googlevideo.com\u0026quality=hd720\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.64001F%2C+mp4a.40.2%22,url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:282,&3694493433953553279,&18336,&ack%3Fsource%3Dyoutube%26ip%3D140.180.255.5%26expire%3D1407284578%26sparams%3Did%252Cip%252Cipbi
+
+start:283,&5915643676148754559,&18364,&its%252Citag%252Cratebypass%2
+
+start:284,&8618961141702511871,&18414,&252Csource%252Cupn%252Cexpire%26ipbits%3D0%26mws%3D
+
+start:285,&6475322263158489983,&18427,&Dyes%26signatu
+
+start:286,&2379587405139832063,&18436,&ure%3D6EF0
+
+start:287,&954007580646702399,&18467,&0B8789B78C97170FAFAE092790FFBBA7
+
+start:288,&8300419119544879871,&18475,&7A8F09.06
+
+start:289,&3062287696140032319,&18620,&653DA4F35397EB54E0FDC2F4EBEFD52081CD02E%26mm%3D31%26upn%3Dof0mRF3-s1o%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26mt%3D140
+
+start:290,&5656533839203944639,&18674,&07262843%26ratebypass%3Dyes%26itag%3D43%26sver%3D3%26mv
+
+start:291,&4910391765530150207,&18687,&v%3Dm%26fexp%3
+
+start:292,&4619605744127750335,&18711,&3D900504%252C900825%252C9
+
+start:293,&3303385148694094271,&18716,&902408
+
+start:294,&416715496237308351,&18751,&8%252C902547%252C902904%252C908582%2
+
+start:295,&5192976881642025151,&18755,&252C9
+
+start:296,&3699987284558690943,&18780,&927622%252C934024%252C9340
+
+start:297,&2206354146396407423,&18818,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:298,&6841452024869921663,&18858,&026itag=43\u0026fallback_host=tc.v17.cach
+
+start:299,&7524255538168385407,&19016,&he5.googlevideo.com\u0026quality=medium\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22,url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:300,&3694493433953553279,&19111,&ack%3Fsource%3Dyoutube%26ip%3D140.180.255.5%26expire%3D1407284578%26sparams%3Did%252Cip%252Cipbi
+
+start:301,&5915643676148754559,&19139,&its%252Citag%252Cratebypass%2
+
+start:302,&8618961141702511871,&19189,&252Csource%252Cupn%252Cexpire%26ipbits%3D0%26mws%3D
+
+start:303,&6475322263158489983,&19202,&Dyes%26signatu
+
+start:304,&3062287696140032319,&19393,&ure%3D2B64153F8CE84F75A1075F185CA17604B1237C0C.B687C2F4995E16F7E27FFBC98B0283A4C57BB7%26mm%3D31%26upn%3Dof0mRF3-s1o%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26mt%3D140
+
+start:305,&4910391765530150207,&19460,&07262843%26ratebypass%3Dyes%26itag%3D18%26sver%3D3%26mv%3Dm%26fexp%3
+
+start:306,&4619605744127750335,&19484,&3D900504%252C900825%252C9
+
+start:307,&3303385148694094271,&19489,&902408
+
+start:308,&416715496237308351,&19524,&8%252C902547%252C902904%252C908582%2
+
+start:309,&5192976881642025151,&19528,&252C9
+
+start:310,&3699987284558690943,&19553,&927622%252C934024%252C9340
+
+start:311,&2206354146396407423,&19591,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:312,&7524255538168385407,&19796,&026itag=18\u0026fallback_host=tc.v5.cache1.googlevideo.com\u0026quality=medium\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22,url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:313,&3694493433953553279,&19891,&ack%3Fsource%3Dyoutube%26ip%3D140.180.255.5%26expire%3D1407284578%26sparams%3Did%252Cip%252Cipbi
+
+start:314,&8618961141702511871,&19954,&its%252Citag%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26mws%3D
+
+start:315,&6475322263158489983,&19967,&Dyes%26signatu
+
+start:316,&8891201805459258239,&19983,&ure%3DD2A880B609C
+
+start:317,&3062287696140032319,&20160,&C054BABDBE3C96A33A40C955D76D87.2875F2730EB4BA634AD7DA5BB577ED40CFB39A4D%26mm%3D31%26upn%3Dof0mRF3-s1o%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26mt%3D140
+
+start:318,&4910391765530150207,&20207,&07262843%26itag%3D5%26sver%3D3%26mv%3Dm%26fexp%3
+
+start:319,&4619605744127750335,&20231,&3D900504%252C900825%252C9
+
+start:320,&3303385148694094271,&20236,&902408
+
+start:321,&416715496237308351,&20271,&8%252C902547%252C902904%252C908582%2
+
+start:322,&5192976881642025151,&20275,&252C9
+
+start:323,&3699987284558690943,&20300,&927622%252C934024%252C9340
+
+start:324,&2206354146396407423,&20338,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:325,&7524255538168385407,&20500,&026itag=5\u0026fallback_host=tc.v9.cache3.googlevideo.com\u0026quality=small\u0026type=video%2Fx-flv,url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:326,&3694493433953553279,&20595,&ack%3Fsource%3Dyoutube%26ip%3D140.180.255.5%26expire%3D1407284578%26sparams%3Did%252Cip%252Cipbi
+
+start:327,&8618961141702511871,&20658,&its%252Citag%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26mws%3D
+
+start:328,&6475322263158489983,&20671,&Dyes%26signatu
+
+start:329,&3389463210006089279,&20752,&ure%3D66130CD648114050E9BACE04CC1A30B8A9591305.2D13152418750A0FE32CE5895CB8B33E315
+
+start:330,&5503889707159010431,&20761,&5F6D01%26m
+
+start:331,&112567320361976319,&20767,&mm%3D31
+
+start:332,&3062287696140032319,&20864,&1%26upn%3Dof0mRF3-s1o%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26mt%3D140
+
+start:333,&4910391765530150207,&20912,&07262843%26itag%3D36%26sver%3D3%26mv%3Dm%26fexp%3
+
+start:334,&4619605744127750335,&20936,&3D900504%252C900825%252C9
+
+start:335,&3303385148694094271,&20941,&902408
+
+start:336,&416715496237308351,&20976,&8%252C902547%252C902904%252C908582%2
+
+start:337,&5192976881642025151,&20980,&252C9
+
+start:338,&3699987284558690943,&21005,&927622%252C934024%252C9340
+
+start:339,&2206354146396407423,&21043,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:340,&7524255538168385407,&21246,&026itag=36\u0026fallback_host=tc.v3.cache8.googlevideo.com\u0026quality=small\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22,url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:341,&3694493433953553279,&21341,&ack%3Fsource%3Dyoutube%26ip%3D140.180.255.5%26expire%3D1407284578%26sparams%3Did%252Cip%252Cipbi
+
+start:342,&8618961141702511871,&21404,&its%252Citag%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26mws%3D
+
+start:343,&6475322263158489983,&21417,&Dyes%26signatu
+
+start:344,&6074805647241570431,&21508,&ure%3D5096B6AC7C938F197A4A42D62F7DA42C83CFC843.52E7942A56C5DC7BBB536B6C69805B2F12E6CC10%26mm
+
+start:345,&3062287696140032319,&21610,&m%3D31%26upn%3Dof0mRF3-s1o%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26mt%3D140
+
+start:346,&4910391765530150207,&21658,&07262843%26itag%3D17%26sver%3D3%26mv%3Dm%26fexp%3
+
+start:347,&4619605744127750335,&21682,&3D900504%252C900825%252C9
+
+start:348,&3303385148694094271,&21687,&902408
+
+start:349,&416715496237308351,&21722,&8%252C902547%252C902904%252C908582%2
+
+start:350,&5192976881642025151,&21726,&252C9
+
+start:351,&3699987284558690943,&21751,&927622%252C934024%252C9340
+
+start:352,&2206354146396407423,&21789,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:353,&6841452020608508799,&21829,&026itag=17\u0026fallback_host=tc.v21.cach
+
+start:354,&6701687871453941631,&22025,&he8.googlevideo.com\u0026quality=small\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22", "host_language": "en", "ptchn": "eHJLY9R31gCdBO38G68VCw", "cut_ad_for_ypc": false, "adaptive
+
+start:355,&8207795205322834495,&22080,&e_fmts": "bitrate=4168925\u0026lmt=1394282499649837\u002
+
+start:356,&4864673511531717567,&22088,&26index=7
+
+start:357,&5197914742984555263,&22130,&711-2998\u0026clen=378566589\u0026type=vide
+
+start:358,&7524255538168385407,&22235,&eo%2Fmp4%3B+codecs%3D%22avc1.640028%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:359,&4140214904171874303,&22283,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:360,&8686469645032882111,&22285,&072
+
+start:361,&3694493433953553279,&22387,&284578%26clen%3D378566589%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:362,&6475322263158489983,&22458,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:363,&3580400182145398783,&22494,&ure%3DF6BF1907CEA03BFEFFF7ADB071DB61B
+
+start:364,&4608510333847054527,&22527,&B5BE180DAF.A64F30CC3C2D5CDF573E953
+
+start:365,&6421473757375309887,&22651,&3F6773BFE25A45FBF4%26mm%3D31%26lmt%3D1394282499649837%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:366,&3062283280913652031,&22656,&%3D140
+
+start:367,&8026234332825831103,&22714,&0.180.255.5%26dur%3D939.773%26mt%3D1407262843%26itag%3D137%
+
+start:368,&7166520975238997247,&22752,&%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:369,&4619605744127750335,&22777,&%3D900504%252C900825%252C9
+
+start:370,&3303385148694094271,&22782,&902408
+
+start:371,&416715496237308351,&22817,&8%252C902547%252C902904%252C908582%2
+
+start:372,&5192976881642025151,&22821,&252C9
+
+start:373,&3699987284558690943,&22846,&927622%252C934024%252C9340
+
+start:374,&2206354146396407423,&22884,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:375,&3738331275303574975,&22952,&026itag=137\u0026size=1440x1080\u0026init=0-710,bitrate=2443989\u0026
+
+start:376,&8348442211496109183,&23002,&6lmt=1396060624206159\u0026index=235-3595\u0026clen
+
+start:377,&1459271831041388607,&23012,&n=226665673
+
+start:378,&7524255538168385407,&23125,&3\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:379,&4140214904171874303,&23173,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:380,&8686469645032882111,&23175,&072
+
+start:381,&3694493433953553279,&23277,&284578%26clen%3D226665673%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:382,&6475322263158489983,&23348,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:383,&4633692658168430143,&23375,&ure%3D250169A0D5081A5990E5E1
+
+start:384,&7745531555296122559,&23446,&1D3E1E70FD8DEFCA746.6E76665C8EFEF243B95B8F6573A0D5749DF1B4E2%26mm%3D31%2
+
+start:385,&6421473757375309887,&23541,&26lmt%3D1396060624206159%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:386,&3062283280913652031,&23546,&%3D140
+
+start:387,&7166520975238997247,&23642,&0.180.255.5%26dur%3D939.772%26mt%3D1407262843%26itag%3D248%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:388,&4619605744127750335,&23667,&%3D900504%252C900825%252C9
+
+start:389,&3303385148694094271,&23672,&902408
+
+start:390,&416715496237308351,&23707,&8%252C902547%252C902904%252C908582%2
+
+start:391,&5192976881642025151,&23711,&252C9
+
+start:392,&3699987284558690943,&23736,&927622%252C934024%252C9340
+
+start:393,&2206354146396407423,&23774,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:394,&1331589306314469887,&23846,&026itag=248\u0026size=1440x1080\u0026init=0-234,bitrate=2245293\u0026lmt=
+
+start:395,&5555349780230347711,&23848,&=13
+
+start:396,&8622724502367764991,&23884,&394282409512107\u0026index=709-2996\u
+
+start:397,&7524255538168385407,&24022,&u0026clen=175026039\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:398,&4140214904171874303,&24070,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:399,&8686469645032882111,&24072,&072
+
+start:400,&764031113246392703,&24112,&284578%26clen%3D175026039%26ipbits%3D0%26
+
+start:401,&3694493433953553279,&24174,&6mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:402,&6475322263158489983,&24245,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:403,&6205186708417123519,&24291,&ure%3D6B85C821377FB3989BE0E357DD644214B58E25A0.
+
+start:404,&6421473757375309887,&24438,&.4F86DD2043C818C20B7736CEA93E40EDB3B48EF5%26mm%3D31%26lmt%3D1394282409512107%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:405,&3062283280913652031,&24443,&%3D140
+
+start:406,&8026234332825831103,&24501,&0.180.255.5%26dur%3D939.773%26mt%3D1407262843%26itag%3D136%
+
+start:407,&7166520975238997247,&24539,&%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:408,&4619605744127750335,&24564,&%3D900504%252C900825%252C9
+
+start:409,&3303385148694094271,&24569,&902408
+
+start:410,&416715496237308351,&24604,&8%252C902547%252C902904%252C908582%2
+
+start:411,&5192976881642025151,&24608,&252C9
+
+start:412,&3699987284558690943,&24633,&927622%252C934024%252C9340
+
+start:413,&2206354146396407423,&24671,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:414,&6346671269911326527,&24694,&026itag=136\u0026size=96
+
+start:415,&7030540115957673663,&24796,&60x720\u0026init=0-708,bitrate=1206692\u0026lmt=1396060579862739\u0026index=235-3579\u0026clen=11289821
+
+start:416,&7524255538168385407,&24910,&17\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:417,&4140214904171874303,&24958,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:418,&8686469645032882111,&24960,&072
+
+start:419,&6995993106717810879,&25001,&284578%26clen%3D112898217%26ipbits%3D0%26m
+
+start:420,&3694493433953553279,&25062,&mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:421,&6475322263158489983,&25133,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:422,&9179431795417414527,&25149,&ure%3DD6A8BE06054
+
+start:423,&788370431658291199,&25197,&4206E633D64A59169FD4222BF31D36.9FBC2841EA89DAFE6A
+
+start:424,&6244356685899533823,&25213,&A1AA2122663486F43
+
+start:425,&6421473757375309887,&25326,&32D8FFB%26mm%3D31%26lmt%3D1396060579862739%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:426,&3062283280913652031,&25331,&%3D140
+
+start:427,&7166520975238997247,&25427,&0.180.255.5%26dur%3D939.772%26mt%3D1407262843%26itag%3D247%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:428,&4619605744127750335,&25452,&%3D900504%252C900825%252C9
+
+start:429,&3303385148694094271,&25457,&902408
+
+start:430,&416715496237308351,&25492,&8%252C902547%252C902904%252C908582%2
+
+start:431,&5192976881642025151,&25496,&252C9
+
+start:432,&3699987284558690943,&25521,&927622%252C934024%252C9340
+
+start:433,&2206354146396407423,&25559,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:434,&7524255538168385407,&25804,&026itag=247\u0026size=960x720\u0026init=0-234,bitrate=1124921\u0026lmt=1394282419512977\u0026index=708-2995\u0026clen=88930591\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:435,&4140214904171874303,&25852,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:436,&8686469645032882111,&25854,&072
+
+start:437,&3694493433953553279,&25955,&284578%26clen%3D88930591%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:438,&6475322263158489983,&26026,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:439,&4483652644796997183,&26108,&ure%3D6BCE5EE9A3EF7156892C0870BD6E12B60C19BE04.C7B6EC0E5A76A50EA3BE3AD027315B57F3BB
+
+start:440,&404882215105419455,&26111,&B0B6
+
+start:441,&6421473757375309887,&26219,&67%26mm%3D31%26lmt%3D1394282419512977%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:442,&3062283280913652031,&26224,&%3D140
+
+start:443,&8026234332825831103,&26282,&0.180.255.5%26dur%3D939.773%26mt%3D1407262843%26itag%3D135%
+
+start:444,&7166520975238997247,&26320,&%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:445,&4619605744127750335,&26345,&%3D900504%252C900825%252C9
+
+start:446,&3303385148694094271,&26350,&902408
+
+start:447,&416715496237308351,&26385,&8%252C902547%252C902904%252C908582%2
+
+start:448,&5192976881642025151,&26389,&252C9
+
+start:449,&3699987284558690943,&26414,&927622%252C934024%252C9340
+
+start:450,&2206354146396407423,&26452,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:451,&7524255538168385407,&26689,&026itag=135\u0026size=640x480\u0026init=0-707,bitrate=659316\u0026lmt=1396060536645718\u0026index=235-3557\u0026clen=61329011\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:452,&4140214904171874303,&26737,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:453,&8686469645032882111,&26739,&072
+
+start:454,&3694493433953553279,&26840,&284578%26clen%3D61329011%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:455,&6475322263158489983,&26911,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:456,&1018277441659427199,&26998,&ure%3D57BA805FE9907CDFB37AAAF183FA2C0C4EB8AF54.AAD45BE570794552621924304B545551F0E9D190%
+
+start:457,&6421473757375309887,&27104,&%26mm%3D31%26lmt%3D1396060536645718%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:458,&3062283280913652031,&27109,&%3D140
+
+start:459,&7166520975238997247,&27205,&0.180.255.5%26dur%3D939.772%26mt%3D1407262843%26itag%3D244%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:460,&4619605744127750335,&27230,&%3D900504%252C900825%252C9
+
+start:461,&3303385148694094271,&27235,&902408
+
+start:462,&416715496237308351,&27270,&8%252C902547%252C902904%252C908582%2
+
+start:463,&5192976881642025151,&27274,&252C9
+
+start:464,&3699987284558690943,&27299,&927622%252C934024%252C9340
+
+start:465,&2206354146396407423,&27337,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:466,&8622724502367764991,&27444,&026itag=244\u0026size=640x480\u0026init=0-234,bitrate=608326\u0026lmt=1394282386540520\u0026index=709-2996\u
+
+start:467,&7524255538168385407,&27581,&u0026clen=41131330\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:468,&4140214904171874303,&27629,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:469,&8686469645032882111,&27631,&072
+
+start:470,&4972122266559298495,&27666,&284578%26clen%3D41131330%26ipbits%3D
+
+start:471,&3694493433953553279,&27732,&D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:472,&6475322263158489983,&27803,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:473,&6421473757375309887,&27996,&ure%3D90987690243128CF41D73C1096B76DCC5661B56E.4D1972F6DCAFFD17590A2BF60CC5177601A72CB5%26mm%3D31%26lmt%3D1394282386540520%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:474,&3062283280913652031,&28001,&%3D140
+
+start:475,&8026234332825831103,&28059,&0.180.255.5%26dur%3D939.773%26mt%3D1407262843%26itag%3D134%
+
+start:476,&7166520975238997247,&28097,&%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:477,&4619605744127750335,&28122,&%3D900504%252C900825%252C9
+
+start:478,&3303385148694094271,&28127,&902408
+
+start:479,&416715496237308351,&28162,&8%252C902547%252C902904%252C908582%2
+
+start:480,&5192976881642025151,&28166,&252C9
+
+start:481,&3699987284558690943,&28191,&927622%252C934024%252C9340
+
+start:482,&2206354146396407423,&28229,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:483,&2174828921426852415,&28329,&026itag=134\u0026size=480x360\u0026init=0-708,bitrate=322597\u0026lmt=1396060503652544\u0026index=235
+
+start:484,&1459259706231271999,&28354,&5-3503\u0026clen=29116763\
+
+start:485,&7524255538168385407,&28466,&\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:486,&4140214904171874303,&28514,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:487,&8686469645032882111,&28516,&072
+
+start:488,&3694493433953553279,&28617,&284578%26clen%3D29116763%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:489,&6475322263158489983,&28688,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:490,&3196705253136339135,&28737,&ure%3D94225B0C6920F8D30C4268F19B6CC095817415A1.7A5
+
+start:491,&6421473757375309887,&28881,&544D32EE95D625004BCE36191EB316435EA01A%26mm%3D31%26lmt%3D1396060503652544%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:492,&3062283280913652031,&28886,&%3D140
+
+start:493,&5656533839203944639,&28959,&0.180.255.5%26dur%3D939.772%26mt%3D1407262843%26itag%3D243%26sver%3D3%26up
+
+start:494,&7166520975238997247,&28982,&pn%3DRWL37dobTl8%26fexp%
+
+start:495,&4619605744127750335,&29007,&%3D900504%252C900825%252C9
+
+start:496,&3303385148694094271,&29012,&902408
+
+start:497,&416715496237308351,&29047,&8%252C902547%252C902904%252C908582%2
+
+start:498,&5192976881642025151,&29051,&252C9
+
+start:499,&3699987284558690943,&29076,&927622%252C934024%252C9340
+
+start:500,&2206354146396407423,&29114,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:501,&2252637116313517887,&29206,&026itag=243\u0026size=480x360\u0026init=0-234,bitrate=250391\u0026lmt=1394282367934061\u0026i
+
+start:502,&1690526377174657983,&29208,&ind
+
+start:503,&3551244413314675007,&29227,&dex=672-2959\u0026cl
+
+start:504,&5891550411355364287,&29233,&len=287
+
+start:505,&7524255538168385407,&29358,&702947\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400d%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:506,&4140214904171874303,&29406,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:507,&8686469645032882111,&29408,&072
+
+start:508,&6995993106717810879,&29448,&284578%26clen%3D28702947%26ipbits%3D0%26m
+
+start:509,&3694493433953553279,&29509,&mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:510,&6475322263158489983,&29580,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:511,&2430431601648142783,&29699,&ure%3DB350BAF9043139908EDC7BDB8A9139A399BDCC21.743F9916821B80E9C15F3D255A5FF5B861763930%26mm%3D31%26lmt%3D13942823679340
+
+start:512,&6421473757375309887,&29773,&061%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:513,&3062283280913652031,&29778,&%3D140
+
+start:514,&8026234332825831103,&29836,&0.180.255.5%26dur%3D939.773%26mt%3D1407262843%26itag%3D133%
+
+start:515,&7166520975238997247,&29874,&%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:516,&4619605744127750335,&29899,&%3D900504%252C900825%252C9
+
+start:517,&3303385148694094271,&29904,&902408
+
+start:518,&416715496237308351,&29939,&8%252C902547%252C902904%252C908582%2
+
+start:519,&5192976881642025151,&29943,&252C9
+
+start:520,&3699987284558690943,&29968,&927622%252C934024%252C9340
+
+start:521,&2206354146396407423,&30006,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:522,&7802111126959054079,&30035,&026itag=133\u0026size=320x240\
+
+start:523,&4848180458892607,&30067,&\u0026init=0-671,bitrate=168733\u
+
+start:524,&8618711993624878079,&30073,&u0026lm
+
+start:525,&7524255538168385407,&30243,&mt=1396060492127328\u0026index=234-3419\u0026clen=15237634\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:526,&4140214904171874303,&30291,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:527,&8686469645032882111,&30293,&072
+
+start:528,&3694493433953553279,&30394,&284578%26clen%3D15237634%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:529,&6475322263158489983,&30465,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:530,&3089277259150830975,&30593,&ure%3D468ABA8A16EE7BD3AC501795B48C165AD4052095.47114878274EE82C348F68A96584721779A6CFBD%26mm%3D31%26lmt%3D1396060492127328%26key%
+
+start:531,&6421473757375309887,&30658,&%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:532,&3062283280913652031,&30663,&%3D140
+
+start:533,&7166520975238997247,&30759,&0.180.255.5%26dur%3D939.772%26mt%3D1407262843%26itag%3D242%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:534,&4619605744127750335,&30784,&%3D900504%252C900825%252C9
+
+start:535,&3303385148694094271,&30789,&902408
+
+start:536,&416715496237308351,&30824,&8%252C902547%252C902904%252C908582%2
+
+start:537,&5192976881642025151,&30828,&252C9
+
+start:538,&3699987284558690943,&30853,&927622%252C934024%252C9340
+
+start:539,&2206354146396407423,&30891,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:540,&7802111126959054079,&30920,&026itag=242\u0026size=320x240\
+
+start:541,&7203933707136593791,&30991,&\u0026init=0-233,bitrate=117901\u0026lmt=1394282367856619\u0026index=673
+
+start:542,&7030540124563857855,&31015,&3-2960\u0026clen=13306815
+
+start:543,&7524255538168385407,&31135,&5\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:544,&4140214904171874303,&31183,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:545,&8686469645032882111,&31185,&072
+
+start:546,&3694493433953553279,&31286,&284578%26clen%3D13306815%26ipbits%3D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:547,&6475322263158489983,&31357,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:548,&3762954329294132735,&31403,&ure%3DC9E9777CA4F2D1FAE005BCA2C2E958286BCB7566.
+
+start:549,&6421473757375309887,&31550,&.E5E8C6EE58B6515394043928B473C068DDBF5BBE%26mm%3D31%26lmt%3D1394282367856619%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:550,&3062283280913652031,&31555,&%3D140
+
+start:551,&7166520975238997247,&31651,&0.180.255.5%26dur%3D939.773%26mt%3D1407262843%26itag%3D160%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:552,&4619605744127750335,&31676,&%3D900504%252C900825%252C9
+
+start:553,&3303385148694094271,&31681,&902408
+
+start:554,&416715496237308351,&31716,&8%252C902547%252C902904%252C908582%2
+
+start:555,&5192976881642025151,&31720,&252C9
+
+start:556,&3699987284558690943,&31745,&927622%252C934024%252C9340
+
+start:557,&2206354146396407423,&31783,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:558,&7802108880724713471,&31812,&026itag=160\u0026size=192x144\
+
+start:559,&4683040496686502335,&31818,&\u0026i
+
+start:560,&4669959007943398143,&31901,&init=0-672,bitrate=128679\u0026lmt=1394282248249329\u0026index=592-1751\u0026clen=14
+
+start:561,&7524255538168385407,&32025,&4928397\u0026type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:562,&4140214904171874303,&32073,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:563,&8686469645032882111,&32075,&072
+
+start:564,&6995993106717810879,&32115,&284578%26clen%3D14928397%26ipbits%3D0%26m
+
+start:565,&3694493433953553279,&32176,&mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:566,&6475322263158489983,&32247,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:567,&9013286014927734911,&32263,&ure%3DD47C7B4E002
+
+start:568,&6421473757375309887,&32440,&2AE7FC2C7C7553582F468FDAE21008.10BAA8E28D3F2A8D0CF77A85B854F3AED9A42727%26mm%3D31%26lmt%3D1394282248249329%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:569,&3062283280913652031,&32445,&%3D140
+
+start:570,&5171099841881982207,&32515,&0.180.255.5%26dur%3D939.897%26mt%3D1407262843%26itag%3D140%26sver%3D3%2
+
+start:571,&7166520975238997247,&32541,&26upn%3DRWL37dobTl8%26fexp%
+
+start:572,&4619605744127750335,&32566,&%3D900504%252C900825%252C9
+
+start:573,&3303385148694094271,&32571,&902408
+
+start:574,&416715496237308351,&32606,&8%252C902547%252C902904%252C908582%2
+
+start:575,&5192976881642025151,&32610,&252C9
+
+start:576,&3699987284558690943,&32635,&927622%252C934024%252C9340
+
+start:577,&2206354146396407423,&32673,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:578,&1460112953057785151,&32781,&026itag=140\u0026init=0-591,bitrate=106027\u0026lmt=1396060427356712\u0026index=4452-6046\u0026clen=11736060\
+
+start:579,&5368584042745034815,&32795,&\u0026type=audi
+
+start:580,&7524255538168385407,&32896,&io%2Fwebm%3B+codecs%3D%22vorbis%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayba
+
+start:581,&4140214904171874303,&32944,&ack%3Fsource%3Dyoutube%26gir%3Dyes%26expire%3D140
+
+start:582,&8686469645032882111,&32946,&072
+
+start:583,&7994331421985098431,&32981,&284578%26clen%3D11736060%26ipbits%3D
+
+start:584,&3694493433953553279,&33047,&D0%26mv%3Dm%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbi
+
+start:585,&6475322263158489983,&33118,&its%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mws%3Dyes%26signatu
+
+start:586,&830300901160598591,&33183,&ure%3D07C2CC29263B8112205462FD8FA07662B71EF9E8.CC2312D7984E119E1FF
+
+start:587,&3806023216932954687,&33202,&FED9FBCC8A7144EEC1DB
+
+start:588,&6421473757375309887,&33311,&BBF%26mm%3D31%26lmt%3D1396060427356712%26key%3Dyt5%26id%3Do-AIu_GWvbCCGPsnmjZKg0Crrqz1e5EK5BW0hPXeFt7-6E%26ip%
+
+start:589,&3062283280913652031,&33316,&%3D140
+
+start:590,&7166520975238997247,&33412,&0.180.255.5%26dur%3D939.848%26mt%3D1407262843%26itag%3D171%26sver%3D3%26upn%3DRWL37dobTl8%26fexp%
+
+start:591,&4619605744127750335,&33437,&%3D900504%252C900825%252C9
+
+start:592,&3303385148694094271,&33442,&902408
+
+start:593,&416715496237308351,&33477,&8%252C902547%252C902904%252C908582%2
+
+start:594,&5192976881642025151,&33481,&252C9
+
+start:595,&3699987284558690943,&33506,&927622%252C934024%252C9340
+
+start:596,&2206354146396407423,&33544,&030%252C936928%252C946023%26ms%3Dau\u00
+
+start:597,&865968626208318591,&33666,&026itag=171\u0026init=0-4451", "iv_module": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflU9nrpH\/iv_module.swf", "ad_chan
+
+start:598,&1628168961923435775,&33670,&nnel_
+
+start:599,&8115953479936680063,&33732,&_code_overlay": "yt_mpvid_-KOVIbqanHqRUG2N,yt_cid_1136964,ivp,y
+
+start:600,&1198713211025644031,&33780,&yt_no_ap,ytdevice_1,yt_no_cp,afv_user_id_eHJLY9R3
+
+start:601,&7187595286925613119,&33847,&31gCdBO38G68VCw,afv_user_xboxhaxorz,ytel_detailpage,ytps_default,Ver
+
+start:602,&8415927594752871807,&33862,&rtical_11,afv_ov
+
+start:603,&968255833778088319,&33922,&verlay,invideo_overlay_480x70_cat28", "gut_tag": "\/4061\/ytp
+
+start:604,&9160306903273952511,&33924,&pwa
+
+start:605,&2583621840697444223,&33932,&atch\/mai
+
+start:606,&5162170066275994303,&33955,&in_1136964", "cr": "US",
+
+start:607,&1007374729995639167,&33981,&, "ad_eurl": "http:\/\/www.
+
+start:608,&9188774660870725759,&33986,&.youtu
+
+start:609,&4801914282335249471,&34057,&ube.com\/video\/s38vQxXv0GE", "ad_host_tier": "5128435", "cc_font": "Ari
+
+start:610,&5451923075975501695,&34190,&ial Unicode MS, arial, verdana, _sans", "length_seconds": 940, "ucid": "UCeHJLY9R31gCdBO38G68VCw", "atc": "a=3\u0026b=gVtQ1Q6tEUWab6y6
+
+start:611,&3252113340738472895,&34284,&6piVFZGM7I2I\u0026c=1407262978\u0026d=1\u0026e=s38vQxXv0GE\u0026c3a=11\u0026c1a=1\u0026hh=5aaZC
+
+start:612,&667225387368898303,&34307,&CDB1jY-cZ13uZFIBEgFnhDk"
+
+start:613,&2555946443469882111,&34369,&", "oid": "crj2M0rgHRWZx5IFXKJXUA", "idpj": "0", "loaderUrl": "
+
+start:614,&8895250833923990591,&34372,&"htt
+
+start:615,&987290565025137023,&34382,&tps:\/\/www
+
+start:616,&2607284768706385215,&34414,&w.youtube.com\/watch?v=s38vQxXv0G
+
+start:617,&7785846352678983807,&34448,&GE", "plid": "AAT_5fHsPmh__u6O", "i
+
+start:618,&8968174352505101183,&34467,&iv_invideo_url": "ht
+
+start:619,&987290565025137023,&34478,&ttps:\/\/www
+
+start:620,&7103391858832279487,&34699,&w.youtube.com\/annotations_invideo?cta=2\u0026video_id=s38vQxXv0GE", "ssl": 1, "sffb": true, "ad_video_pub_id": "ca-pub-6219811747049371", "afv_ad_tag_restricted_to_instream": "http:\/\/googleads.g.doubleclick.net\/pagead\
+
+start:621,&7430630247666438207,&34728,&\/ads?ad_type=skippablevideo\u
+
+start:622,&4263313908641014527,&34792,&u0026client=ca-pub-6219811747049371\u0026description_url=http%3A%
+
+start:623,&5356904605758285951,&34855,&%2F%2Fwww.youtube.com%2Fvideo%2Fs38vQxXv0GE\u0026hl=en\u0026host
+
+start:624,&9098432823580733887,&34894,&t=ca-host-pub-8560383607216860\u0026ht_i
+
+start:625,&901798218200968255,&34998,&id=5128435\u0026loeid=900504,900825,902547,902904,908582,936928,946023\u0026max_ad_duration=15000\u0026ur
+
+start:626,&4132248480714688063,&35129,&rl=http%3A%2F%2Fwww.youtube.com%2Fvideo%2Fs38vQxXv0GE\u0026video_cpm=6000000\u0026ytdevice=1\u0026yt_pt=APb3F2_-4Jl5a9CFVVGYUOgDh2MH
+
+start:627,&1808705157425432255,&35140,&HVQOO-xLHa8X
+
+start:628,&9201892841503447743,&35182,&X_zGIUDpd5AbS2VicH61K_6o-R9JehKaJgkojfoZmRc
+
+start:629,&239522187868660735,&35252,&cOfsb7egkmeSkCA90kKA2DWYsK5Jc9ZqfjfVW_5rvMQuX-6Kic4wVm3vWBqmElIv4Gpp\u0
+
+start:630,&5939607829321462015,&35272,&0026channel=yt_mpvid_
+
+start:631,&1198713211025644031,&35369,&_-KOVIbqanHqRUG2N%2Byt_cid_1136964%2Bivp%2Byt_no_ap%2Bytdevice_1%2Byt_no_cp%2Bafv_user_id_eHJLY9R3
+
+start:632,&3592364337821257343,&35388,&31gCdBO38G68VCw%2Baf
+
+start:633,&5963801379879708223,&35389,&fv
+
+start:634,&4008357188187994239,&35512,&v_user_xboxhaxorz%2Bytel_detailpage%2Bytps_default%2BVertical_11%2Bafv_instream%2Bafv_instream_us", "pyv_in_related_cafe_exp
+
+start:635,&8138970785425255231,&35551,&periment_id": "", "ad_device": 1, "cid":
+
+start:636,&2529610714140579519,&35715,&: 1136964, "account_playback_token": "QUFFLUhqa01iRFppUXd1RFRBZjNOVHlKYld5WGVtNm5QQXxBQ3Jtc0tsTUQ3QThRQ29aRExJZ3FnVU5KYURaTUUwY3kxRTdmdzc1SkdFVWdBV3BPdWhMeENOTk9MRVN
+
+start:637,&7005290356436640447,&35784,&NvcUZsS0JqNU1mamRCMExTTjk0ZUd5d1d3NTZybzhzRXdodWJiYkhmZmxyMHJMMFVRcFdM
+
+start:638,&987290565025137023,&35823,&MaXluNFB1VQ==", "ttsurl": "https:\/\/www
+
+start:639,&2367556115675029631,&35873,&w.youtube.com\/api\/timedtext?asr_langs=fr%2Cen%2Cj
+
+start:640,&3297413592215087103,&35883,&ja%2Cko%2Cd
+
+start:641,&2375250916369163903,&35925,&de%2Cpt%2Cnl%2Cit%2Cru%2Ces\u0026v=s38vQxXv
+
+start:642,&5782250545875376063,&35945,&v0GE\u0026expire=1407
+
+start:643,&1060274974553658879,&36058,&7288178\u0026key=yttt1\u0026hl=en_US\u0026caps=asr\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026signature=94D3F
+
+start:644,&5305600560954406207,&36139,&F56DF5DF57F7CDAF18BAB0DB3E8E076315CC.EDBAC40DD9A15CEC12812B869276D8D7A6B0B527", "a
+
+start:645,&6176569174899712255,&36169,&allowed_ads": [8, 1, 2, 10, 0],
+
+start:646,&5023711515101368895,&36306,&, "midroll_freqcap": 420.0, "mpu": true, "storyboard_spec": "https:\/\/i.ytimg.com\/sb\/s38vQxXv0GE\/storyboard3_L$L\/$N.jpg|48#27#100#10#
+
+start:647,&1144293482714967743,&36335,&#10#0#default#jaWpWaGoQouU0_bD
+
+start:648,&3642060835041553471,&36637,&Du-yItSaHdME|60#45#95#10#10#10000#M$M#KudoETkk84OqGIp6wVtzFlwpcwE|120#90#95#5#5#10000#M$M#7_WDPkgpF_jxGs7H_y-ARlLB56E|240#180#95#3#3#10000#M$M#V-dZJj1Qk5GcvsbbbV4y-iBbpm4", "invideo": true, "cc3_module": "1", "aftv": true, "iv_load_policy": 1, "trueview": true, "ad3_module": "1", "referrer": null, "dyn
+
+start:649,&5810287930144861183,&36979,&namic_allocation_ad_tag": "https:\/\/ad.doubleclick.net\/N4061\/pfadx\/com.ytpwatch.scitech\/main_1136964;kpeid=eHJLY9R31gCdBO38G68VCw;kpid=1136964;kpu=xboxhaxorz;kvid=s38vQxXv0GE;mpvid=-KOVIbqanHqRUG2N;ssl=1;sz=WIDTHxHEIGHT;afv=1;afvbase=eJxdkduSojAQhp9muJKpECCGCy48jHgY19VZUecmFUIUxkAiBMR5-o26tbW1qVT-_r90qivdNCX6pnhYn3OlaCJ4m6dcWkxWFRdUyyp0
+
+start:650,&7263697912528419839,&37055,&0PNCHCAZ97PahlYmQl1Ymax0yat_VVk1iYx8BF7vIpDoII2BlmuRp6DsQe65vCcmNCwDwgdczgqFv
+
+start:651,&8931291845581508095,&37082,&vBPpe_y7BA2Ifw17gogDiXuAhAF2
+
+start:652,&3833572021837767871,&37097,&2roB2hKUmbiupclq
+
+start:653,&8271151203898654207,&37113,&qGDfACssikMrUPH0k
+
+start:654,&2375455364232534079,&37144,&kTd2pB3TDQpt5pKhJnW6sUdvMCJ2dfr9
+
+start:655,&2244700174810551295,&37265,&9fUmG90k_JXJwpDH54zWLm7X3b4F0Zv1YISpIkTgsaybTk0bGDcVbqaEDgc_E3cCie3NhU-D0SSOo8N2dRpncDmN16uV3b1PKd6T72i2HavUHyQfMM7ZFDkLgq
+
+start:656,&1454399680550312255,&37282,&qS9CeY8W9D56Sy_jvK
+
+start:657,&5385366269431864127,&37291,&Kz2LDVsU76
+
+start:658,&4599699061398553983,&37358,&6_HQu-Md5NAjAeTGA492hXvhzFnxejl_HeEf8ql2um72NFjnzrnHhtrvhpXgTs9aLlLJ
+
+start:659,&5659020073543169727,&37496,&JYRsuSi3CZlyNVeBh0ffCL19p5gcOYVzpnVBDn7uixJXlZ64rT4j9LmvoPaWpemZERPp2_H4KN65xG6XDl4gjheHT9N6lLZJfRTlbfhuatMqdpEzNvHceMD3lPUCjTWWIvVvEsudBye
+
+start:660,&401035971908643775,&37527,&etlsI_jjeVdKQtXfkD3DZ9OJ8zBckJRr
+
+start:661,&195382015069111615,&37559,&rmgtFT_xBVG3IkTZC_wbRVeLa;dc_back
+
+start:662,&2362932206338536639,&37564,&kfill=
+
+start:663,&3673449653854746367,&37604,&=1;dc_output=xml_vast3;dc_yt=1;k2=11;k5=1
+
+start:664,&7215343757530994175,&37605,&11
+
+start:665,&1506654568950386623,&37612,&1;kclt=1
+
+start:666,&2296520592611963775,&37660,&1;kga=-1;kgg=-1;klg=en;ko=p;kr=F;kvlg=en;kvz=204;
+
+start:667,&4596078811479025023,&37670,&;nlfb=1;yt1
+
+start:668,&3552174639812649471,&37808,&1st=1;yt3pav=1;ytcat=28;ytdevice=1;ytexp=900504,900825,902547,902904,908582,936928,946023;yt_ec=5;yt_vrallowed=1;!c=1136964", "ad_preroll":
+
+start:669,&1689616387040331263,&37812,&: "1"
+
+start:670,&6836230130992620927,&37868,&", "ptk": "xboxhaxorz%2Buser", "fexp": "900504,900825,902
+
+start:671,&1334231069325944511,&37883,&2408,902547,9029
+
+start:672,&4013928701698921663,&37937,&904,908582,927622,934024,934030,936928,946023", "allow_
+
+start:673,&4132248480714688063,&37990,&_html5_ads": 1, "yt_pt": "APb3F2_-4Jl5a9CFVVGYUOgDh2MH
+
+start:674,&1808705157425432255,&38001,&HVQOO-xLHa8X
+
+start:675,&9201892841503447743,&38043,&X_zGIUDpd5AbS2VicH61K_6o-R9JehKaJgkojfoZmRc
+
+start:676,&6003204775251360063,&38147,&cOfsb7egkmeSkCA90kKA2DWYsK5Jc9ZqfjfVW_5rvMQuX-6Kic4wVm3vWBqmElIv4Gpp", "cc_asr": 1, "pltype": "content", 
+
+start:677,&2403744709834552767,&38211,& "mpvid": "-KOVIbqanHqRUG2N", "midroll_prefetch_size": 1, "afv_in
+
+start:678,&2593672953961049343,&38246,&nstream_max": 15000, "title": "BGA R
+
+start:679,&5716875347119304831,&38300,&Rework Cleaning Reballing \u0026 Reflowing Using Lead S
+
+start:680,&3363561962148123263,&38323,&Solder \u0026 Kingbo Flu
+
+start:681,&2721850432279446975,&38334,&ux XModdz", 
+
+start:682,&6441120979728444159,&38412,& "ad_host": "ca-host-pub-8560383607216860", "afv": true, "vq": "auto", "instrea
+
+start:683,&4024841986390269887,&38439,&am_long": false}, "url": "ht
+
+start:684,&5537596072882999999,&38582,&ttps:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/watch_as3.swf", "html5": false, "min_version": "8.0.0"};(function() {var encoded = [];for (
+
+start:685,&2091423361048620735,&38714,&(var key in ytplayer.config.args) {encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(ytplayer.config.args[key]));}var s
+
+start:686,&9079103593224619839,&38957,&swf = "      \u003cembed type=\"application\/x-shockwave-flash\"     s\u0072c=\"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/watch_as3.swf\"     name=\"movie_player\"     id=\"movie_player\"    flashvars=\"__flashvars__\"     allowscri
+
+start:687,&339775658827241279,&39081,&iptaccess=\"always\" bgcolor=\"#000000\" allowfullscreen=\"true\"\u003e\n  \u003cnoembed\u003e\u003cdiv class=\"yt-alert yt-a
+
+start:688,&2767927615331452863,&39254,&alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"https:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\
+
+start:689,&3984279683131091391,&39337,&\" class=\"icon master-sprite yt-sprite\" alt=\"\"\u003e\n  \u003c\/div\u003e\n\u003
+
+start:690,&1965165049440612287,&39340,&3cdi
+
+start:691,&4912233104649217151,&39455,&iv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u0
+
+start:692,&6052418474315626943,&39461,&003cspa
+
+start:693,&1241606908145498303,&39628,&an class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need Adobe Flash Player to watch this vide
+
+start:694,&255796225370586367,&39642,&eo. \u003cbr\u0
+
+start:695,&4680344941517693631,&39692,&003e \u003ca href=\"http:\/\/get.adobe.com\/flashpl
+
+start:696,&2582355561790798143,&39733,&layer\/\"\u003eDownload it from Adobe.\u00
+
+start:697,&3984279683131091391,&39774,&03c\/a\u003e\n    \u003c\/div\u003e\n\u003
+
+start:698,&1965165049440612287,&39777,&3c\/
+
+start:699,&431668782650752255,&39845,&/div\u003e\u003c\/div\u003e\u003c\/noembed\u003e\n\n";swf = swf.repla
+
+start:700,&7822985616268166847,&39954,&ace('__flashvars__', encoded.join('&'));document.getElementById("player-api").innerHTML = swf;ytplayer.config.
+
+start:701,&3270080555872285887,&40044,&.loaded = true}());</script>
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+<div id="conten
+
+start:702,&5121475948540903231,&40282,&nt" class="  content-alignment      yt-card
+">    <div id="watch7-container" class="">
+    <div id="watch7-main-container">
+      <div id="watch7-main" class="clearfix">
+        <div id="watch7-content" class="watch-content " itemscope ite
+
+start:703,&6034042267992262015,&40312,&emid="" itemtype="http://schema
+
+start:704,&5670080655648694527,&40323,&a.org/VideoO
+
+start:705,&5710471972745932863,&40341,&Object"
+        >
+ 
+
+start:706,&2607284768706385215,&40422,&              <link itemprop="url" href="http://www.youtube.com/watch?v=s38vQxXv0G
+
+start:707,&1704271199487594367,&40430,&GE">
+    
+
+start:708,&5716875347119304831,&40519,& <meta itemprop="name" content="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:709,&2721850432279446975,&40552,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:710,&7998819080531638335,&40638,&
+    <meta itemprop="description" content="Training document http://goo.gl/5ecTw Update
+
+start:711,&4694227522280242239,&40699,&ed cleaning procedure http://www.youtube.com/watch?v=3fceVikYw
+
+start:712,&4352731231242252543,&40838,&w1o http://xmoddz.com/repair-consulting kingboflux.co...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" cont
+
+start:713,&1704271199487599999,&40928,&tent="UCeHJLY9R31gCdBO38G68VCw">
+      <meta itemprop="videoId" content="s38vQxXv0GE">
+
+   
+
+start:714,&6034042267992262015,&41092,&    <meta itemprop="duration" content="PT15M40S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema
+
+start:715,&7453794040381678975,&41184,&a.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/xboxhaxorz">
+
+
+start:716,&6034042267992262015,&41265,&
+        </span>
+        <span itemprop="author" itemscope itemtype="http://schema
+
+start:717,&5966503622797288895,&41360,&a.org/Person">
+          <link itemprop="url" href="https://plus.google.com/10215304721943206712
+
+start:718,&591369532784196351,&41361,&24
+
+start:719,&6425391171671789311,&41436,&4">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="https://i.ytimg
+
+start:720,&3807203148468827711,&41484,&g.com/vi/s38vQxXv0GE/maxresdefault.jpg">
+    <spa
+
+start:721,&6034042267992262015,&41540,&an itemprop="thumbnail" itemscope itemtype="http://schema
+
+start:722,&14403106323402815,&41558,&a.org/ImageObject">
+
+start:723,&6425391171671789311,&41607,&>
+      <link itemprop="url" href="https://i.ytimg
+
+start:724,&325384148300672575,&41743,&g.com/vi/s38vQxXv0GE/maxresdefault.jpg">
+      <meta itemprop="width" content="1280">
+      <meta itemprop="height" content="720">
+    </
+
+start:725,&6013683848068684735,&41789,&/span>
+
+      <link itemprop="embedURL" href="h
+
+start:726,&3981723300135966463,&41818,&https://www.youtube.com/embed/
+
+start:727,&1704271199487594367,&41836,&/s38vQxXv0GE">
+    
+
+start:728,&5037010509634834111,&41845,&   <meta i
+
+start:729,&1255289468432033151,&42086,&itemprop="playerType" content="HTML5 Flash">
+      <meta itemprop="width" content="1440">
+      <meta itemprop="height" content="1080">
+
+      <meta itemprop="isFamilyFriendly" content="True">
+      <meta itemprop="regionsAllowed" content="AD
+
+start:730,&2235375381309964927,&42280,&D,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,E
+
+start:731,&6548409831184373695,&42309,&EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,
+
+start:732,&4368711615090118591,&42393,&,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,
+
+start:733,&3329567335374376575,&42443,&,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN
+
+start:734,&2959404574295738175,&42551,&N,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW
+
+start:735,&7135732356228022143,&42590,&W,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR
+
+start:736,&1415204644790560959,&42608,&R,NU,NZ,OM,PA,PE,PF
+
+start:737,&7701635739644892543,&42687,&F,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,
+
+start:738,&2823195275037555519,&42742,&,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,T
+
+start:739,&3428074631640029567,&42853,&TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW">
+
+                <di
+
+start:740,&2767927615331452863,&43062,&iv id="watch7-speedyg-area">
+      <div class="yt-alert yt-alert-actionable yt-alert-info hid " id="speedyg-template">  <div class="yt-alert-icon">
+    <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"
+
+start:741,&4971400092304732863,&43105,&" class="icon master-sprite yt-sprite" alt="
+
+start:742,&4115974595543655615,&43210,&"">
+  </div>
+<div class="yt-alert-buttons">  <a href="https://www.google.com/get/videoqualityreport/?v=s38
+
+start:743,&4716182246141677375,&43258,&8vQxXv0GE" class="yt-uix-button   yt-uix-sessionl
+
+start:744,&5829453891447749119,&43371,&link yt-uix-button-alert-info yt-uix-button-size-default" data-sessionlink="ei=AiHhU-WDDcXz8Qag-4HICg" id="speedyg
+
+start:745,&7535368378946405631,&43404,&g-link" target="_blank"><span clas
+
+start:746,&5462049340539437311,&43473,&ss="yt-uix-button-content">Find out why </span></a>
+<button class="yt-
+
+start:747,&8641374177047756863,&43478,&-uix-b
+
+start:748,&4295082725167123519,&43727,&button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close </span></button></div><div class="yt-alert-content" role="al
+
+start:749,&5230214036490437311,&43829,&lert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+    </div>
+<
+
+start:750,&3708851711768378751,&43834,&</div>
+
+start:751,&3182027413571871807,&43845,&></div>
+    
+
+start:752,&6794861368167187391,&43847,& </
+
+start:753,&8081234472171464895,&43992,&/div>
+  <div id="watch-header" class="">
+        <div id="watch7-headline" class="clearfix">
+    <h1 id="watch-headline-title" class="yt">
+      
+
+
+start:754,&1551069956164993855,&44010,&
+
+
+  
+
+
+  <span id=
+
+start:755,&7787453771489164287,&44017,&="eow-ti
+
+start:756,&4562373318447673407,&44023,&itle" c
+
+start:757,&5716875347119304831,&44129,&class="watch-title long-title " dir="ltr" title="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:758,&2721850432279446975,&44162,&Solder &amp; Kingbo Flux XModdz">
+
+
+start:759,&5716875347119304831,&44224,&
+    BGA Rework Cleaning Reballing &amp; Reflowing Using Lead S
+
+start:760,&8872113467239424959,&44266,&Solder &amp; Kingbo Flux XModdz
+  </span>
+
+
+
+start:761,&6265326746877180863,&44290,&
+    </h1>
+  </div>
+
+    
+
+start:762,&2448256024598517119,&44449,&   <div id="watch7-user-header" class=" spf-link "><a href="/channel/UCeHJLY9R31gCdBO38G68VCw" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="featu
+
+start:763,&5563665188004540479,&44453,&ure=w
+
+start:764,&7958758333858984831,&44473,&watch&amp;ei=AiHhU-WD
+
+start:765,&8142010894569242623,&44492,&DDcXz8Qag-4HICg" >  
+

@@ -1,0 +1,1224 @@
+<!DOCTYPE html><html lang="en" data-cast-api-enabled="true"><head><script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_start', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}</script>  <script>
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){function a(b,g,k){var h=document.getElementsByTagName("html")[0],e=[h.className];b&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(e.push("guide-pinned"),g&&e.push("show-guide"));k&&(b=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&g&&(b-=230),e.push(" ",1262<=b?"content-snap-width-3":1056<=b?"content-snap-width-2":"content-snap-width-1"));h.className=e.join(" ")}
+var c=["yt","www","masthead","sizing","runBeforeBodyIsReady"],d=this;c[0]in d||!d.execScript||d.execScript("var "+c[0]);for(var f;c.length&&(f=c.shift());)c.length||void 0===a?d[f]?d=d[f]:d=d[f]={}:d[f]=a;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,true,false);
+  </script>
+
+
+
+        <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vfltpmjOU/www-scheduler.js" type="text/javascript" name="www-scheduler"></script>
+
+
+    <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+
+
+
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-vfl5BoEuz.css" name="www-core">
+<script>if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}</script>  
+  
+
+<title>Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"><link rel="canonical" href="http://www.youtube.com/watch?v=IgrEbJN8dcQ"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=IgrEbJN8dcQ"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=IgrEbJN8dcQ"><link rel="shortlink" href="http://youtu.be/IgrEbJN8dcQ">      <meta name="title" content="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+
+      <meta name="description" content="http://www.accessotronik.com/Soldering_Rework_System_s/292.htm?searching=Y&amp;sort=5&amp;cat=292&amp;show=30&amp;page=1&amp;brand=Pace http://www.gotopac.com/PACE_Soldering_s/1...">
+
+      <meta name="keywords" content="2m, hole, Demo, Education, Lesson, QFP, Hot Air Soldering, Salvage PCB components, IPC, SMD component installation, solder, Circuit board salvage, rework, re...">
+
+      <link rel="alternate" href="android-app://com.google.android.youtube/http/youtube.com/watch/IgrEbJN8dcQ">
+
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIgrEbJN8dcQ&amp;format=json" title="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIgrEbJN8dcQ&amp;format=xml" title="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+
+        <meta property="og:site_name" content="YouTube">
+    <meta property="og:url" content="http://www.youtube.com/watch?v=IgrEbJN8dcQ">
+    <meta property="og:title" content="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+    <meta property="og:image" content="https://i.ytimg.com/vi/IgrEbJN8dcQ/hqdefault.jpg">
+
+      <meta property="og:description" content="http://www.accessotronik.com/Soldering_Rework_System_s/292.htm?searching=Y&amp;sort=5&amp;cat=292&amp;show=30&amp;page=1&amp;brand=Pace http://www.gotopac.com/PACE_Soldering_s/1...">
+
+    <meta property="al:ios:app_store_id" content="544007664">
+    <meta property="al:ios:app_name" content="YouTube">
+      <meta property="al:ios:url" content="vnd.youtube://www.youtube.com/watch?v=IgrEbJN8dcQ&amp;feature=applinks">
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=IgrEbJN8dcQ&amp;feature=applinks">
+    <meta property="al:android:app_name" content="YouTube">
+    <meta property="al:android:package" content="com.google.android.youtube">
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=IgrEbJN8dcQ&amp;feature=applinks">
+
+    <meta property="og:type" content="video">
+        <meta property="og:video" content="http://www.youtube.com/v/IgrEbJN8dcQ?version=3&amp;autohide=1">
+      <meta property="og:video:type" content="application/x-shockwave-flash">
+      <meta property="og:video:width" content="640">
+      <meta property="og:video:height" content="480">
+
+    <meta property="fb:app_id" content="87741124305">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@youtube">
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=IgrEbJN8dcQ">
+    <meta name="twitter:title" content="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+    <meta name="twitter:description" content="http://www.accessotronik.com/Soldering_Rework_System_s/292.htm?searching=Y&amp;sort=5&amp;cat=292&amp;show=30&amp;page=1&amp;brand=Pace http://www.gotopac.com/PACE_Soldering_s/1...">
+    <meta name="twitter:image" content="https://i.ytimg.com/vi/IgrEbJN8dcQ/hqdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" content="YouTube">
+    <meta name="twitter:app:id:ipad" content="544007664">
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=IgrEbJN8dcQ&amp;feature=applinks">
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=IgrEbJN8dcQ&amp;feature=applinks">
+    <meta name="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=IgrEbJN8dcQ">
+      <meta name="twitter:player" content="https://www.youtube.com/embed/IgrEbJN8dcQ">
+      <meta name="twitter:player:width" content="640">
+      <meta name="twitter:player:height" content="480">
+
+      <meta name=attribution content=MrMarcSiegel%2Buser/>  
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-pageframe-vflccmXBg.css" name="www-pageframe">
+<script>if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}</script></head>    <body dir="ltr" class="  ltr       site-center-aligned site-as-giant-card appbar-hidden     not-nirvana-dogfood not-nirvana-playlist  not-watch8    delayed-frame-styles-not-in  " id="body">
+
+  <div id="early-body"></div>
+  <div id="body-container"><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter"><div id="yt-masthead" class=""><div class="yt-masthead-logo-container ">    <a id="logo-container" href="/" title="YouTube home" class="     spf-link 
+"><img id="logo" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"></a>
+  <div id="appbar-guide-button-container">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" aria-controls="appbar-guide-menu" id="appbar-guide-button" aria-label="Guide"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+    <div id="appbar-guide-button-notification-check" class="yt-valign">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="appbar-guide-notification-icon yt-valign-content yt-sprite">
+    </div>
+  </div>
+  <div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;feature=mhsb" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Dsign_in_button%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ&amp;hl=en&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; _gel(&#39;masthead-search&#39;).submit(); return false;;return true;" dir="ltr" id="search-btn" tabindex="2"><span class="yt-uix-button-content">Search </span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><label><input id="masthead-search-term" autocomplete="off"  class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"></label></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  watch      watch-non-stage-mode   clearfix"><div id="guide" class="yt-scrollbar">    <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+    <div id="guide-container">
+      <div class="guide-module-content guide-module-loading">
+          <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      </div>
+    </div>
+  </div>
+
+</div><div id="alerts" class="content-alignment">      
+
+
+
+</div><div id="header"></div><div id="player" class="      watch-small  "><div id="theater-background"></div>  <div id="player-mole-container">
+
+    <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+              <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt="">
+  <div class="content">
+    <h1 id="unavailable-message" class="message">
+            This video is unavailable.
+    </h1>
+    <div id="unavailable-submessage" class="submessage">
+    </div>
+  </div>
+
+
+    </div>
+
+      <div id="player-api" class="player-width player-height off-screen-target player-api"></div>
+
+          <script>if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"min_version": "8.0.0", "attrs": {"id": "movie_player"}, "args": {"ad_slots": "0", "hl": "en_US", "loeid": "934118,936111,946023", "iv_invideo_url": "https:\/\/www.youtube.com\/annotations_invideo?cap_hist=1\u0026cta=2\u0026video_id=IgrEbJN8dcQ", "mpvid": "Bjvt3eYadT8y6eKU", "ad_video_pub_id": "ca-pub-6219811747049371", "eventid": "5iDhU4KsJ87X8Qb0n4C4Bg", "title": "Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering", "afv_instream_max": 15000, "ad_host": "ca-host-pub-4895533112976992", "video_id": "IgrEbJN8dcQ", "afv_ad_tag": "http:\/\/googleads.g.doubleclick.net\/pagead\/ads?ad_type=skippablevideo\u0026client=ca-pub-6219811747049371\u0026description_url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FIgrEbJN8dcQ\u0026hl=en\u0026host=ca-host-pub-4895533112976992\u0026loeid=934118,936111,946023\u0026max_ad_duration=15000\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FIgrEbJN8dcQ\u0026video_cpm=6000000\u0026ytdevice=1\u0026yt_pt=APb3F2_DFBy-KdBqlMM-IGtBHTbf9osnRGkckUT0N2c_IFSUGYEThUQnrjVUI18saMTHjbfIT4ypMqLqPhpLYRBPoBqqWR5xulsmPid9QYNTL2MJUv2IXlnU9Y1xYp844rveicXKT-CiP1H8hAdt\u0026channel=yt_mpvid_Bjvt3eYadT8y6eKU%2Byt_cid_1807756%2Bivp%2Bafv_no_adsense%2Byt_no_ap%2Bytdevice_1%2Byt_no_cp%2Bafv_user_id_D3nPgUqeSCmyT19mJm1MUw%2Bafv_user_mrmarcsiegel%2Bytel_detailpage%2Bytps_default%2BVertical_5%2BVertical_11%2BVertical_434%2BVertical_742%2Bafv_instream%2Bafv_instream_us", "ad_eurl": "http:\/\/www.youtube.com\/video\/IgrEbJN8dcQ", "host_language": "en", "watermark": ",https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "instream_long": false, "tmi": "1", "url_encoded_fmt_stream_map": "type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26ms%3Dau%26mt%3D1407262843%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26signature%3D353C5EC0A7619E6E8327B693C389B05DDAFE1489.AF47DE2D148DDEAD4EA4D2E4FCD683078F789218%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ratebypass%3Dyes%26ipbits%3D0%26mm%3D31%26itag%3D43%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DzL_RpGD9Lwc%26source%3Dyoutube%26sver%3D3%26expire%3D1407284550\u0026itag=43\u0026fallback_host=tc.v13.cache5.googlevideo.com\u0026quality=medium,type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26ms%3Dau%26mt%3D1407262843%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26signature%3D8081FE0FC0986A388BA803576911A0A02C605187.3AE3D200529B5C06ACC01F438D0E888A12057E41%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ratebypass%3Dyes%26ipbits%3D0%26mm%3D31%26itag%3D18%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DzL_RpGD9Lwc%26source%3Dyoutube%26sver%3D3%26expire%3D1407284550\u0026itag=18\u0026fallback_host=tc.v23.cache8.googlevideo.com\u0026quality=medium,type=video%2Fx-flv\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26ms%3Dau%26mt%3D1407262843%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26signature%3D4A529F18F15C05E1A8694FE689F1E1D8B2F1EBBE.03F19C36CEE6D056C7A8DB99BBA9242AD66AFB75%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26itag%3D5%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DzL_RpGD9Lwc%26source%3Dyoutube%26sver%3D3%26expire%3D1407284550\u0026itag=5\u0026fallback_host=tc.v6.cache4.googlevideo.com\u0026quality=small,type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26ms%3Dau%26mt%3D1407262843%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26signature%3DCB4702A19F8E7857D784F4D09A3B26901D499B22.4F811BAE41237CC0E6552C0B31FA8B91CF69F063%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26itag%3D36%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DzL_RpGD9Lwc%26source%3Dyoutube%26sver%3D3%26expire%3D1407284550\u0026itag=36\u0026fallback_host=tc.v2.cache7.googlevideo.com\u0026quality=small,type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26ms%3Dau%26mt%3D1407262843%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26signature%3DC1ECB015DF69C55B5D52D39DD0F12D2D86A44AC5.EB9BA3F10BF737F15579E44336E0FAF340CADF06%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26itag%3D17%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DzL_RpGD9Lwc%26source%3Dyoutube%26sver%3D3%26expire%3D1407284550\u0026itag=17\u0026fallback_host=tc.v22.cache6.googlevideo.com\u0026quality=small", "keywords": "2m,hole,Demo,Education,Lesson,QFP,Hot Air Soldering,Salvage PCB components,IPC,SMD component installation,solder,Circuit board salvage,rework,removal,circuit,replacement,Hot Air,through,iron,IC,tutorial,Pace,curriculum,desolder,prototyping hand tools,mini,repair,soldering,Inc,Desoldering,tip", "trueview": true, "dash": "1", "timestamp": 1407262950, "cid": 1807756, "idpj": "-3", "cut_ad_for_ypc": false, "sffb": true, "gut_tag": "\/4061\/ytunknown\/main", "ptchn": "D3nPgUqeSCmyT19mJm1MUw", "enablecsi": "1", "c": "WEB", "pyv_in_related_cafe_experiment_id": "56702026", "midroll_freqcap": 420.0, "afv": true, "tag_for_child_directed": false, "ad_logging_flag": 1, "loaderUrl": "https:\/\/www.youtube.com\/watch?v=IgrEbJN8dcQ", "ad_device": 1, "aftv": true, "midroll_prefetch_size_html5": 1, "pltype": "content", "no_get_video_log": "1", "sw": "0.1", "ssl": 1, "allowed_ads": [8, 2, 10], "ad_channel_code_instream": "yt_mpvid_Bjvt3eYadT8y6eKU,yt_cid_1807756,ivp,afv_no_adsense,yt_no_ap,ytdevice_1,yt_no_cp,afv_user_id_D3nPgUqeSCmyT19mJm1MUw,afv_user_mrmarcsiegel,ytel_detailpage,ytps_default,Vertical_5,Vertical_11,Vertical_434,Vertical_742,afv_instream,afv_instream_us", "as_launched_in_country": "1", "cafe_experiment_id": "56702026", "afv_video_min_cpm": 6000000, "enablejsapi": 1, "adsense_video_doc_id": "yt_IgrEbJN8dcQ", "fexp": "902408,927622,934024,934030,934118,936111,946023", "dashmpd": "http:\/\/manifest.googlevideo.com\/api\/manifest\/dash\/key\/yt5\/ip\/140.180.255.5\/mv\/m\/upn\/mdu5dse8058\/mt\/1407262843\/sparams\/as%2Ccmbypass%2Cgcr%2Cid%2Cip%2Cipbits%2Citag%2Cplayback_host%2Csource%2Cexpire\/signature\/2C602EEEBEFE6394A2DAFED8E0AC15CCA7D319D8.8D36443E914854A6BCC6120D4FB1DC4CDEC07D80\/mws\/yes\/fexp\/902408%2C927622%2C934024%2C934030%2C934118%2C936111%2C946023\/ipbits\/0\/gcr\/us\/itag\/0\/cmbypass\/yes\/id\/o-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw\/ms\/au\/playback_host\/r4---sn-mv-ab5e.googlevideo.com\/source\/youtube\/as\/fmp4_audio_clear%2Cwebm_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear%2Cwebm2_sd_hd_clear\/mm\/31\/sver\/3\/expire\/1407284550", "allow_html5_ads": 1, "afv_ad_tag_restricted_to_instream": "http:\/\/googleads.g.doubleclick.net\/pagead\/ads?ad_type=skippablevideo\u0026client=ca-pub-6219811747049371\u0026description_url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FIgrEbJN8dcQ\u0026hl=en\u0026host=ca-host-pub-4895533112976992\u0026loeid=934118,936111,946023\u0026max_ad_duration=15000\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FIgrEbJN8dcQ\u0026video_cpm=6000000\u0026ytdevice=1\u0026yt_pt=APb3F2_DFBy-KdBqlMM-IGtBHTbf9osnRGkckUT0N2c_IFSUGYEThUQnrjVUI18saMTHjbfIT4ypMqLqPhpLYRBPoBqqWR5xulsmPid9QYNTL2MJUv2IXlnU9Y1xYp844rveicXKT-CiP1H8hAdt\u0026channel=yt_mpvid_Bjvt3eYadT8y6eKU%2Byt_cid_1807756%2Bivp%2Bafv_no_adsense%2Byt_no_ap%2Bytdevice_1%2Byt_no_cp%2Bafv_user_id_D3nPgUqeSCmyT19mJm1MUw%2Bafv_user_mrmarcsiegel%2Bytel_detailpage%2Bytps_default%2BVertical_5%2BVertical_11%2BVertical_434%2BVertical_742%2Bafv_instream%2Bafv_instream_us", "fmt_list": "43\/640x360\/99\/0\/0,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0,36\/320x240\/99\/1\/0,17\/176x144\/99\/1\/0", "cr": "US", "iv_load_policy": 1, "vq": "auto", "ldpj": "-38", "ad_flags": 0, "excluded_ads": "8=1_1,1_2_1,1_3", "adaptive_fmts": "type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D34665682%26itag%3D135%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D7C41336C4E018E04C58D1AA419AFA2EA4E2FCE07.5520246025097CED82EAF3CA3B2F514351879E00%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1389681228329353%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=135\u0026clen=34665682\u0026init=0-706\u0026lmt=1389681228329353\u0026index=707-1878\u0026bitrate=1105393\u0026size=640x480,type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D31914465%26itag%3D244%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D9D74BD3D38FC5D4018567B894C9E3454D406DBA3.C1EEE5BE65699CC4B739FB44E0035E8C5C0257C7%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1397904966167314%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=244\u0026clen=31914465\u0026init=0-234\u0026lmt=1397904966167314\u0026index=235-1882\u0026bitrate=667054\u0026size=640x480,type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D17161225%26itag%3D134%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D2C65C0F74F2116FCB5CF7FE042B074815EB092DC.2987A32CE10100AF3128EF4A77C488B80D25E95A%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1389681219264537%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=134\u0026clen=17161225\u0026init=0-707\u0026lmt=1389681219264537\u0026index=708-1879\u0026bitrate=605372\u0026size=480x360,type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D15209957%26itag%3D243%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DD8C2A17C9ADF182645BEB42B0FA6F7645B780C14.E5E5B93ACB8F1C86B38BEF287237812B112B4D0A%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1397904958007419%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=243\u0026clen=15209957\u0026init=0-234\u0026lmt=1397904958007419\u0026index=235-1839\u0026bitrate=324151\u0026size=480x360,type=video%2Fmp4%3B+codecs%3D%22avc1.4d400d%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D14434730%26itag%3D133%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D3938E54F00BB19106F87CF875538DBCED4BECC86.DDD203F7498791650673F04B7D7C10B434471558%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1389681214261798%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=133\u0026clen=14434730\u0026init=0-670\u0026lmt=1389681214261798\u0026index=671-1842\u0026bitrate=248495\u0026size=320x240,type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D7853258%26itag%3D242%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D96251A16CD0568990C3C2541683627B98EAC17CC.7C86D626D034DA7F8CB436617C3A7B719F338F76%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1397904950381129%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=242\u0026clen=7853258\u0026init=0-233\u0026lmt=1397904950381129\u0026index=234-1838\u0026bitrate=166937\u0026size=320x240,type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D6634498%26itag%3D160%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D4F7BD47C08305B8DD92D0A406D713DFEF98FC926.A787360ADFACA18BD57806154D293A6E1083F1D0%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1389681216292285%26dur%3D472.505%26sver%3D3%26expire%3D1407284550\u0026itag=160\u0026clen=6634498\u0026init=0-671\u0026lmt=1389681216292285\u0026index=672-1843\u0026bitrate=120294\u0026size=192x144,type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D7506472%26itag%3D140%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D2BD5069DE4D9AFC9227D8C4853CDF155A7CE0074.771A92B19FC58CA42A09D43A60E732FAC6E48DDD%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1389681215294366%26dur%3D472.595%26sver%3D3%26expire%3D1407284550\u0026itag=140\u0026clen=7506472\u0026init=0-591\u0026lmt=1389681215294366\u0026index=592-1199\u0026bitrate=128002,type=audio%2Fwebm%3B+codecs%3D%22vorbis%22\u0026url=http%3A%2F%2Fr4---sn-mv-ab5e.googlevideo.com%2Fvideoplayback%3Fkey%3Dyt5%26ip%3D140.180.255.5%26mv%3Dm%26clen%3D4683262%26itag%3D171%26mt%3D1407262843%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DC80634A0F043222270FB1D3D6E2E4796DDFF75AD.B935BAE1182BB38E1CEEC005879CA16786111558%26mws%3Dyes%26fexp%3D902408%252C927622%252C934024%252C934030%252C934118%252C936111%252C946023%26ipbits%3D0%26mm%3D31%26gir%3Dyes%26id%3Do-AJi1KWsrzMXaWC1hIiOwyq6-cHheEp1ASTtQOtvZ3tWw%26upn%3DfC9elCVy7NE%26ms%3Dau%26source%3Dyoutube%26lmt%3D1397904727929936%26dur%3D472.548%26sver%3D3%26expire%3D1407284550\u0026itag=171\u0026clen=4683262\u0026init=0-4451\u0026lmt=1397904727929936\u0026index=4452-5264\u0026bitrate=83157", "referrer": null, "plid": "AAT_5fBHiZu7iSFm", "length_seconds": 473, "iv3_module": "1", "iv_module": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflU9nrpH\/iv_module.swf", "ad_channel_code_overlay": "yt_mpvid_Bjvt3eYadT8y6eKU,yt_cid_1807756,ivp,afv_no_adsense,yt_no_ap,ytdevice_1,yt_no_cp,afv_user_id_D3nPgUqeSCmyT19mJm1MUw,afv_user_mrmarcsiegel,ytel_detailpage,ytps_default,Vertical_5,Vertical_11,Vertical_434,Vertical_742,afv_overlay,invideo_overlay_480x70_cat28", "atc": "a=3\u0026b=drhwBN12TraeA-xMf9QlzoGOsws\u0026c=1407262950\u0026d=1\u0026e=IgrEbJN8dcQ\u0026c3a=27\u0026c1a=1\u0026hh=1hKf58TZUPmit5xbW9eBO3f9TjI", "shortform": true, "ptk": "MrMarcSiegel%2Buser", "account_playback_token": "QUFFLUhqbE9uOUFPc29CLWI2M1g2R2ctTEhTT3ZfVnB3UXxBQ3Jtc0tsdlI0MmhrTVdpa1NyWlpWYUUzRVljZVBuS2dxQVJIMHNsd0tURURiVk5SN1RYdnZyWFdrSkFVc3g3bGJMbnBvUlVYeDB1S0lfLTFGYXdWek9Mdk82cWVTSUN3blZNV19LYlJsc3RMcUt5bHRTZS1law==", "ad3_module": "1", "csi_page_type": "watch,watch7ad", "ad_preroll": "1", "oid": "FAVA5dh0FJNAUjoUj88GaA", "ucid": "UCD3nPgUqeSCmyT19mJm1MUw", "yt_pt": "APb3F2_DFBy-KdBqlMM-IGtBHTbf9osnRGkckUT0N2c_IFSUGYEThUQnrjVUI18saMTHjbfIT4ypMqLqPhpLYRBPoBqqWR5xulsmPid9QYNTL2MJUv2IXlnU9Y1xYp844rveicXKT-CiP1H8hAdt", "storyboard_spec": "https:\/\/i.ytimg.com\/sb\/IgrEbJN8dcQ\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#M82L_rOwAilIpYzJcSCifZseBto|60#45#96#10#10#5000#M$M#xBh7JvqCXQjvMI_bqySjVOJ8sLI|120#90#96#5#5#5000#M$M#4nl2DmG7v-zVZ7oBtKLTInqNK8I|240#180#96#3#3#5000#M$M#0OmDh589uu_FTi3hMY8GWnnZWjk", "midroll_prefetch_size": 1, "t": "1"}, "url_v9as2": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/cps.swf", "sts": 16283, "url": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/watch_as3.swf", "html5": false, "url_v8": "https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/cps.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "assets": {"html": "\/html5_player_template", "css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflEIIru4.css", "js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflEyBLiy\/html5player.js"}};(function() {var encoded = [];for (var key in ytplayer.config.args) {encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(ytplayer.config.args[key]));}var swf = "      \u003cembed type=\"application\/x-shockwave-flash\"     s\u0072c=\"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vfl2Y2Exx\/watch_as3.swf\"     name=\"movie_player\"     id=\"movie_player\"    flashvars=\"__flashvars__\"     allowscriptaccess=\"always\" allowfullscreen=\"true\" bgcolor=\"#000000\"\u003e\n  \u003cnoembed\u003e\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"https:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" alt=\"\" class=\"icon master-sprite yt-sprite\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e\u003c\/noembed\u003e\n\n";swf = swf.replace('__flashvars__', encoded.join('&'));document.getElementById("player-api").innerHTML = swf;ytplayer.config.loaded = true}());</script>
+
+
+  </div>
+
+  <div class="clear"></div>
+</div>
+<div id="content" class="  content-alignment      yt-card
+">    <div id="watch7-container" class="">
+    <div id="watch7-main-container">
+      <div id="watch7-main" class="clearfix">
+        <div id="watch7-content" class="watch-content " itemscope itemid="" itemtype="http://schema.org/VideoObject"
+        >
+              <link itemprop="url" href="http://www.youtube.com/watch?v=IgrEbJN8dcQ">
+    <meta itemprop="name" content="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+    <meta itemprop="description" content="http://www.accessotronik.com/Soldering_Rework_System_s/292.htm?searching=Y&amp;sort=5&amp;cat=292&amp;show=30&amp;page=1&amp;brand=Pace http://www.gotopac.com/PACE_Soldering_s/1...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" content="UCD3nPgUqeSCmyT19mJm1MUw">
+      <meta itemprop="videoId" content="IgrEbJN8dcQ">
+
+      <meta itemprop="duration" content="PT7M53S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/MrMarcSiegel">
+        </span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="https://plus.google.com/101630009759129905344">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="https://i.ytimg.com/vi/IgrEbJN8dcQ/hqdefault.jpg">
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="https://i.ytimg.com/vi/IgrEbJN8dcQ/hqdefault.jpg">
+      <meta itemprop="width" content="480">
+      <meta itemprop="height" content="360">
+    </span>
+
+      <link itemprop="embedURL" href="https://www.youtube.com/embed/IgrEbJN8dcQ">
+      <meta itemprop="playerType" content="HTML5 Flash">
+      <meta itemprop="width" content="640">
+      <meta itemprop="height" content="480">
+
+      <meta itemprop="isFamilyFriendly" content="True">
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW">
+
+                <div id="watch7-speedyg-area">
+      <div class="yt-alert yt-alert-actionable yt-alert-info hid " id="speedyg-template">  <div class="yt-alert-icon">
+    <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="icon master-sprite yt-sprite">
+  </div>
+<div class="yt-alert-buttons">  <a href="https://www.google.com/get/videoqualityreport/?v=IgrEbJN8dcQ" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-alert-info yt-uix-button-size-default" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg" id="speedyg-link" target="_blank"><span class="yt-uix-button-content">Find out why </span></a>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close </span></button></div><div class="yt-alert-content" role="alert">    <span class="yt-alert-vertical-trick"></span>
+    <div class="yt-alert-message">
+    </div>
+</div></div>
+    </div>
+  <div id="watch-header" class="">
+        <div id="watch7-headline" class="clearfix">
+    <h1 id="watch-headline-title" class="yt">
+      
+
+
+  
+
+
+  <span id="eow-title" class="watch-title long-title " dir="ltr" title="Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering">
+    Soldering SMD fine pitch component Pace Inc.(8a) Hot Air Mini Wave Soldering
+  </span>
+
+    </h1>
+  </div>
+
+      <div id="watch7-user-header" class=" spf-link "><a href="/channel/UCD3nPgUqeSCmyT19mJm1MUw" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;feature=watch" >    <span class="video-thumb  yt-thumb yt-thumb-48 g-hovercard"
+        data-ytid="UCD3nPgUqeSCmyT19mJm1MUw"
+      >
+      <span class="yt-thumb-square">
+        <span class="yt-thumb-clip">
+          <img src="https://yt3.ggpht.com/-6rsu6zOG9gE/AAAAAAAAAAI/AAAAAAAAAAA/GTVKem5ujMY/s88-c-k-no/photo.jpg" alt="Marc Siegel" width="48"  height="48" >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+</a><div class="yt-user-info"><a href="/channel/UCD3nPgUqeSCmyT19mJm1MUw" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;feature=watch" dir="ltr" data-ytid="UCD3nPgUqeSCmyT19mJm1MUw" data-name="watch">Marc Siegel</a></div><span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container with-preferences" ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon yt-uix-subscription-button yt-can-buffer" type="button" onclick=";return false;" aria-live="polite" aria-role="button" aria-busy="false" data-href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26continue_action%3DQUFFLUhqbXR5cTRQSUJlZE5RQVB2OURueUc5TXp1QlpwUXxBQ3Jtc0ttRnBQTGJwZ0JmV3o0d0dCRGdGblhZeUhDNkZxdWVBZDloVW9UV3Rka1p1SGNEc3lYeTdWcUVYMWRzMTVTRFIyLVpmMGplTzZCQkpoNWdRR19yMk9tWXNSVWM5MzJWeGUxNnIzOTZwNzFPbndnMmtYWmpDZmx4b1ZJSlVlS0Y2OWhDR2MxSUJ3S0daaEhNZjJGQ2QxSEZScFo0SmtzakRocDNXZVVsUmRRbE9kcHlxRnpOczkwaHNiazlaR29HVkFYckpHMnQ%253D%26feature%3Dsubscribe%26next%3D%252Fchannel%252FUCD3nPgUqeSCmyT19mJm1MUw%26action_handle_signin%3Dtrue%26app%3Ddesktop&amp;hl=en&amp;passive=true" data-style-type="branded" data-channel-external-id="UCD3nPgUqeSCmyT19mJm1MUw" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAIQmys&amp;feature=watch"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-icon yt-uix-button-icon-subscribe yt-sprite"></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" data-channel-external-id="UCD3nPgUqeSCmyT19mJm1MUw"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal" title="1,853">1,853</span>  <span class="yt-subscription-button-disabled-mask" title=""></span>
+  
+  <div class="yt-uix-overlay " data-overlay-style="primary"data-overlay-shape="tiny">
+    
+        <div class="yt-dialog hid ">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-header">
+                <h2 class="yt-dialog-title">
+                        Subscription preferences
+
+
+                </h2>
+            </div>
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+    <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Loading...</div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div class="subscription-preferences-overlay-content-container">
+    <div class="subscription-preferences-overlay-loading ">
+        <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+    <div class="subscription-preferences-overlay-content">
+    </div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+      <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Working...</div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</span></span><div id="watch7-views-info"><div class="watch-view-count">151,673</div>
+  <div class="video-extras-sparkbars">
+    <div class="video-extras-sparkbar-likes" style="width: 98.2578397213%"></div>
+    <div class="video-extras-sparkbar-dislikes" style="width: 1.74216027875%"></div>
+  </div>
+    <span class="video-extras-likes-dislikes">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" title="Like" alt="" class="icon-watch-stats-like yt-sprite">
+  <span class="likes-count">564</span>
+
+      &nbsp;&nbsp;&nbsp;
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" title="Dislike" alt="" class="icon-watch-stats-dislike yt-sprite">
+  <span class="dislikes-count">10</span>
+
+    </span>
+</div></div>
+  </div>
+        <div id="watch7-action-buttons" class="clearfix">
+    <div id="watch7-sentiment-actions">
+      
+
+
+
+<span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional"><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" id="watch-like" data-like-tooltip="I like this" data-force-position="true" data-orientation="vertical" data-unlike-tooltip="Unlike" data-position="bottomright" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-icon yt-uix-button-icon-watch-like yt-sprite"></span><span class="yt-uix-button-content">Like </span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Sign in to YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to like <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCD3nPgUqeSCmyT19mJm1MUw">Marc Siegel</span>'s video.
+
+    </div>
+      <ul class="watch7-hovercard-icon-strip clearfix">
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-youtube-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gplus-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gmail-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-picasa-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-chrome-icon"></div>
+        </li>
+      </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ&amp;hl=en&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span><span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="I dislike this" id="watch-dislike" data-force-position="true" data-orientation="vertical" data-position="bottomright" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="I dislike this" class="yt-uix-button-icon yt-uix-button-icon-watch-dislike yt-sprite"></span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Sign in to YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to dislike <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCD3nPgUqeSCmyT19mJm1MUw">Marc Siegel</span>'s video.
+
+    </div>
+      <ul class="watch7-hovercard-icon-strip clearfix">
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-youtube-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gplus-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gmail-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-picasa-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-chrome-icon"></div>
+        </li>
+      </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ&amp;hl=en&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span></span>
+    </div>
+    <div id="watch7-secondary-actions"  class="yt-uix-button-group" data-button-toggle-group="required">
+      <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger  yt-uix-button-toggled yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-details" data-button-toggle="true"><span class="yt-uix-button-content">About </span></button></span>
+        <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-share" data-button-toggle="true"><span class="yt-uix-button-content">Share </span></button></span>
+
+      <span class="yt-uix-clickcard"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger addto-button  yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" data-orientation="vertical" data-upsell="playlist" data-trigger-for="action-panel-none-addto" data-position="bottomleft" data-button-toggle="true"><span class="yt-uix-button-content">Add to </span></button>  <div class="watch7-hovercard yt-uix-clickcard-content">
+    <h3 class="watch7-hovercard-header">Sign in to YouTube</h3>
+    <div class="watch7-hovercard-message">
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to add <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCD3nPgUqeSCmyT19mJm1MUw">Marc Siegel</span>'s video to your playlist.
+
+    </div>
+      <ul class="watch7-hovercard-icon-strip clearfix">
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-youtube-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gplus-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-gmail-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-picasa-icon"></div>
+        </li>
+        <li class="watch7-hovercard-icon">
+          <div class="watch7-hovercard-chrome-icon"></div>
+        </li>
+      </ul>
+    <div class="watch7-hovercard-account-line">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ&amp;hl=en&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+</span>
+
+
+        <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Stats have been disabled for this video" disabled="True" data-trigger-for="action-panel-stats" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Stats have been disabled for this video" class="yt-uix-button-icon yt-uix-button-icon-action-panel-stats yt-sprite"></span></button></span>
+
+      <span ><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Report" data-trigger-for="action-panel-report" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Report" class="yt-uix-button-icon yt-uix-button-icon-action-panel-report yt-sprite"></span></button></span>
+    </div>
+  </div>
+
+        <div id="watch7-action-panels" class="yt-uix-button-panel      yt-card-has-expander">
+      <div id="action-panel-details" class="action-panel-content       yt-card-has-expander">
+    <div id="watch-description" class="yt-uix-expander yt-uix-expander-collapsed yt-uix-button-panel not-watch8-metadata">
+      <div id="watch-description-content">
+        <div id="watch-description-clip">
+          <p id="watch-uploader-info">
+              <strong>Uploaded on Dec 18, 2011</strong>
+          </p>
+          <div id="watch-description-text">
+            <p id="eow-description" ><a href="http://www.accessotronik.com/Soldering_Rework_System_s/292.htm?searching=Y&amp;sort=5&amp;cat=292&amp;show=30&amp;page=1&amp;brand=Pace" target="_blank" title="http://www.accessotronik.com/Soldering_Rework_System_s/292.htm?searching=Y&amp;sort=5&amp;cat=292&amp;show=30&amp;page=1&amp;brand=Pace" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://www.accessotronik.com/Solderin...</a><br /><a href="http://www.gotopac.com/PACE_Soldering_s/1069.htm" target="_blank" title="http://www.gotopac.com/PACE_Soldering_s/1069.htm" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://www.gotopac.com/PACE_Soldering...</a><br /><a href="http://www.techni-tool.com/Pace" target="_blank" title="http://www.techni-tool.com/Pace" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://www.techni-tool.com/Pace</a><br /><a href="http://www.murraypercival.com/category/156/pace" target="_blank" title="http://www.murraypercival.com/category/156/pace" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://www.murraypercival.com/categor...</a> <br />For pro&#39;s only - Be the smartest SMD kid on your block! Hot air soldering <br />Hot Air Soldering, J lead and flat pack installation using soldering iron, prototyping hand tools.How to Solder small chips with solder past and hot air jet. Solder 160 180 and 208 leaded Quad flat packs, solder J leeded components,mini wave soldering tip technique.Pace SMD installation Hot Air and Mini wave soldering or drag soldering,next lesson b and c. PLCC sockets and J leaded components installed, and finally a 208 that will pass x-ray inspection to IPC ,class two, class three standards in Mill. spec.soldering<br />Check out Combined, self contained vacuum desoldering, soldering stations, rework repair systems.</p>
+          </div>
+              <div id="watch-description-extras" class="yt-uix-expander-body">
+    <ul class="watch-extras-section">
+          <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+
+      <li>
+        <h4 class="title">
+Category
+        </h4>
+        <div class="content">
+              <p id="eow-category">
+    <a href="/science" class=" yt-uix-sessionlink     spf-link " data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg">Science &amp; Technology</a>
+  </p>
+
+        </div>
+      </li>
+      <li>
+        <h4 class="title">License</h4>
+        <div class="content">
+            <p id="eow-reuse">
+Standard YouTube License
+  </p>
+
+        </div>
+      </li>
+    </ul>
+  </div>
+
+        </div>
+          <ul id="watch-description-extra-info">
+            
+          </ul>
+      </div>
+        <div class="toggle-wrapper yt-uix-expander-head">
+    <div class="yt-uix-expander-collapsed-body">
+        <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text toggle-button" type="button" onclick=";return false;"><span class="yt-uix-button-content">Show more </span></button>
+
+    </div>
+    <div class="yt-uix-expander-body">
+        <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text toggle-button" type="button" onclick=";return false;"><span class="yt-uix-button-content">Show less </span></button>
+
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+      <div id="action-panel-share" class="action-panel-content hid">
+      <div id="watch-actions-share-loading">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="watch-actions-share-panel"></div>
+
+  </div>
+
+        <div id="action-panel-addto" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-stats" class="action-panel-content hid">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+    <div class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-login" class="action-panel-content hid">
+    <div class="action-panel-login">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3D__FEATURE__%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ&amp;hl=en&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg"><span class="yt-uix-button-content">Sign in </span></a>
+    </div>
+  </div>
+
+  <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+      <div id="watch-actions-ratings-disabled" class="watch-actions-panel">
+    <em>Ratings have been disabled for this video.</em>
+  </div>
+
+  </div>
+
+  <div id="action-panel-rental-required" class="action-panel-content hid">
+      <div id="watch-actions-rental-required" class="watch-actions-panel">
+    <strong>Rating is available when the video has been rented.</strong>
+  </div>
+
+  </div>
+
+  <div id="action-panel-error" class="action-panel-content hid">
+    <div class="action-panel-error">
+      This feature is not available right now. Please try again later.
+    </div>
+  </div>
+
+    <div id="watch7-action-panel-footer">
+      <hr class="yt-horizontal-rule ">
+    </div>
+  </div>
+
+
+          <div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=IgrEbJN8dcQ" data-viewtype="FILTERED" style="display: none;"></div>
+
+  <div id="watch-discussion" class="     yt-card-has-expander">
+              
+  
+  <div class="comments-iframe-container">
+    <div id="comments-test-iframe"></div>
+    <div id="distiller-spinner" class="action-panel-loading">
+        <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+
+  </div>
+
+
+        </div>
+        <div id="watch7-sidebar" class="watch-sidebar">
+                <div id="watch7-sidebar-playlist">
+      
+    </div>
+  <div id="watch7-sidebar-contents" class="watch-sidebar-gutter       yt-card-has-expander">
+    <div id="watch7-sidebar-offer">
+      
+    </div>
+
+    <div id="watch7-sidebar-discussion"></div>
+
+    <div id="watch7-sidebar-ads">
+              <div id="watch-channel-brand-div" class="" >
+      <div id="watch-channel-brand-div-text">
+Advertisement
+      </div>
+      <div id="google_companion_ad_div">
+      </div>
+    </div>
+
+
+    </div>
+
+    <div id="watch7-sidebar-modules">
+                <div class="watch-sidebar-section">
+    <div class="watch-sidebar-body">
+      <ul id="watch-related" class="video-list">
+          <li class="video-list-item related-list-item">  <a href="/watch?v=M0wI-5YZQm4" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAUQzRooAA&amp;feature=relmfu"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="M0wI-5YZQm4"><img data-thumb="//i.ytimg.com/vi/M0wI-5YZQm4/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">1:17:42</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="M0wI-5YZQm4" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Everything you wanted to know about soldering and desoldering but were afraid to ask">
+    Everything you wanted to know about soldering and desoldering but were afraid to ask
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCD3nPgUqeSCmyT19mJm1MUw"
+          data-name="relmfu"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCD3nPgUqeSCmyT19mJm1MUw">Marc Siegel</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">135,805 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=z7Tu8NXu5UA" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAYQzRooAQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="z7Tu8NXu5UA"><img data-thumb="//i.ytimg.com/vi/z7Tu8NXu5UA/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">36:33</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="z7Tu8NXu5UA" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="HowTo SMD Soldering">
+    HowTo SMD Soldering
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCtAEjOWfNleIUDiAJI1zIlA"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCtAEjOWfNleIUDiAJI1zIlA">SparkysWidgets</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">119,132 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=2Z7nCAxS2Rg" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAcQzRooAg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="2Z7nCAxS2Rg"><img data-thumb="//i.ytimg.com/vi/2Z7nCAxS2Rg/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">42:44</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="2Z7nCAxS2Rg" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="SMD soldering by hot air">
+    SMD soldering by hot air
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC8WqdwRVjibpzHqvg_69gzw"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC8WqdwRVjibpzHqvg_69gzw">WhiteFireDragon</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">165,109 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=Jwrethy1tKU" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAgQzRooAw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Jwrethy1tKU"><img data-thumb="//i.ytimg.com/vi/Jwrethy1tKU/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">19:11</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="Jwrethy1tKU" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="SMD Soldering - Full">
+    SMD Soldering - Full
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCBixS4g0Sc8VkkRsmzYVnAQ"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCBixS4g0Sc8VkkRsmzYVnAQ">jersagfast</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">38,371 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=s38vQxXv0GE" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAkQzRooBA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="s38vQxXv0GE"><img data-thumb="//i.ytimg.com/vi/s38vQxXv0GE/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">15:40</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="s38vQxXv0GE" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="BGA Rework Cleaning Reballing &amp; Reflowing Using Lead Solder &amp; Kingbo Flux XModdz">
+    BGA Rework Cleaning Reballing &amp; Reflowing Using Lead Solder &amp; Kingbo Flux XModdz
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCeHJLY9R31gCdBO38G68VCw"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCeHJLY9R31gCdBO38G68VCw">Ace M</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">168,298 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=Ql6Vkw5wswU" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAoQzRooBQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Ql6Vkw5wswU"><img data-thumb="//i.ytimg.com/vi/Ql6Vkw5wswU/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">4:32</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="Ql6Vkw5wswU" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Professional Hand Soldering (Basic to Advance) - Surface Mount, Through-Hole, Wires &amp; Terminals">
+    Professional Hand Soldering (Basic to Advance) - Surface Mount, Through-Hole, Wires &amp; Terminals
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCdonPqR0pM9bVWprZbjNllw"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCdonPqR0pM9bVWprZbjNllw">John Gammell</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">601,177 views</span>
+</a>
+</li><li class="video-list-item related-list-item"><a href="/watch?v=xqv9HF_2GlY&amp;list=PL4767AECE85E210DF" class="related-playlist yt-pl-thumb-link  spf-link  yt-uix-sessionlink" data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAsQzhooBg&amp;feature=rellist">
+  <span class="yt-pl-thumb  is-small">
+      
+      <span class="video-thumb  yt-thumb yt-thumb-120"
+      >
+      <span class="yt-thumb-default">
+        <span class="yt-thumb-clip">
+          <img data-thumb="//i.ytimg.com/vi/xqv9HF_2GlY/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120"  >
+          <span class="vertical-align"></span>
+        </span>
+      </span>
+    </span>
+
+
+
+      <span class="sidebar">
+        <span class="yt-pl-sidebar-content yt-valign">
+          <span class="yt-valign-container">
+                <span class="formatted-video-count-label">
+      <b>9</b> videos
+    </span>
+
+            <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-pl-icon yt-pl-icon-reg yt-sprite">
+          </span>
+        </span>
+      </span>
+        <span class="yt-pl-thumb-overlay">
+          <span class="yt-pl-thumb-overlay-content">
+            <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="play-icon yt-sprite">
+            <span class="yt-pl-thumb-overlay-text">
+Play all
+            </span>
+          </span>
+        </span>
+  </span>
+<span dir="ltr" class="title" title="surface mount soldering">surface mount soldering</span><span class="stat attribution">by <b><span class=" g-hovercard" data-ytid="UCaTg1C0LFjp9RSnLBm-5Psw">Osman Eralp</span></b></span></a></li><li class="video-list-item related-list-item">  <a href="/watch?v=b9FC9fAlfQE" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CAwQzRooBw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="b9FC9fAlfQE"><img data-thumb="//i.ytimg.com/vi/b9FC9fAlfQE/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">39:56</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="b9FC9fAlfQE" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount">
+    EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC2DjFE7Xf11URZqWBigcVOQ"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC2DjFE7Xf11URZqWBigcVOQ">EEVblog</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">483,552 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=J5Sb21qbpEQ" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CA0QzRooCA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="J5Sb21qbpEQ"><img data-thumb="//i.ytimg.com/vi/J5Sb21qbpEQ/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">27:14</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="J5Sb21qbpEQ" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="EEVblog #180 - Soldering Tutorial Part 1 - Tools">
+    EEVblog #180 - Soldering Tutorial Part 1 - Tools
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC2DjFE7Xf11URZqWBigcVOQ"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC2DjFE7Xf11URZqWBigcVOQ">EEVblog</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">313,625 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=qyDRHI4YeMI" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CA4QzRooCQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="qyDRHI4YeMI"><img data-thumb="//i.ytimg.com/vi/qyDRHI4YeMI/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">31:00</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="qyDRHI4YeMI" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="EEVblog #415 - SMD Stencil Reflow Soldering Tutorial">
+    EEVblog #415 - SMD Stencil Reflow Soldering Tutorial
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC2DjFE7Xf11URZqWBigcVOQ"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC2DjFE7Xf11URZqWBigcVOQ">EEVblog</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">112,449 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=PzTA83WSNoo" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CA8QzRooCg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="PzTA83WSNoo"><img data-thumb="//i.ytimg.com/vi/PzTA83WSNoo/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">23:51</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="PzTA83WSNoo" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="PCB / SMT solder paste, stencil printing, and reflow oven">
+    PCB / SMT solder paste, stencil printing, and reflow oven
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCRPvan6OpyL56b5oHZjwUWw"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCRPvan6OpyL56b5oHZjwUWw">vikingcontrollers</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">91,741 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=7o4ZWlG6mmo" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBAQzRooCw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="7o4ZWlG6mmo"><img data-thumb="//i.ytimg.com/vi/7o4ZWlG6mmo/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">26:00</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="7o4ZWlG6mmo" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="PACE Rework and Repair of Electronics Lesson 6 - &quot;Damage Repair&quot;">
+    PACE Rework and Repair of Electronics Lesson 6 - &quot;Damage Repair&quot;
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCT5e-XjqHPfA3_9wF3CgY1w"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCT5e-XjqHPfA3_9wF3CgY1w">paceworldwide</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">38,325 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=5yVaSvXYrqc" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBEQzRooDA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="5yVaSvXYrqc"><img data-thumb="//i.ytimg.com/vi/5yVaSvXYrqc/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">7:55</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="5yVaSvXYrqc" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Circuit Skills #4: Using Surface Mount Devices">
+    Circuit Skills #4: Using Surface Mount Devices
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC1rxMIOt82ieNE19w15U5YQ"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC1rxMIOt82ieNE19w15U5YQ">Jameco Electronics</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">19,100 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=rOYo9AcUQQI" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBIQzRooDQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="rOYo9AcUQQI"><img data-thumb="//i.ytimg.com/vi/rOYo9AcUQQI/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">9:53</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="rOYo9AcUQQI" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Samsung Galaxy S3 dead repair by changing EMMC [HD]">
+    Samsung Galaxy S3 dead repair by changing EMMC [HD]
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCUasjdlBiiomR0AROCRuGRw"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCUasjdlBiiomR0AROCRuGRw">Ashfaq Rehman</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">303,650 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=nNOPQhcNzEM" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBMQzRooDg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="nNOPQhcNzEM"><img data-thumb="//i.ytimg.com/vi/nNOPQhcNzEM/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">7:57</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="nNOPQhcNzEM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Aoyue 852 demonstration">
+    Aoyue 852 demonstration
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC447n3ekXiEXOYTgOcENiEw"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC447n3ekXiEXOYTgOcENiEw">smbakeryt</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">136,842 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=kTPXKA66baQ" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBQQzRooDw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="kTPXKA66baQ"><img data-thumb="//i.ytimg.com/vi/kTPXKA66baQ/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">6:45</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="kTPXKA66baQ" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="how to remove epoxy resin and smd chips">
+    how to remove epoxy resin and smd chips
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC0ps50GqA2fE7BIJpEdqzTg"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC0ps50GqA2fE7BIJpEdqzTg">azhat</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">378,268 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=xrVCkEoY_8M" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBUQzRooEA&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="xrVCkEoY_8M"><img data-thumb="//i.ytimg.com/vi/xrVCkEoY_8M/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">6:50</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="xrVCkEoY_8M" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="How to Solder, tips and tricks">
+    How to Solder, tips and tricks
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UCWOdxDJ8IFR2fRh1j52rVtg"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UCWOdxDJ8IFR2fRh1j52rVtg">electronhacks</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">657,805 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=0XENpPtisnM" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBYQzRooEQ&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="0XENpPtisnM"><img data-thumb="//i.ytimg.com/vi/0XENpPtisnM/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">5:59</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="0XENpPtisnM" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Surface Mount (SMD) Hot Air Soldering">
+    Surface Mount (SMD) Hot Air Soldering
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC8vSfQBCdw1k77X40GGMpDg"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC8vSfQBCdw1k77X40GGMpDg">M0UKD</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">28,010 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=FO9CHjdqBr8" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBcQzRooEg&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="FO9CHjdqBr8"><img data-thumb="//i.ytimg.com/vi/FO9CHjdqBr8/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">15:23</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="FO9CHjdqBr8" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="Surface Mount Soldering Tutorial">
+    Surface Mount Soldering Tutorial
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UChturLXwYxwTOf_5krs0qvA"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UChturLXwYxwTOf_5krs0qvA">The Ben Heck Show</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">80,823 views</span>
+</a>
+</li><li class="video-list-item related-list-item">  <a href="/watch?v=M_rO6oPVsws" class=" related-video spf-link  yt-uix-sessionlink"  data-sessionlink="ei=5iDhU4KsJ87X8Qb0n4C4Bg&amp;ved=CBgQzRooEw&amp;feature=related"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="M_rO6oPVsws"><img data-thumb="//i.ytimg.com/vi/M_rO6oPVsws/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" aria-hidden="true" width="120" height="90" ><span class="video-time">15:00</span>
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-video-ids="M_rO6oPVsws" data-button-menu-id="shared-addto-watch-later-login"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later" class="yt-uix-button-icon yt-uix-button-icon-addto yt-sprite"></span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+</span>  <span dir="ltr" class="title" title="EEVblog #346 - MLF/QFN SMD Reflow Soldering">
+    EEVblog #346 - MLF/QFN SMD Reflow Soldering
+  </span>
+    <span class="stat attribution">
+      <span class="g-hovercard"
+          data-ytid="UC2DjFE7Xf11URZqWBigcVOQ"
+          data-name="related"
+        >
+        by <b><span class=" g-hovercard" data-ytid="UC2DjFE7Xf11URZqWBigcVOQ">EEVblog</span></b>
+      </span>
+    </span>
+    <span class="stat view-count">44,436 views</span>
+</a>
+</li>
+      </ul>
+    </div>   </div> 
+
+    </div>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="watch7-hidden-extras">
+        <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+      <img src="//www.youtube-nocookie.com/gen_204?attributionpartner=MrMarcSiegel%2Buser" border="0" width="1" height="1">
+  </div>
+
+    </div>
+  </div>
+
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" title="YouTube home"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="footer-logo-icon yt-sprite"></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-key="language" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-key="country" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Country:
+  </span>
+  Worldwide
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-picker-key="safetymode" data-picker-position="footer" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Safety:
+  </span>
+Off
+ </span><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-arrow yt-sprite"></button>
+
+
+      </li>
+  </ul>
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" data-ghelp-anchor="google-help" id="google-help" data-ghelp-tracking-param=""><span class="yt-uix-button-icon-wrapper"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span><span class="yt-uix-button-content">Help
+ </span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner">
+      <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img yt-sprite">
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/">About</a></li>
+  <li><a href="//www.youtube.com/yt/press/">Press &amp; Blogs</a></li>
+  <li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li>
+  <li><a href="//www.youtube.com/yt/creators/">Creators &amp; Partners</a></li>
+  <li><a href="//www.youtube.com/yt/advertise/">Advertising</a></li>
+  <li><a href="//www.youtube.com/yt/dev/">Developers</a></li>
+  <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Terms</a></li>
+  <li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+  <li><a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">Send feedback</a></li>
+  <li><a href="/testtube">Try something new!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+    <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Loading...</div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+      <div class="yt-spinner-img"></div><div class="yt-dialog-waiting-text">Working...</div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a href="https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Dplaylist%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ&hl=en&passive=true" class="sign-in-link">Sign in</a> to add this to Watch Later
+
+    </div>
+  <div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">
+    <div class="hide-on-create-pl-panel">
+      <h3>
+Add to
+      </h3>
+    </div>
+    <div class="add-to-widget">
+    </div>
+  </div>
+</div><script>if (window.ytcsi) {window.ytcsi.tick("hr", null, '');}</script>  <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {};ytspf.config['navigate-limit'] = 10;ytspf.config['navigate-lifetime'] = 64800000;</script>  <script src="//s.ytimg.com/yts/jsbin/spf-vflL8HvmX/spf.js" type="text/javascript" name="spf"></script>
+  <script src="//s.ytimg.com/yts/jsbin/www-en_US-vflhmlJJ5/base.js" name="www/base"></script>
+<script>spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflhmlJJ5/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/results_fibonacci": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/watch_autoplayrenderer": "www/watch", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);</script><script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>      <script>
+    yt.setConfig({
+      'VIDEO_ID': "IgrEbJN8dcQ",
+      'THUMB_NON_DELAY_LOAD_COUNT': 0,
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+          'www/watch_speedyg',
+        ''       ],
+
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflHRM5qB\/www-reportvideo.js",
+      'REPORTVIDEO_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vflpSvpzv.css",
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflbbP2J7\/www-watch-missilecommand.js",
+      'WATCH_MISSILECOMMAND_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-vfl9eaIzr.css",
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({'EMBED_HTML_TEMPLATE': "\u003ciframe width=\"__width__\" height=\"__height__\" src=\"__url__\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e",'EMBED_HTML_URL': "\/\/www.youtube.com\/embed\/__videoid__",'FLASH_UPGRADE': "\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"https:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" alt=\"\" class=\"icon master-sprite yt-sprite\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need to upgrade your Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e",'PLAYER_FALLBACK': "The Adobe Flash Player or an HTML5 supported browser is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e",'QUICKTIME_FALLBACK': "The Adobe Flash Player or QuickTime is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"http:\/\/www.apple.com\/quicktime\/download\/\"\u003eGet the latest version of QuickTime\u003c\/a\u003e"});
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "length_seconds=4662\u0026title=Everything+you+wanted+to+know+about+soldering+and+desoldering+but+were+afraid+to+ask\u0026session_data=feature%3Dendscreen\u0026id=M0wI-5YZQm4\u0026author=Marc+Siegel,length_seconds=2193\u0026title=HowTo+SMD+Soldering\u0026session_data=feature%3Dendscreen\u0026id=z7Tu8NXu5UA\u0026author=SparkysWidgets,length_seconds=2564\u0026title=SMD+soldering+by+hot+air\u0026session_data=feature%3Dendscreen\u0026id=2Z7nCAxS2Rg\u0026author=WhiteFireDragon,length_seconds=1151\u0026title=SMD+Soldering+-+Full\u0026session_data=feature%3Dendscreen\u0026id=Jwrethy1tKU\u0026author=jersagfast,length_seconds=940\u0026title=BGA+Rework+Cleaning+Reballing+%26+Reflowing+Using+Lead+Solder+%26+Kingbo+Flux+XModdz\u0026session_data=feature%3Dendscreen\u0026id=s38vQxXv0GE\u0026author=Ace+M,length_seconds=272\u0026title=Professional+Hand+Soldering+%28Basic+to+Advance%29+-+Surface+Mount%2C+Through-Hole%2C+Wires+%26+Terminals\u0026session_data=feature%3Dendscreen\u0026id=Ql6Vkw5wswU\u0026author=John+Gammell,list=PL4767AECE85E210DF\u0026playlist_title=surface+mount+soldering\u0026playlist_length=9\u0026session_data=feature%3Dendscreen\u0026thumbnail_ids=xqv9HF_2GlY\u0026video_id=xqv9HF_2GlY,length_seconds=2396\u0026title=EEVblog+%23186+-+Soldering+Tutorial+Part+3+-+Surface+Mount\u0026session_data=feature%3Dendscreen\u0026id=b9FC9fAlfQE\u0026author=EEVblog,length_seconds=1634\u0026title=EEVblog+%23180+-+Soldering+Tutorial+Part+1+-+Tools\u0026session_data=feature%3Dendscreen\u0026id=J5Sb21qbpEQ\u0026author=EEVblog,length_seconds=1860\u0026title=EEVblog+%23415+-+SMD+Stencil+Reflow+Soldering+Tutorial\u0026session_data=feature%3Dendscreen\u0026id=qyDRHI4YeMI\u0026author=EEVblog,length_seconds=1431\u0026title=PCB+%2F+SMT+solder+paste%2C+stencil+printing%2C+and+reflow+oven\u0026session_data=feature%3Dendscreen\u0026id=PzTA83WSNoo\u0026author=vikingcontrollers,length_seconds=1560\u0026title=PACE+Rework+and+Repair+of+Electronics+Lesson+6+-+%22Damage+Repair%22\u0026session_data=feature%3Dendscreen\u0026id=7o4ZWlG6mmo\u0026author=paceworldwide"},
+
+
+
+
+          'BG_P': "YnFYQRziVUAFTbx0xNgTl1ECxNqXOEo6gHgC\/El2p610bmEuvK+8ZiIBtG8T1IXjNN7GSe2FKjK53vgTVMaijCQ\/RfTTwUNgvTNX3reFqpjuvhGFnch2OVjs4Ygn9fQC7Bljlrdb+dObKDJpX16\/RFgLzpINasf17Wbfv4kVRe5nvzXXuSTgg60Ih+dQtNVnkJJRSoOhFILGtriWAc5JL9RM56QP4sZmNYICPdJxY1wRlsXjbfZHbMdcrNvYeEz4rpqTkX2SlxRkZHq6dcoyLRBN+U3h0AMnTSWextFQctJrtS2Hoi66u9adsUqPSCYcZj8oRzRoN7l783wAtWHmvP2u1XhueDIoK2Mr0iHPk3baWMfLyf5HsqIE2wQAsah1nPBo6mTXrj6c+ln3qRWgnfhAU3MkoGoMigIgY9BoEfiaYSE4pRIAe6+nBPa9r4eIHcsjQ08ZYZO718O9T6\/ia0DMI4yZ7bdAaGbljsdkKo67IrWFV35wXHjXpW7varQaGEhCZqGCTUBKxUm7wtd8byxdhNFWsBAS9EBtjOImeiwbkKUl8304q3qGSef+FehXfwhtVxlFu901iut0lo57i3GzRPBKpbiR\/hm7FPMnUJ3NLVoeR0M0DerNKH6+M44a\/XcieLtk29cx2Jpny\/gG\/VRlCTVL01025W2mW8v6rVs38GjFmCpY\/SjvbsoeaJUj5jR0GvJRiiWXC8apzMIs6nbXRb3tzBb5kD8mcohS7c3modADjxGK4zE9z94I46cKDOx6T72mqS4\/GsiPXjAs8mTK20eqr4FEdwdtii4VyXA9TV98QA\/B6d7C2H\/J49BG6yP3AJgypCVYpBKrAD6CySDziajYbTQmVfblb6r5erBglRZAkrq1yCVGUP9UcynZo4VwLYc9a+bcV0mSJOisigbQGLQR2ifyj7CUgjuOQbPTwwdiiM63+aWgaYymit6fwOEg0cvZGGv0EP7fDFq3IHYON+5MyDp4YPLbkgyWpTFmdBBSc53ALmwIXfSFxMs6HpzkuruiqjykeZ7zDX9kcHpsVNQI+irbkgnzp6+po\/glePpuea5m5VitiT50Wh1gF7pMGHLrPP7WkMgEet6SyUYGlDs3yUUGiEedQmDh\/wLxPpbCHLZkNs0sUNzDNmbI7E8CDRqvmfjcmzzvwiBDCwQXw2tK5JDAczM+xbyMFp8WLYJ0L4rZkafF+CLVaW6ewo2e\/+8aa8IMRDS0Dddj4PHkduBERC7aShqKukbiUuU0ph79WcASouAXj0\/bvI2NZiEeu0x9Kt\/HnFmMwvaPkJHymnAiNqajsU2yDDqNbLGoEhERSFFnp5\/Alqf92cuXnaSiXBziN8sn6i+fHNOz8U5cL3vi+Lf2imwqrXjDg8Ze64qT2uj1MQQswMFpZ+d226Klv64o2yQuP4JrPfbh1n1L3xIvt4kSXR6P9qvZaZNfbeI1RlEXqA6k4VXDRdvVrdhHGFw7ms1PEYa\/XpUSedKLTcnDmHBZ45ppgWAGVNZn0CCm6lyp1wBOXO4Wz9O8KyZd8mhHDhFOuqx9myoZI8SZBzihD4mvMXZ5v1c00WiEie+F17pTvq+Et3lYnX0bBwSy9UCgvz6mkvtx\/YHD4\/BNGCEP9x+NV2ySODw6Jk48UqAt+bA3FNw+d90nQrUtinQk1J3Jgu9OXj4lUpiBOLT6nsq4THUEOhKKhoHOQfTJU6VmWcair0nxQqh57cIu2O31SRceSuNlG2HSwRdSohNBW5bHEE70PtnTTLnwmosgcVaBfvSF2ExTHiepMGfBTqszu26OMHFFxQmv7cXPGvsUP11L1kB9ZYUxKostX4V4rh1Y8S2knhWBeZPIxZjQHGCL0aSjn6PfXTcxHYZhjnrPKrvmS30MMltPOT8Z6BiqmVCusHNVJvgDTpDFkIsC0lXta+AvMgfrffZuguHtwIJgXhrCJ40fr7KURLQJSoyRDRsuNUG61J5W6JicPcbC7rulx4Pk8hAb5ppOf2qbQNrZ8La8cms+CPMy8LRD\/idlO7IgFxUgES7P0HPrmjTgvAiXPasJbCX4\/FF7N1IBRcyYdvbuygh0ID7pLswzboHQBKfjdU1plkXSRFAto9WeO9c8ECIUaGuEuyeJpeCsAy5cl24us0W6ppwQofiKDDAzBNei8SEB8XarAvkN3Xz713nCVbhFu3VXMZRBnk6E7HdtSILreSAKt\/EHTGaVNXnjINhBX1yRxOhFyDjKFQoEDgn\/ocWRjhvswlsEaBb7ThBcYstzUykLoW2m\/FdD0lBUJIsfK2JgPLwQXJhY5L62yhqbKmuxwn6Xj6QUwmnMNzaoB5q\/xkppAAH0u6HGDBjH7jZQtbXMrr0sO71CwD1IlBLK699xDvXKXOc64RMVVWoboEU9GtJMpu02q4Filjwqk5Fb6JIpJkMgoEd5DQEYDFUJp2KTWYP28iFrn+4MeZVkqWlzXOUz7+A+mU84VqfW623QndItlH4hezAalLlxyb0npQMrvWB272RJAODIuiuVTcQWXRURorgx25xcvcPnrCII\/QCQyBxcs5p4HqWnLHGj0x0BJmmOkzUq9HMQUaBA4g\/Ushkbqyge0DbMiJc2BoiEK66XCjMEqJxDq5iyT6qNu0QzymmPWuTQ5Bb8JlPWcFPc85jzvu+etR\/\/1NPaTst9cC1pdoHnGUc6rwBZnVGHxbjJKLONlKqjkqfgOWgevKvQa3m+VTevpImrbZMWkzv8sMLYgLQ0C2ml0pSt\/VlhENxh3b\/9cZVFSqQGEj614RN84cjGw14\/BG9YpyI+cYT3OqFtAE5uCMboz7\/eDrXzgkG9stdsJRg3cX\/l941FGuXJlRx5cOjlw+gnNdegQafUHJSZXP8KKJoRalhge8VRfnyAhRayU9G96++7+X\/jKZZCME3UlDuAVWOERhAQ2w78RMh\/Y6JyTOofUTf2s2SzDEziQ36RJeh30l4VaiUjWnvOWQKA43J2yjd3\/2HmiRWFj2pQzyOGq6OKzvZ92ypg36slGVjpL9S2NNqbgInWzGN4emEJXSZrbbegAFX+lou+bXlllCwDdl0NG7j9TTSOo9jRp8imHMW3wBIa106e6Yk4mv5HlH\/Rnt7FHLlTuxSR1n0vAlcgB60azlCa\/d+jOVYWyQrCCxJvY66WMPxQQk5kFyO72WeDM5kseeGx95DYCADrVYK4xgw4bQ0tu0\/5JDrkmJ07tYRnkn+C2h17umv1x5QVciGbJSMCV4ux5V+AsRzoLD2q4uVQUyoynhT5C99Np+Se8mt00GzbF93PvjbcT0JhkbDQB03fvbdFHfJw7Zy1DIZ68dSBstFfz5s7qojKJQn3ke\/bYxItGQNdyDC0Vfjy4Tk9NxUhVmlNZsPBl7iBR+7dhTvLHrqhCLv2Sl4jTLkqT1Eg35Gd2crIMuzHZNi2LSlUOSjvKE3W\/xlyVMPgcFm+rCgWQglWSoVm5\/RS5wR83FzERVGU96w+SENOVltxg+x3MCnP1Cwh9Ft\/5m9RehUQ+\/kNxa\/CqUx5wHZGDeIs1sSfdIrGrIkzNJwi6+FRvpvDPxiklLWmH+xGGhLAjkzi7IFopjw+eu4JOQML0nk4rcN0JwXIwllDxpQVYfWV6iC+zOnjwAiiejvRzggPubp61GduIxZJl8ycRsDDjkXFwhPSnkycHpyqtkPI\/YfJ4e1odvC6TKMe+8XZGglgK8LYuDz4+t+dSXwn8E\/e+cJgnMVE0CILt5ZG3L2wMuj3LTt9WDWpBlBtyKHLoEQUW38VZnXhwTaGtdze+cq+IT3ExQN082rDhkhzTKWa2YTOFuG9AeCxEIsBKtNb3vDlSuVxnhMqNE1qnUT8oQfrAwqdPu2PPzMI6EAQhgUe2g3ugWjUX4vQSkeyqhZMj8Ci3AekTztF659sLH0nZUzXvAAmuX36hmMD6+YtkZk2IEiSiqgtuz3wlJrFjrGqoW4l0IZig5zXi\/TOANUJT0WPK3MuQayotgc8ryzOirtVzIlmv\/2Mx7lGx\/5LK7W\/647\/JH8FJjqw7JfPtAx1zD0JMqkcKiYdOUXnIlnWps4ndOr1at6+WV3oAf8Ypaz4RqP1yrctI68rnqw4sQqqulWMGSQYMYI0rXGzX0mbuvZR0NdpAWvVcz0zHz\/GsyU5vd4dfa\/XDLyoI4K5AA62yCODQPhKWTyserhOej98ui7vX8q\/yJDZlldfzcbxWF31KLlCLxXfmGOQt2jPerdlng0psCCYxEqFzgvi91Tck47ziBlO0t1caJkG70YA6gYLbZPPGUMZn9dqJctpst7xycXdiY+tneVbONmfFPF7I4+BSceQmXvi3bSeIkd+FgNVKD3BmHHcZxnhgPdyHp94336X0bHuy5exf1W7rKfibn40wVgge+DK1\/mNiHALVEtugP5SIG2vZrW7nLwQVJ8VFCYt5DVFlOHGrOsNg\/Sj7o+MYLHWJA3V2fWobsCBIMdfwuB6MgIoUm7JWnhJFjbf1oYvoRE6O71EK\/gjpwxKV1GqJ2\/HibEoroF3OT6UX68\/CglzGxi9Cb7NYKKIqM+BgGq0ICqtucCE9XPip0VtViqyzyN0a0ibvmtR3S1AhHeNGGYnyfosepTrcsceZFzzl9PLLN2yxIfTifrWRsRtPWG55giWI3dXe4Z72PIFrJ4bI7mq58fxHKWRyvZejD1SU4F68hC6fYEh4kspIKx98jCtyaVcjGwEZLmIeV\/deVtq4AjvVo7zhue4j5bTOFe724MG1ZlF1ZZXSZiBqGF9KuD2Rn8Dqe58NCyP+yQwx2MiZ\/YEN4Y\/Hv0ksezAdeq+UgufcO+fqlkoPhsZmjMM1e6w29cCGY3WgXQN3KZ7Sz\/44iotCvha62861nyxBlZYcAkuZfys33HBTmBhKbvK5QYREKv9K8kce+27aTEKJdGiI1zm8AwILEN6ecBvopSNXNbg8O9Whl9pYtPmEHgAl6sY5D6SrQGnnyGRa92EeqMMVog2PFNZgylCK6Inffxu3XbtSuHnlptR+GruB8oRVR+YFylaLoA0Gp4+UMKtgmut8QX64jmEfpespy0mprte1x\/oOI9XxMMWhjei8br21CyfDyZOnZAC6RUDbsP5oqFYCZESbuD3mj6PNL5aof4pfWPjgbL8drU5YlnTaWXxO0XJ4y3b4hPUCY5oJlHzUqLqt7LjlMhTH\/1i4Id0G6JB2gbNa6WPd7biPeTSgGBll1ItGBKduPLfi3f+Yeaqct7ZRRPf47EiMEWbIMAROy9n5HbhmtAKowDwopN4dJNZxhUSFYZo6qJavxISVJ\/oyDQg4ZghH4hJGNXhGXZMkLUCLAFQQv6QZDCULDkAYXB1sgM8bWaV5CF0UyAXov2yCxPj939mmk0LEW14XboouhtUFXgRpqMHZ\/CPP87l0BgqfKhq0q\/BaNrXfDGyIU5Sq+9h5mzMRudDkOyqgBtbPnzdxglSxJOHurdTPS11wa9Yboev0DM9lfFmIAu0mNjpkVWy+zWbWVfY03zMKBW4hUmeeIC6Kum3cKZfFE66KZvu09oVymq2osX\/xuhlg4MObw2\/IKVD6jF6li8oaNoMEQJP5NSzfavg3KXtf08b\/a\/0A9h7ufWWztlYfemwL3diC\/zqml69OHKNNlKG\/CUhBdKhFJz2CExoi8W2Vrva0V3\/Lkux0rgICiV5HVDKstgrKqP8xogB3E86m1eWFjCgr3v792sVW7AmmWN1HQiTw4L3FSIg9VY7+5F4KdPE\/tZOGHkVJEw8fqlx6oJXWP0vx3q\/y\/lWWzyQo8W2Fm9a7PYXN3qbui\/Mean7D2d17n8Wq6HFE99K6TiaCyCPooC+vALIs7Ce0jcmQeXOdl9Bb5GPuLmvnjK87b1xf5IKKcq0d6aO7CL\/VJSDVlsBwBuQB7fh5y8uMXcxiNH9cQohNRHZ2ga9YaP14jQh391QWzdAxnQyM7ZtVCa5ss5U9WCMrhrjqYR2SqCwUGCjx+\/GxEynSXNNyiVrlPnVCu0Zd\/0mlSCcBt64mBb+ARQJVosW2n5dfX\/h4ZlDxKzNx+nw27f34O1GcaXgoH4zNnEZWRjsnHXpIYQ48wlnU9cAUwTZP1XYyohNgyyIeXrvFJPYt0CCFeqIW+dBhBYv+Kfyk26vgaHTxMiyMVX4yslYr12phBv+3O9\/zW7C\/GeUxkx5QCL3Yv0KZrQGLq+\/T06cSOfO6VrqCKnrJsawW11yNr9VlLbDVrYWD42j+jMyMvD3HbfTDvcM\/f9fJdetmbJOWJ+i3sHFo1IkKBSJEYm5XqA9z5YtbdGaIb2CizNXSz7X4AR8GV+Yjc5PeNYXDHVsDlBpn7I\/SVnFBeLdbpSgy0U5QfRwvSpyc4F6AKBFiCdb++a2J5dJiAKKqRkWhk+oHs9AdoBpJa44VFB3PZU5tKKu05aHMpmSJ7s3EKdd8b\/gQaxbtDIefYdZ7CzoR4QGneXNm9k4iJptpN4Q7o94bUw20+tfuAMHmczWOFJuXsXuopTuhno5FCvliN5\/\/uT64rUPisF2sa+z7KCmaeJq68q+Mey5TMnqzV7XErDhQw2INbKULJ6f58GIzF\/shMJswWHD8ySxjASaSn6hSpmI0cKDg82xhwdc+XnB71uoPHLvJ1djOppcub0UEFyqijdeRtns3f0GSuHjbyyH\/HDEyV\/ZGeD70MJvVoNviC1aXMkx2H2MvzCU1yLjzATa+2\/aNHy\/ArSR5VLpvCFDYXtbqhqzFl4YuVpOTHE0Pr4s1rZjWRDGdGWj6LMf9QSaxQ4yVrVU6Y4uAXljZjngBDxgNbmAJ9\/vdV5+0PSUpGCuWOWLJiTnZ\/i1MGvvuYOgnros4q\/1S99ZYRER9scwfm8TsW64MlgDH6LBFgrnW3KQsTz6x+2NVnBDF6eb4Shbzk3HuBCJc+WIsQMe7YeXrw8qyWtDEyJpPM5k2fRWl2BJiTAQV6ubKB5QOqHXzo2RJAfivCD8ab8mWwD7zwCWPRX3iP\/fdtlvnYwXQHM5qrONwudAsIGeJV5Wl9iA4GfLw1MvMX4vi0t4w9gvCYOxqsXFz097ZSyEZ0Psaj97ulOEotsYOv2mb3OiKGxauXtLKswdBCQMOVRLiYi6PxEEdetCeN\/+GOrq63hu8gIA0csu+wIqA3eoLtdsEaKc0\/pTUL9f\/UN9A8E6amxeDneq7gaKQIGiS6vq8sNTFHLi48fcHxJ2r6l11FExhhxkGWeW7UCBUD9uy0fFPoJonDjMkQqL1qn1Dk9LOiDtfsDJTW+JQDKyT25otVlR+EeeQhMSrWnkF8zVZZ1dSA7WC\/qiHbQwnV0t3JQeCiCq7id0fiE601aHGZqChherZKLBh+npSy0TMR7lWImLk57eeSTbFP0cE7QF3vLX6Ef\/EqH6okz\/43fLLCJvbCPVmQjbVlKX3bF8ebzUSnhtklKXEKPGf6HcdBuyza7QpjDUSwqcs8h2XsmPbY52Ynf5jU2Pb8nY10DP9y4miqMRoafsBUF9LxSvx6SkaT2mSYx468dVl2mIJ7BoE8mHpgO2xYkZXCAKCzJZi8lrqVjz8HYY6whKBGJd8nRNVaC3l3SN\/Cs3swTjf5obCEilfIKzjOBEFJEbycx2gZXvUCAhz0f\/CuLHPlGW0H7jV66KqdOUTa1Aa7kFkxD8wxJZ1I+ATlbCrNA+jwDBAXfKpSVbeyiO4R1oWQOnkPXy4eb8zIyTwn8uIvXFZ6I0BwJRhQ7wAyBOpbp\/haFjTFZWv41V6iD9uHpG9XqJo4d9h\/ToTkJvROKJby28N0s9HmTgtjnH9QwmA6MPNnvTBN8R16RrfTCXjePVuMr50cb47l\/Y3dDG+aqbq1K1sOIoQ696XmpiJeCv0Lj158XVEAr+C6JkDOAuGmChYLf35wUViT+aI2Al2Iw\/Lk9J5TvRQnFjNgZH0FMD7T81qgLC5EipKmnoKr5muqPlxFu5nmk3giCxMXMesKrZxiUDyfzRdHh+nQJDj5dreJ9+uYqWBsSU4AKP16nqL+ebGoMeOOEhS1A50fMvkpx33s8NLmXe3HPKKRc38SZs3Lz+ar\/oFjSvvQSidQ8RzEm\/uYvMzK2eZ0qpIwEJDKkcPtW9vtPOwGIbtBTQ4audc8BqhsaMP9G99H1uEEj0aebeIhFuTgHWc5ya9SPa+4bG4KjWEtgNafd4IemK2CRHlX148GrfZjf3UtZrNCVk5kjXOuSZgvS2cjkYGtu7LwIWCssZssGqFlYMWr2j31wAzTDtbisBza1ibJ+8j9mww5hQFwXaxgbrXVgDrxoKoJd1DdmfZ+ttz3J1kgqYdVzMuQ3pmL4mvxZuwsy6shFoo8NxRZoR4AYoezwu+b+lP5mEk4MV2B\/vSWu5k0fM2KRWbq1myC+hZtqiaWA1alvMOiOdzboCfjYvOUwu9O446HDE48L7KTTTRoc0wPIENGJD0SY4\/iwj7gGVJ5bPQU6WGgsrhxMbDSmjzl\/zpBHglbPzOyR85XcR2IZ+uayplUGBDlVMpr5+64WGOQX8DSV0v8snuWEl9ghd19uFsgxBXrJ87rs3EB6T8uaPVvzlOpxfa9K9VvbLUhrYNyefw0QyOanKHzr4XCOTAr5sYSxHcZYxIGeEfowr2vnh3iQFxGoVjsQCAIjEo2LGVXX0BCabNutdOR0t6cXKXRnBnXU0xbhmvZdHP89yNSDtdNLJjf\/e5JRIiZw6YTcW4BGmUJjhDdOg39ya\/pzf9Ydu8kIqWsA6qeVPB5KvxNhzSgl3urOncgC5NSRC8tW8zHo\/H\/IGKwPG\/OZd\/PYJuU6IWL4NhOgnNde9fQ==",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/gUxMl-AzWMT7Gaa0PPntg58WW5trb6QbxSqpL8w2vCI.js",
+
+      'HL_LOCALE': "en_US",
+      'TTS_URL': null,
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'SPF_PREFETCH': false,
+      'SPF_PREFETCH_MAX': 0,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'ADBLOCK_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': true,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"check_status": false, "log_pyv": false, "pyv_vars": {"iframe_json": "{\"google_ad_host\": \"ca-host-pub-4895533112976992\", \"google_yt_pt\": \"APb3F2_Rlu75GQoxPpLxLQ5CTzlEgq52R7zZ9KRbQZaC43i-VpB3cmF0cuetG5IosxjtQ1RfF4vCXVZcguKSap2jlJETQQK7ODNBjXow-g\", \"google_ad_block\": \"3\", \"google_ad_client\": \"ca-pub-6219811747049371\", \"google_max_num_ads\": 1, \"google_ad_type\": \"text\", \"google_loeid\": \"934118,936111,946023\", \"google_lact\": -1, \"google_video_doc_id\": \"yt_IgrEbJN8dcQ\", \"google_ad_channel\": \"PyvWatchInRelated+PyvYTWatch+PyvWatchNoAdX+pw+non_lpw+yt_mpvid_Bjvt3eYadT8y6eKU+yt_cid_1807756+ivp+afv_no_adsense+yt_no_ap+ytdevice_1+yt_no_cp+afv_user_id_D3nPgUqeSCmyT19mJm1MUw+afv_user_mrmarcsiegel\", \"google_ad_host_tier_id\": \"\", \"google_page_url\": \"http:\\\/\\\/www.youtube.com\\\/video\\\/IgrEbJN8dcQ\", \"google_eids\": [\"56702026\"], \"google_only_pyv_ads\": true, \"google_ad_output\": \"js\", \"google_language\": \"en\"}"}, "show_pyv": true, "show_afc": false, "use_gut": true, "gut_vars": {"tag": "\/4061\/ytunknown\/main"}, "show_instream": true, "afc_vars": {"ad_host_tier_id": "", "ad_channel": "yt_mpvid_Bjvt3eYadT8y6eKU+yt_cid_1807756+ivp+afv_no_adsense+yt_no_ap+ytdevice_1+yt_no_cp+afv_user_id_D3nPgUqeSCmyT19mJm1MUw+afv_user_mrmarcsiegel+ytel_detailpage+ytps_default+0854550287+Vertical_5+Vertical_11+Vertical_434+Vertical_742+afc_on_page", "language": "en", "video_doc_id": "yt_IgrEbJN8dcQ", "lact": -1, "format": "300x250_as", "ad_client": "ca-pub-6219811747049371", "ad_block": "2", "alternate_ad_url": "http:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div", "ad_type": "image", "ad_host": "ca-host-pub-4895533112976992"}, "show_afv": true, "afv_vars": {"google_lact": -1, "google_ad_host": "ca-host-pub-4895533112976992", "google_ad_host_tier_id": "", "google_yt_pt": "APb3F2_Rlu75GQoxPpLxLQ5CTzlEgq52R7zZ9KRbQZaC43i-VpB3cmF0cuetG5IosxjtQ1RfF4vCXVZcguKSap2jlJETQQK7ODNBjXow-g", "google_ad_height": "250", "google_ad_block": "2", "google_language": "en", "google_ad_client": "ca-pub-6219811747049371", "google_ad_format": "300x250_as", "google_alternate_ad_url": "http:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div", "google_page_url": "http:\/\/www.youtube.com\/video\/IgrEbJN8dcQ", "google_eids": ["56702026"], "google_ad_type": "image", "google_video_doc_id": "yt_IgrEbJN8dcQ", "google_ad_channel": "yt_mpvid_Bjvt3eYadT8y6eKU+yt_cid_1807756+ivp+afv_no_adsense+yt_no_ap+ytdevice_1+yt_no_cp+afv_user_id_D3nPgUqeSCmyT19mJm1MUw+afv_user_mrmarcsiegel+ytel_detailpage+ytps_default+0854550288+Vertical_5+Vertical_11+Vertical_434+Vertical_742", "google_loeid": "934118,936111,946023"}},
+      'PLAYBACK_ID': "AAT_5fBHiZu7iSFm",
+      'IS_ACTIVE_LIVE_VIDEO': false,
+      'IS_DISTILLER': true,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': "",
+      'PLAYLIST_INDEX': null
+    });
+
+    yt.setMsg({
+      'LOADING': "Loading..."    });
+
+      yt.setMsg('SPEEDYG_INFO', "Experiencing interruptions?");
+      yt.setConfig('SPEEDYG_PING', "https:\/\/ad.doubleclick.net\/activity;src=2542116;type=youtu444;cat=YouTu000;ord=");
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqbWdqVkhRS2JIN0ZmdFJQQk9GLV9id1BZX0o3Z3xBQ3Jtc0tsVjZVX0stUlo4SVRHNTRCUmlRUHZzb01WZzQ0Z3FHM19maTZfSW44Nl9adnpCVTVYR0N5N0hXaDVwVmRreDE0UkpWNE41ajN0V3hrZGZJQ0ZDMklUN2d3UUVOMUg1Z29Ibzhwb2RDbEx4ODIwV1RUMlByOFM0WTM5dF90RF9zR0RURzJpMzZhQ25lVWktcTBwY3B0eFE1MEZQQ2c=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+      yt.setConfig('DISTILLER_CONFIG', {"page_size": null, "host_override": "https:\/\/plus.googleapis.com", "reauth": false, "channel_id": "UCD3nPgUqeSCmyT19mJm1MUw", "query": "http:\/\/www.youtube.com\/watch?v=IgrEbJN8dcQ", "privacy_setting": "PUBLIC", "signin_url": "https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Dcomments%26action_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253DIgrEbJN8dcQ\u0026hl=en\u0026passive=true", "owner_id": "D3nPgUqeSCmyT19mJm1MUw", "video_id": "IgrEbJN8dcQ"});
+
+
+  </script>
+
+
+<script>yt.setConfig({'EVENT_ID': "5iDhU4KsJ87X8Qb0n4C4Bg",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.ZgMbf97wsK0.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTMKRpkCIa40hbsPiL8w0-a9gPRW2A",'GAPI_LOCALE': "en_US",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "CgtLMWdGM0YtTzFJaw%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "US",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20140722",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'INNERTUBE_API_VERSION': "v1",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflq6yea5\/www-pageframe.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflhmlJJ5\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vflxEdfih.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vflbgj9ev.css",'GUIDED_HELP_FIND_VIDEO_MANAGER_ENABLED': false,'GUIDED_HELP_CREATOR_STUDIO_ENABLED': true,'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflEIIru4.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflEyBLiy\/html5player.js",''         ],'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"amPms": ["AM", "PM"], "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "formatShortDate": "MMM d, yyyy", "formatLongDate": "MMMM d, yyyy h:mm a", "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "formatLongDateOnly": "MMMM d, yyyy", "shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "formatWeekdayShortTime": "EE h:mm a", "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]},'PAGE_CL': 72399710,'PAGE_BUILD_TIMESTAMP': "Fri Aug  1 07:54:38 2014 (1406904878)",'PLAYER_PERSISTENCE_REFACTOR': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"guide_subs": "NA", "experiments": "901608,902022,902408,906001,911507,912714,912719,912725,912909,914950,916928,916929,918119,918121,919389,920605,920609,921603,921910,921911,922413,922804,925011,927006,927622,927626,927881,927891,929237,929507,929509,929940,929943,930812,930819,931017,931020,931339,931341,931943,931950,931967,933218,934024,934030,934032,934113,934118,935020,935670,935707,936111,937003,937217,937422,937424,937817,938006,938009,938302,938632,938639,938681,938683,938703,938705,939201,940641,941414,941416,941810,941815,943301,943407,944702,945117,945401,945827,946023,947204,949001,949302,951601", "logged_in": false, "is_partner": "", "is_branded": "", "accept_language": null}});  yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbWdqVkhRS2JIN0ZmdFJQQk9GLV9id1BZX0o3Z3xBQ3Jtc0tsVjZVX0stUlo4SVRHNTRCUmlRUHZzb01WZzQ0Z3FHM19maTZfSW44Nl9adnpCVTVYR0N5N0hXaDVwVmRreDE0UkpWNE41ajN0V3hrZGZJQ0ZDMklUN2d3UUVOMUg1Z29Ibzhwb2RDbEx4ODIwV1RUMlByOFM0WTM5dF90RF9zR0RURzJpMzZhQ25lVWktcTBwY3B0eFE1MEZQQ2c=",
+    'XSRF_REDIRECT_TOKEN': "qkggE3fcZ9uTttSu7QUU3fOFdlp8MTQwNzM0OTM1MEAxNDA3MjYyOTUw",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vflBhcKhU.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vfl9adFcD\/www-searchbox.js",'SBOX_SETTINGS': {"REQUEST_LANGUAGE": "en", "REQUEST_DOMAIN": "us", "PSUGGEST_TOKEN": null, "PQ": "", "EXPERIMENT_ID": -1, "HAS_ON_SCREEN_KEYBOARD": false, "SESSION_INDEX": null},'SBOX_LABELS': {"SUGGESTION_DISMISS_LABEL": "Dismiss", "SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vflm9X8dC\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vfl9ljpRN.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 264);yt.setConfig({'TIMING_ACTION': "watch,watch7ad",'TIMING_INFO': {"yt_lt": "cold", "yt_ad_an": "aftv,afv", "e": "902408,927622,934024,934030,934118,936111,946023", "yt_pl": 0, "ei": "5iDhU4KsJ87X8Qb0n4C4Bg", "yt_ad_pr": 1, "yt_ad": 1, "yt_li": 0, "yt_spf": 0}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbWdqVkhRS2JIN0ZmdFJQQk9GLV9id1BZX0o3Z3xBQ3Jtc0tsVjZVX0stUlo4SVRHNTRCUmlRUHZzb01WZzQ0Z3FHM19maTZfSW44Nl9adnpCVTVYR0N5N0hXaDVwVmRreDE0UkpWNE41ajN0V3hrZGZJQ0ZDMklUN2d3UUVOMUg1Z29Ibzhwb2RDbEx4ODIwV1RUMlByOFM0WTM5dF90RF9zR0RURzJpMzZhQ25lVWktcTBwY3B0eFE1MEZQQ2c=",
+    'XSRF_REDIRECT_TOKEN': "qkggE3fcZ9uTttSu7QUU3fOFdlp8MTQwNzM0OTM1MEAxNDA3MjYyOTUw",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+</body></html>
+

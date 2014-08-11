@@ -1,0 +1,3455 @@
+start:0,&5544174505203268863,&12,&<!DOCTYPE htm
+
+start:1,&2198789490297088063,&44,&l>
+<html id="XenForo" lang="en-US
+
+start:2,&2477500771909117247,&63,&S" dir="LTR" class="
+
+start:3,&4206365815010361151,&93,&"Public LoggedOut Sidebar  Resp
+
+start:4,&4819799805442674239,&145,&ponsive" xmlns:fb="http://www.facebook.com/2008/fbml"
+
+start:5,&5631994939942338623,&189,&">
+<head>
+
+	<meta charset="utf-8" />
+	<meta h
+
+start:6,&5383018915439422911,&226,&http-equiv="X-UA-Compatible" content="
+
+start:7,&7896238157133868607,&325,&"IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	
+	
+
+start:8,&8604666761585813951,&404,&		<base href="http://www.linux.org/" />
+		<script>
+			var _b = document.getEleme
+
+start:9,&4878566485876381183,&655,&entsByTagName('base')[0], _bH = "http://www.linux.org/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>Linux.org</title>
+	
+	<noscript><style>.JsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css
+
+start:10,&538194948037572863,&701,&s.php?css=xenforo,form,public&amp;style=2&amp;d
+
+start:11,&4878566485876381183,&762,&dir=LTR&amp;d=1403699294" />
+	<link rel="stylesheet" href="css
+
+start:12,&7806457917878417983,&954,&s.php?css=EWRblock_Facebook,EWRblock_RecentNews,EWRblock_RecentThreads,EWRblock_StatusUpdates,EWRporta,EWRporta_BreakOut,bb_code,discussion_list,facebook,htmlblock_1,htmlblock_6,inline_mod,logi
+
+start:13,&3786879543240977215,&979,&in_bar,message_user_info&a
+
+start:14,&538194948037572863,&995,&amp;style=2&amp;d
+
+start:15,&1580845512408439295,&1058,&dir=LTR&amp;d=1403699294" />
+	
+	
+
+	<script>
+
+	var _gaq = [['_set
+
+start:16,&8601146343289135615,&1121,&tAccount', 'UA-26633152-2'], ['_trackPageview']];
+	!function(d, 
+
+start:17,&8541514279978379519,&1432,& t)
+	{
+		var g = d.createElement(t),
+			s = d.getElementsByTagName(t)[0];	
+		g.async = true;
+		g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g, s);
+	}
+	(document, 'script');
+
+	</script>
+		<script src="js/jquery/jquery-1.10.1
+
+start:18,&3416641688198332159,&1509,&1.min.js"></script>	
+		
+	<script src="js/xenforo/xenforo.js?_v=5a1a1b96"></scr
+
+start:19,&2374467241093765183,&1514,&ript>
+
+
+start:20,&3416641688198332159,&1576,&
+	<script src="js/xenforo/discussion_list.js?_v=5a1a1b96"></scr
+
+start:21,&2374467241093765183,&1581,&ript>
+
+
+start:22,&2594067998061305023,&1737,&
+
+	
+	<link rel="apple-touch-icon" href="http://www.linux.org/images/linux_org.png" />
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for L
+
+start:23,&8366717592919605503,&1790,&Linux.org" href="forums/-/index.rss" />
+	
+	<link rel="
+
+start:24,&5373331870276868991,&1893,&"canonical" href="http://www.linux.org/" />
+	<meta name="description" content="Linux Forum" />
+	<link re
+
+start:25,&2594067998061305023,&1955,&el="alternate" type="application/rss+xml" title="RSS feed for L
+
+start:26,&2167638983491163455,&1987,&Linux.org" href="portal/index.rss
+
+start:27,&2225097244184417599,&2018,&s" />
+	
+	<meta property="og:site
+
+start:28,&5617649271753020991,&2094,&e_name" content="Linux.org" />
+	
+	<meta property="og:image" content="http://w
+
+start:29,&7594324503491166271,&2142,&www.linux.org/images/linux_org.png" />
+	<meta pro
+
+start:30,&5617649271753020991,&2221,&operty="og:type" content="article" />
+	<meta property="og:url" content="http://w
+
+start:31,&2225097244184416831,&2263,&www.linux.org/" />
+	<meta property="og:titl
+
+start:32,&5961823145452317119,&2359,&le" content="Linux.org" />
+	
+	<meta property="fb:app_id" content="184703344946328" />
+	
+
+
+</head>
+
+start:33,&605333219522373439,&2405,&>
+
+<body>
+<!-- BuySellAds Ad Code -->
+<script t
+
+start:34,&8778045295785125311,&2425,&type="text/javascript
+
+start:35,&4314177417868052799,&2431,&t">
+(fu
+
+start:36,&8292464362461539199,&2447,&unction(){
+  var 
+
+start:37,&6061313244470063231,&2461,& bsa = document
+
+start:38,&4294434091660935103,&2466,&t.crea
+
+start:39,&8604671086900736447,&2470,&ateEl
+
+start:40,&8292912091002171839,&2560,&lement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 
+
+start:41,&3993706501566137535,&2708,& 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+
+start:42,&6021123345193022911,&2930,&;
+</script>
+<!-- End BuySellAds Ad Code -->
+
+
+
+	
+
+<div id="loginBar">
+	<div class="pageWidth">
+		<div class="pageContent">	
+			<h3 id="loginBarHandle">
+				<label for="LoginControl"><a href="login/" class="concealed noOutli
+
+start:43,&5613925926247487103,&2953,&ine">Log in or Sign up</
+
+start:44,&451553328437881727,&3125,&/a></label>
+			</h3>
+			
+			<span class="helper"></span>
+
+			
+		</div>
+	</div>
+</div>
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="EWRpor
+
+start:45,&5281568382175799679,&3270,&rta_Portal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<!-- main content area -->
+			
+			
+			
+			
+				<div class="mainContainer">
+		
+
+start:46,&582757870862121599,&3330,&				<div class="mainContent">
+						
+						
+
+						
+						
+		
+
+start:47,&3429377357516539391,&3358,&					<div class="breadBoxTop 
+
+start:48,&1236664150526791999,&3579,& ">
+							
+							
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=portal" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to.
+
+start:49,&1554021304844902143,&3677,&...--></a>
+			
+		<div class="boardTitle"><strong>Linux.org</strong></div>
+		
+		<span class="crumbs"
+
+start:50,&7628387930330504063,&3735,&">
+			
+			
+			
+				<span class="crust selectedTabCrumb" ite
+
+start:51,&8877356977159023871,&3864,&emscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://www.linux.org/" class="crumb" rel="up" 
+
+start:52,&1645369524316000703,&3919,& itemprop="url"><span itemprop="title">Home</span></a>
+	
+
+start:53,&6955523810483108671,&3967,&					<span class="arrow"><span>&gt;</span></span>
+
+start:54,&3397703105288032575,&4072,&>
+				</span>
+			
+			
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+					
+						<!--
+
+start:55,&3726358233205636223,&4079,&-[if lt 
+
+start:56,&81878707238380351,&4346,& IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome" target="_blank">alternative browser</a>.</p>
+						<![endif
+
+start:57,&7618029899102438783,&4444,&f]-->
+
+						
+												
+						
+						
+						
+												
+							<!-- h1 title, description -->
+
+
+start:58,&3927987763206770175,&4687,&
+							<div class="titleBar">
+								
+								<h1>Linux.org</h1>
+								
+								
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sidebar topRightBlocks ">
+	
+		
+
+<div class=
+
+start:59,&4464155329526780351,&4720,&="section">
+    <div id="HtmlBlock
+
+start:60,&199260184071675199,&4729,&k6">
+     
+
+start:61,&4658255593705504191,&4841,&    <ul>
+<li><a href="/forums/basic-tutorials.53/">Beginner Tutorials</a></li>
+<li><a href="/forums/intermediate-
+
+start:62,&3708851711768378751,&4992,&-tutorials.54/">Intermediate Tutorials</a></li>
+<li><a href="/forums/advanced-tutorials.55/">Advanced Tutorials</a></li>
+        </ul>
+    </div>
+</div>
+
+start:63,&4021043056761679039,&5032,&>
+	
+		<div class="section">
+    <div clas
+
+start:64,&8524861177802738175,&5065,&ss="secondaryContent" id="HtmlBloc
+
+start:65,&8957953175535476351,&5066,&ck
+
+start:66,&7719045726664377215,&5111,&k3">
+<div align="center">
+<!-- BuySellAds Zone
+
+start:67,&3685237787550589119,&5169,&e Code -->
+<div id="bsap_1288883" class="bsarocks bsap_f751
+
+start:68,&1012412146451380543,&5174,&11e222
+
+start:69,&6636999168253107711,&5359,&28a6119e86a0d5a77bb9c312"></div>
+<!-- End BuySellAds Zone Code -->
+</div>
+    </div>
+<div align="center"><a href="http://www.linux.org/pages/advertise/"><font size="4">Advertising slots 
+
+start:70,&848947523412847999,&5447,& available!  Click here for more information!</font></a></div>
+</div>
+	
+		
+
+
+
+<div id="re
+
+start:71,&7764886012066498623,&5487,&ecentNews">
+	
+		<div class="recentNews" i
+
+start:72,&5350459110147482559,&5499,&id="6364">
+		
+
+start:73,&3610944016628735999,&5536,&	
+			
+			
+				<div class="newsImage">
+
+
+start:74,&3397703105288032639,&5558,&
+					
+					
+						<a h
+
+start:75,&6169090056811249407,&5702,&href="threads/series-it-jobs-part-1-dos-and-donts.6364/"><img src="attachments/slide-jpg.1395/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:76,&3428074631640029567,&5710,&      <di
+
+start:77,&9102340097737832191,&5730,&iv class='newsTitle'>
+
+start:78,&7838250594947967999,&6052,&><h2><a href="threads/series-it-jobs-part-1-dos-and-donts.6364/" title="[Series] IT Jobs - Part 1: Do&#039;s and Don&#039;ts">[Series] IT Jobs - Part 1: Do&#039;s and Don&#039;ts</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/eric-hansen.5953/" class=
+
+start:79,&9102339998852331519,&6151,&="username">Eric Hansen</a></div>
+				<div class='newsDate'>Friday</div>
+				<div class='newsComment
+
+start:80,&5854208343991246399,&6155,&ts'><
+
+start:81,&1853483893486803583,&6222,&<a href="threads/series-it-jobs-part-1-dos-and-donts.6364/unread">20
+
+start:82,&6578637472764240191,&6251,&01 Views</a></div>
+			</div>
+
+
+
+start:83,&3428045944846266495,&6284,&
+		</div>
+                
+	
+		<di
+
+start:84,&7764886012066498623,&6306,&iv class="recentNews" i
+
+start:85,&5350453586853094335,&6318,&id="6406">
+		
+
+start:86,&3610944016628735999,&6355,&	
+			
+			
+				<div class="newsImage">
+
+
+start:87,&3397703105288032639,&6377,&
+					
+					
+						<a h
+
+start:88,&4035292647653119999,&6427,&href="threads/astronomy-software-for-linux.6406/"><
+
+start:89,&6169090056811249407,&6514,&<img src="attachments/slide-jpg.1424/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:90,&3428074631640029567,&6522,&      <di
+
+start:91,&9102340097737832191,&6542,&iv class='newsTitle'>
+
+start:92,&4035292647653119999,&6600,&><h2><a href="threads/astronomy-software-for-linux.6406/" t
+
+start:93,&9102339998852331519,&6912,&title="Astronomy Software for Linux">Astronomy Software for Linux</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/devyncjohnson.4843/" class="username">DevynCJohnson</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:94,&5854208343991246399,&6916,&ts'><
+
+start:95,&6578637472764240191,&7005,&<a href="threads/astronomy-software-for-linux.6406/unread">323 Views</a></div>
+			</div>
+
+
+
+start:96,&3428074631640029567,&7033,&
+		</div>
+                <di
+
+start:97,&7764886012066498623,&7092,&iv class="news-divider"></div>
+	
+		<div class="recentNews" i
+
+start:98,&5350459110164259775,&7104,&id="6367">
+		
+
+start:99,&3610944016628735999,&7141,&	
+			
+			
+				<div class="newsImage">
+
+
+start:100,&3397703105288032639,&7163,&
+					
+					
+						<a h
+
+start:101,&6169090056811249407,&7296,&href="threads/find-open-files-in-linux.6367/"><img src="attachments/slide-jpg.1398/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:102,&3428074631640029567,&7304,&      <di
+
+start:103,&9102340097737832191,&7324,&iv class='newsTitle'>
+
+start:104,&1399147195821902271,&7415,&><h2><a href="threads/find-open-files-in-linux.6367/" title="Find Open Files in Linux">Find 
+
+start:105,&4290771678520279679,&7438,& Open Files in Linux</a>
+
+start:106,&4565071350631648127,&7443,&></h2>
+
+start:107,&9102339998852331519,&7683,&></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/jarret-w-buse.5093/" class="username">Jarret W. Buse</a></div>
+				<div class='newsDate'>Friday</div>
+				<div class='newsComment
+
+start:108,&5854208343991246399,&7687,&ts'><
+
+start:109,&6578637472764240191,&7772,&<a href="threads/find-open-files-in-linux.6367/unread">623 Views</a></div>
+			</div>
+
+
+
+start:110,&3428045944846266495,&7805,&
+		</div>
+                
+	
+		<di
+
+start:111,&7764886012066498623,&7827,&iv class="recentNews" i
+
+start:112,&5350459114392118207,&7839,&id="6373">
+		
+
+start:113,&3610944016628735999,&7876,&	
+			
+			
+				<div class="newsImage">
+
+
+start:114,&3397703105288032639,&7898,&
+					
+					
+						<a h
+
+start:115,&6169090056811249407,&8033,&href="threads/overview-of-virtualization.6373/"><img src="attachments/slide-jpg.1406/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:116,&3428074631640029567,&8041,&      <di
+
+start:117,&9102340097737832191,&8061,&iv class='newsTitle'>
+
+start:118,&9102339998852331519,&8425,&><h2><a href="threads/overview-of-virtualization.6373/" title="Overview of Virtualization">Overview of Virtualization</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/devyncjohnson.4843/" class="username">DevynCJohnson</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:119,&5854208343991246399,&8429,&ts'><
+
+start:120,&5573338715901570623,&8497,&<a href="threads/overview-of-virtualization.6373/unread">668 Views</a
+
+start:121,&6578637472764240191,&8516,&a></div>
+			</div>
+
+
+
+start:122,&3428074631640029567,&8544,&
+		</div>
+                <di
+
+start:123,&7764886012066498623,&8603,&iv class="news-divider"></div>
+	
+		<div class="recentNews" i
+
+start:124,&5350459110181036991,&8615,&id="6366">
+		
+
+start:125,&3610944016628735999,&8652,&	
+			
+			
+				<div class="newsImage">
+
+
+start:126,&3397703105288032639,&8674,&
+					
+					
+						<a h
+
+start:127,&2816201528748951615,&8699,&href="threads/linux-linux-
+
+start:128,&7025305525473299007,&8718,&-shell-07-%E2%80%93-
+
+start:129,&6169090056811249407,&8835,&-shell-commands-part-4.6366/"><img src="attachments/slide-jpg.1396/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:130,&3428074631640029567,&8843,&      <di
+
+start:131,&9102340097737832191,&8863,&iv class='newsTitle'>
+
+start:132,&2816201528748951615,&8896,&><h2><a href="threads/linux-linux-
+
+start:133,&7025305525473299007,&8915,&-shell-07-%E2%80%93-
+
+start:134,&1271312753685174911,&8964,&-shell-commands-part-4.6366/" title="Linux+: Linux
+
+start:135,&9102339998852331519,&9298,&x Shell 07 – Shell Commands Part 4">Linux+: Linux Shell 07 – Shell Commands Part 4</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/jarret-w-buse.5093/" class="username">Jarret W. Buse</a></div>
+				<div class='newsDate'>Friday</div>
+				<div class='newsComment
+
+start:136,&5854208343991246399,&9302,&ts'><
+
+start:137,&2816201528748951615,&9330,&<a href="threads/linux-linux-
+
+start:138,&7025305525473299007,&9349,&-shell-07-%E2%80%93-
+
+start:139,&4766069148010370815,&9388,&-shell-commands-part-4.6366/unread">1,43
+
+start:140,&6578637472764240191,&9417,&39 Views</a></div>
+			</div>
+
+
+
+start:141,&3428045944846266495,&9450,&
+		</div>
+                
+	
+		<di
+
+start:142,&7764886012066498623,&9472,&iv class="recentNews" i
+
+start:143,&5350459114408895423,&9484,&id="6372">
+		
+
+start:144,&3610944016628735999,&9521,&	
+			
+			
+				<div class="newsImage">
+
+
+start:145,&3397703105288032639,&9543,&
+					
+					
+						<a h
+
+start:146,&6652407088060262015,&9562,&href="threads/python
+
+start:147,&6169090056811249407,&9677,&n-tools-and-software.6372/"><img src="attachments/slide-jpg.1405/" alt="slide.JPG" /></a>
+					
+					
+			           
+
+start:148,&3428074631640029567,&9685,&      <di
+
+start:149,&9102340097737832191,&9705,&iv class='newsTitle'>
+
+start:150,&6652407088060262015,&9732,&><h2><a href="threads/python
+
+start:151,&9102339998852331519,&10066,&n-tools-and-software.6372/" title="Python Tools and Software">Python Tools and Software</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/devyncjohnson.4843/" class="username">DevynCJohnson</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:152,&5854208343991246399,&10070,&ts'><
+
+start:153,&6652407088060262015,&10092,&<a href="threads/python
+
+start:154,&6578637472764240191,&10158,&n-tools-and-software.6372/unread">1,632 Views</a></div>
+			</div>
+
+
+
+start:155,&3428074631640029567,&10186,&
+		</div>
+                <di
+
+start:156,&7764886012066498623,&10245,&iv class="news-divider"></div>
+	
+		<div class="recentNews" i
+
+start:157,&5350459097195471807,&10257,&id="6330">
+		
+
+start:158,&3610944016628735999,&10294,&	
+			
+			
+				<div class="newsImage">
+
+
+start:159,&3397703105288032639,&10316,&
+					
+					
+						<a h
+
+start:160,&2816201528748951615,&10341,&href="threads/linux-linux-
+
+start:161,&6169090056811249407,&10477,&-shell-06-%E2%80%93-shell-commands-part-3.6330/"><img src="attachments/slide-jpg.1385/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:162,&3428074631640029567,&10485,&      <di
+
+start:163,&9102340097737832191,&10505,&iv class='newsTitle'>
+
+start:164,&2816201528748951615,&10538,&><h2><a href="threads/linux-linux-
+
+start:165,&1271312753685174911,&10606,&-shell-06-%E2%80%93-shell-commands-part-3.6330/" title="Linux+: Linux
+
+start:166,&9102339998852331519,&10940,&x Shell 06 – Shell Commands Part 3">Linux+: Linux Shell 06 – Shell Commands Part 3</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/jarret-w-buse.5093/" class="username">Jarret W. Buse</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:167,&5854208343991246399,&10944,&ts'><
+
+start:168,&2816201528748951615,&10972,&<a href="threads/linux-linux-
+
+start:169,&6578637472764240191,&11059,&-shell-06-%E2%80%93-shell-commands-part-3.6330/unread">2,078 Views</a></div>
+			</div>
+
+
+
+start:170,&3428045944846266495,&11092,&
+		</div>
+                
+	
+		<di
+
+start:171,&7764886012066498623,&11114,&iv class="recentNews" i
+
+start:172,&5350459092984390591,&11126,&id="6327">
+		
+
+start:173,&3610944016628735999,&11163,&	
+			
+			
+				<div class="newsImage">
+
+
+start:174,&3397703105288032639,&11185,&
+					
+					
+						<a h
+
+start:175,&6169090056811249407,&11320,&href="threads/qt-and-its-tools-explained.6327/"><img src="attachments/slide-jpg.1371/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:176,&3428074631640029567,&11328,&      <di
+
+start:177,&9102340097737832191,&11348,&iv class='newsTitle'>
+
+start:178,&9102339998852331519,&11712,&><h2><a href="threads/qt-and-its-tools-explained.6327/" title="Qt and Its Tools Explained">Qt and Its Tools Explained</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/devyncjohnson.4843/" class="username">DevynCJohnson</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:179,&5854208343991246399,&11716,&ts'><
+
+start:180,&6578637472764240191,&11805,&<a href="threads/qt-and-its-tools-explained.6327/unread">2,131 Views</a></div>
+			</div>
+
+
+
+start:181,&3428074631640029567,&11833,&
+		</div>
+                <di
+
+start:182,&7764886012066498623,&11892,&iv class="news-divider"></div>
+	
+		<div class="recentNews" i
+
+start:183,&5350459093017945023,&11904,&id="6329">
+		
+
+start:184,&3610944016628735999,&11941,&	
+			
+			
+				<div class="newsImage">
+
+
+start:185,&3397703105288032639,&11963,&
+					
+					
+						<a h
+
+start:186,&8685106889436793087,&11983,&href="threads/downloa
+
+start:187,&3592591121898245631,&12020,&ading-with-torrents.6329/"><img src="a
+
+start:188,&6169090056811249407,&12097,&attachments/slide-jpg.1384/" alt="slide.jpg" /></a>
+					
+					
+			           
+
+start:189,&3428074631640029567,&12105,&      <di
+
+start:190,&9102340097737832191,&12125,&iv class='newsTitle'>
+
+start:191,&8685106889436793087,&12153,&><h2><a href="threads/downloa
+
+start:192,&2229526641547254015,&12230,&ading-with-torrents.6329/" title="Downloading with Torrents">Downloading with 
+
+start:193,&9102339998852331519,&12487,& Torrents</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/jarret-w-buse.5093/" class="username">Jarret W. Buse</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:194,&5854208343991246399,&12491,&ts'><
+
+start:195,&8685106889436793087,&12514,&<a href="threads/downloa
+
+start:196,&6578637472764240191,&12579,&ading-with-torrents.6329/unread">4,226 Views</a></div>
+			</div>
+
+
+
+start:197,&3428045944846266495,&12612,&
+		</div>
+                
+	
+		<di
+
+start:198,&7764886012066498623,&12634,&iv class="recentNews" i
+
+start:199,&5350459093001167807,&12646,&id="6326">
+		
+
+start:200,&3610944016628735999,&12683,&	
+			
+			
+				<div class="newsImage">
+
+
+start:201,&3397703105288032639,&12705,&
+					
+					
+						<a h
+
+start:202,&8685106889402980095,&12725,&href="threads/display
+
+start:203,&8860291837097212991,&12766,&y-servers-windowing-systems.6326/"><img sr
+
+start:204,&5771110552019227263,&12768,&rc=
+
+start:205,&6169090056811249407,&12847,&="attachments/slide-jpg.1370/" alt="slide.JPG" /></a>
+					
+					
+			           
+
+start:206,&3428074631640029567,&12855,&      <di
+
+start:207,&9102340097737832191,&12875,&iv class='newsTitle'>
+
+start:208,&8685106889402980095,&12903,&><h2><a href="threads/display
+
+start:209,&9102339998852331519,&13260,&y-servers-windowing-systems.6326/" title="Display-Servers/Windowing-Systems">Display-Servers/Windowing-Systems</a></h2></div>
+				</div>
+			
+			
+			
+			
+			<div class='newsDetails'>
+				<div class='newsAuthor'>By <a href="members/devyncjohnson.4843/" class="username">DevynCJohnson</a></div>
+				<div class='newsDate'>Sunday</div>
+				<div class='newsComment
+
+start:210,&5854208343991246399,&13264,&ts'><
+
+start:211,&8685106889402980095,&13287,&<a href="threads/display
+
+start:212,&6578637472764240191,&13360,&y-servers-windowing-systems.6326/unread">3,047 Views</a></div>
+			</div>
+
+
+
+start:213,&3428074631640029567,&13388,&
+		</div>
+                <di
+
+start:214,&7876541831016223039,&13436,&iv class="news-divider"></div>
+	
+</div>
+<script t
+
+start:215,&8778045295785125311,&13456,&type="text/javascript
+
+start:216,&7944552919197606335,&13544,&t">
+<!--
+
+$(document).ready(function(){
+
+$(".newsImage").hover(function(){
+  $(this).chil
+
+start:217,&2407762136638056767,&13595,&ldren(".newsTitle").stop().animate({"background-colo
+
+start:218,&4013826963737477311,&13769,&or": "#5884ab", "text-indent": "20px"}, 500, function(){
+    $(this).css("background-image", "url(/images/arrow-white.png)");
+});
+//  $(this).children(".newsTitle").children("
+
+start:219,&1845220612666259519,&13812,&"h2").children("a").stop().animate({"color":
+
+start:220,&1135617932152599039,&13923,&: "#000000"}, 500);
+}, function(){
+$(this).children(".newsTitle").css("background-image", "none");
+  $(this).chi
+
+start:221,&2407762136638056767,&13975,&ildren(".newsTitle").stop().animate({"background-colo
+
+start:222,&5891728196898776767,&14001,&or": "#000000", "text-inden
+
+start:223,&190971249893979263,&14029,&nt": "8px"}, 500);
+//  $(this
+
+start:224,&4013826963737477311,&14064,&s).children(".newsTitle").children("
+
+start:225,&1845220612666259519,&14107,&"h2").children("a").stop().animate({"color":
+
+start:226,&8824939968707312255,&14137,&: "#ffffff"}, 500);
+});
+
+});
+
+/
+
+start:227,&2882119216982984511,&14158,&// -->
+</script>
+	
+		
+
+
+start:228,&5040411502118534399,&14215,&
+	
+	
+
+	
+
+		
+		
+
+		<form action="inline-mod/thread/switch" 
+
+start:229,&8260773754364229055,&14306,& method="post"
+			class="DiscussionList InlineModForm"
+			data-cookieName="threads"
+			data-
+
+start:230,&7586669149706405759,&14315,&-controls=
+
+start:231,&1849490680267029375,&14351,&="#InlineModControls"
+			data-imodOpt
+
+start:232,&1740618269752236223,&14367,&tions="#Moderatio
+
+start:233,&3407627346786044095,&14374,&onSelect
+
+start:234,&471055769482849215,&14383,&t option">
+
+start:235,&3709826383575962495,&14396,&>
+
+			<div cla
+
+start:236,&7084262152954147007,&14423,&ass="discussionList section 
+
+start:237,&976967352528695551,&14501,& sectionMain" id="recentThreads">
+				<dl class="sectionHeaders">
+					<dt clas
+
+start:238,&9162595289312400255,&14941,&ss="posterAvatar"></dt>
+					<dd class="main">
+						<a class="title"><span>Recent Threads</span></a>
+						<a class="postDate"><span>Start Date</span></a>
+					</dd>
+					<dd class="stats">
+						<a class="major"><span>Replies</span></a>
+						<a class="minor"><span>Views</span></a>
+					</dd>
+					<dd class="lastPost"><a><span>Last Message</span></a></dd>
+				</dl>
+
+				<ol class="discussionListItems">
+					
+						
+
+
+
+<li id="thread-64
+
+start:239,&7344215616428918015,&15014,&405" class="discussionListItem visible  " data-author="Ŧђэ Џή4ģı√
+
+start:240,&9097490038578434431,&15046,&�эή1">
+
+	<div class="listBlock 
+
+start:241,&233148254426467903,&15075,& posterAvatar">
+		<span class=
+
+start:242,&83088288298150335,&15097,&="avatarContainer">
+			
+
+start:243,&14032066092371711,&15231,&	<a href="members/%C5%A6%D1%92%D1%8D-%D0%8F%CE%AE4%C4%A3%C4%B1%E2%88%9A%D1%8D%CE%AE1.19318/" class="avatar Av19318s" data-avatarhtml="t
+
+start:244,&4224467933596676223,&15272,&true"><img src="data/avatars/s/19/19318.jp
+
+start:245,&7344215616428918015,&15333,&pg?1407020207" width="48" height="48" alt="Ŧђэ Џή4ģı√
+
+start:246,&9097490038578434431,&15393,&�эή1" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:247,&5646541419540057983,&15404,& main">
+
+		<
+
+start:248,&2334760548110230911,&15417,&<div class="ti
+
+start:249,&6224760506806539583,&15604,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/need-help.6405/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/need-help.6405/preview">N
+
+start:250,&7344215616428918015,&15853,&Need help</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/%C5%A6%D1%92%D1%8D-%D0%8F%CE%AE4%C4%A3%C4%B1%E2%88%9A%D1%8D%CE%AE1.19318/" class="username" title="Thread starter">Ŧђэ Џή4ģı√
+
+start:251,&2094068508528639935,&15988,&�эή1</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407020037" data-diff="242867" data
+
+start:252,&7561135387912119359,&16033,&a-datestring="Aug 2, 2014" data-timestring="6:
+
+start:253,&717409514530003775,&16070,&:53 PM">Aug 2, 2014 at 6:53 PM</abbr><
+
+start:254,&8666360904188406015,&16185,&</a></span><span class="containerName">,
+					<a href="forums/general-linux.8/" class="forumLink">General Linux</a><
+
+start:255,&6578637472764240191,&16278,&</span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:256,&9097490038578434431,&16318,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:257,&2804469831572251455,&16441,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>5</dd></dl>
+
+start:258,&7556060184920079487,&16506,&>
+		<dl class="minor"><dt>Views:</dt> <dd>366</dd></dl>
+	</div>
+
+	
+
+start:259,&9097490038578434431,&16528,&	<div class="listBlock 
+
+start:260,&6256248537917879295,&16547,& lastPost">
+		
+			<d
+
+start:261,&7097690038105914623,&16614,&dl class="lastPostInfo">
+				<dt><a href="members/arochester.3112/" 
+
+start:262,&7097705312352645887,&16649,& class="username">arochester</a></dt
+
+start:263,&7561135387912119359,&16805,&t>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407261552" data-diff="1352" data-datestring="Aug 5, 2014" data-timestring="1:
+
+start:264,&3562385158305966463,&16850,&:59 PM">Aug 5, 2014 at 1:59 PM</abbr></a></dd>
+
+start:265,&2131739804843935359,&16877,&>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:266,&9162595289312400255,&16912,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:267,&1256774954496500735,&16979,&416" class="discussionListItem visible  " data-author="bashcommando"
+
+start:268,&9097490038578434431,&17005,&">
+
+	<div class="listBlock 
+
+start:269,&233148254426467903,&17034,& posterAvatar">
+		<span class=
+
+start:270,&83088288298150335,&17056,&="avatarContainer">
+			
+
+start:271,&14032066092371711,&17136,&	<a href="members/bashcommando.14604/" class="avatar Av14604s" data-avatarhtml="t
+
+start:272,&4008295173008129151,&17177,&true"><img src="data/avatars/s/14/14604.jp
+
+start:273,&9097490038578434431,&17286,&pg?1390925907" width="48" height="48" alt="bashcommando" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:274,&5646541419540057983,&17297,& main">
+
+		<
+
+start:275,&2334760548110230911,&17310,&<div class="ti
+
+start:276,&1626716817725393919,&17548,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/writing-a-piece-of-code-and-failing.6416/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/writing-a-piece-of-code-and-failing.6416/preview">
+
+start:277,&3132562817989049535,&17561,&>Writing a pie
+
+start:278,&2414835552678019135,&17871,&ece of code and failing.</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/bashcommando.14604/" class="username" title="Thread starter">bashcommando</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407198573" 
+
+start:279,&7561135387912119359,&17938,& data-diff="64331" data-datestring="Aug 4, 2014" data-timestring="8:
+
+start:280,&6578637472764240191,&18192,&:29 PM">Aug 4, 2014 at 8:29 PM</abbr></a></span><span class="containerName">,
+					<a href="forums/general-computing.28/" class="forumLink">General Computing</a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:281,&9097490038578434431,&18232,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:282,&2804469831572251455,&18355,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>5</dd></dl>
+
+start:283,&7556060184920079487,&18420,&>
+		<dl class="minor"><dt>Views:</dt> <dd>172</dd></dl>
+	</div>
+
+	
+
+start:284,&9097490038578434431,&18442,&	<div class="listBlock 
+
+start:285,&6256248537917879295,&18461,& lastPost">
+		
+			<d
+
+start:286,&1860919210056321919,&18575,&dl class="lastPostInfo">
+				<dt><a href="members/bashcommando.14604/" class="username">bashcommando</a></dt>
+				<
+
+start:287,&7561135387912119359,&18724,&<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407257467" data-diff="5437" data-datestring="Aug 5, 2014" data-timestring="12
+
+start:288,&3562385158305966463,&18771,&2:51 PM">Aug 5, 2014 at 12:51 PM</abbr></a></dd>
+
+start:289,&2131739804843935359,&18798,&>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:290,&9162595289312400255,&18833,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:291,&3898322951935483583,&18845,&419" class="d
+
+start:292,&9097490038578434431,&18928,&discussionListItem visible  " data-author="uravglinuxuser">
+
+	<div class="listBlock 
+
+start:293,&233148254426467903,&18957,& posterAvatar">
+		<span class=
+
+start:294,&83088288298150335,&18979,&="avatarContainer">
+			
+
+start:295,&14032066092371711,&19061,&	<a href="members/uravglinuxuser.19481/" class="avatar Av19481s" data-avatarhtml="t
+
+start:296,&4224467933612996991,&19102,&true"><img src="data/avatars/s/19/19481.jp
+
+start:297,&9097490038578434431,&19213,&pg?1407251218" width="48" height="48" alt="uravglinuxuser" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:298,&5646541419540057983,&19224,& main">
+
+		<
+
+start:299,&2334760548110230911,&19237,&<div class="ti
+
+start:300,&2308521833605029183,&19336,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/hello.6419/"
+					title=""
+
+start:301,&2811778635054743039,&19432,&"
+					class="PreviewTooltip"
+					data-previewUrl="threads/hello.6419/preview">Hello!</a>
+				
+	
+
+start:302,&3742476637007577279,&19621,&			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/uravglinuxuser.19481/" class="username" title="Thread starter">uravglinuxuser</a><span class=
+
+start:303,&7561135387912119359,&19779,&="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407251025" data-diff="11879" data-datestring="Aug 5, 2014" data-timestring="11
+
+start:304,&1280207149588574719,&19918,&1:03 AM">Aug 5, 2014 at 11:03 AM</abbr></a></span><span class="containerName">,
+					<a href="forums/member-introductions.6/" class="forumLi
+
+start:305,&6578637472764240191,&20040,&ink">Member Introductions</a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:306,&9097490038578434431,&20080,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:307,&7556060184920079487,&20267,& stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>0</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>23</dd></dl>
+	</div>
+
+	
+
+start:308,&9097490038578434431,&20289,&	<div class="listBlock 
+
+start:309,&6256248537917879295,&20308,& lastPost">
+		
+			<d
+
+start:310,&3698707248712073983,&20424,&dl class="lastPostInfo">
+				<dt><a href="members/uravglinuxuser.19481/" class="username">uravglinuxuser</a></dt>
+			
+
+start:311,&7561135387912119359,&20576,&		<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407251025" data-diff="11879" data-datestring="Aug 5, 2014" data-timestring="11
+
+start:312,&2131739804843935359,&20650,&1:03 AM">Aug 5, 2014 at 11:03 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:313,&9162595289312400255,&20685,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:314,&1256774954496500735,&20752,&417" class="discussionListItem visible  " data-author="bashcommando"
+
+start:315,&9097490038578434431,&20778,&">
+
+	<div class="listBlock 
+
+start:316,&233148254426467903,&20807,& posterAvatar">
+		<span class=
+
+start:317,&83088288298150335,&20829,&="avatarContainer">
+			
+
+start:318,&14032066092371711,&20909,&	<a href="members/bashcommando.14604/" class="avatar Av14604s" data-avatarhtml="t
+
+start:319,&4008295173008129151,&20950,&true"><img src="data/avatars/s/14/14604.jp
+
+start:320,&9097490038578434431,&21059,&pg?1390925907" width="48" height="48" alt="bashcommando" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:321,&5646541419540057983,&21070,& main">
+
+		<
+
+start:322,&2334760548110230911,&21083,&<div class="ti
+
+start:323,&1680749245428902527,&21188,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/dpkg-error.6417/"
+					title=""
+
+
+start:324,&7561135387912119359,&21635,&
+					class="PreviewTooltip"
+					data-previewUrl="threads/dpkg-error.6417/preview">DPKG Error</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/bashcommando.14604/" class="username" title="Thread starter">bashcommando</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407199406" data-diff="63498" data-datestring="Aug 4, 2014" data-timestring="8:
+
+start:325,&5584678021195962303,&21786,&:43 PM">Aug 4, 2014 at 8:43 PM</abbr></a></span><span class="containerName">,
+					<a href="forums/command-line.10/" class="forumLink">Command Line</a><
+
+start:326,&6578637472764240191,&21879,&</span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:327,&9097490038578434431,&21919,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:328,&1020810646291646591,&22103,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>147</dd></dl>
+	</div
+
+start:329,&7556060184920079487,&22107,&v>
+
+	
+
+start:330,&9097490038578434431,&22129,&	<div class="listBlock 
+
+start:331,&6256248537917879295,&22148,& lastPost">
+		
+			<d
+
+start:332,&1860919210056321919,&22262,&dl class="lastPostInfo">
+				<dt><a href="members/bashcommando.14604/" class="username">bashcommando</a></dt>
+				<
+
+start:333,&7561135387912119359,&22412,&<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407248267" data-diff="14637" data-datestring="Aug 5, 2014" data-timestring="10
+
+start:334,&2131739804843935359,&22486,&0:17 AM">Aug 5, 2014 at 10:17 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:335,&9162595289312400255,&22521,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:336,&9097490038578434431,&22614,&418" class="discussionListItem visible  " data-author="ivanbg@linux">
+
+	<div class="listBlock 
+
+start:337,&233148254426467903,&22643,& posterAvatar">
+		<span class=
+
+start:338,&83088288298150335,&22665,&="avatarContainer">
+			
+
+start:339,&14032066092371711,&22745,&	<a href="members/ivanbg-linux.19470/" class="avatar Av19470s" data-avatarhtml="t
+
+start:340,&4224467933613062271,&22786,&true"><img src="data/avatars/s/19/19470.jp
+
+start:341,&9097490038578434431,&22895,&pg?1407221481" width="48" height="48" alt="ivanbg@linux" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:342,&5646541419540057983,&22906,& main">
+
+		<
+
+start:343,&2334760548110230911,&22919,&<div class="ti
+
+start:344,&9207696905716687039,&23001,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/forgotten
+
+start:345,&9104611873002569023,&23015,&n-password-for-
+
+start:346,&7710824182271355775,&23037,&-kde-help-me-please.641
+
+start:347,&9207696905716687039,&23122,&18/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/forgotten
+
+start:348,&9104611873002569023,&23136,&n-password-for-
+
+start:349,&7710824182271355775,&23158,&-kde-help-me-please.641
+
+start:350,&3477344516762908607,&23353,&18/preview">Forgotten password for KDE - help me, please!</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/ivanbg-linux.19470/" class="user
+
+start:351,&7561135387912119359,&23568,&rname" title="Thread starter">ivanbg@linux</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407221262" data-diff="41642" data-datestring="Aug 5, 2014" data-timestring="2:
+
+start:352,&1152865178174445951,&23607,&:47 AM">Aug 5, 2014 at 2:47 AM</abbr></a
+
+start:353,&8666360904188406015,&23720,&a></span><span class="containerName">,
+					<a href="forums/general-linux.8/" class="forumLink">General Linux</a><
+
+start:354,&6578637472764240191,&23813,&</span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:355,&9097490038578434431,&23853,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:356,&5993236193706457919,&24036,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>119</dd></dl>
+	</di
+
+start:357,&7556060184920079487,&24041,&iv>
+
+	
+
+start:358,&9097490038578434431,&24063,&	<div class="listBlock 
+
+start:359,&6256248537917879295,&24082,& lastPost">
+		
+			<d
+
+start:360,&1860919210056321919,&24196,&dl class="lastPostInfo">
+				<dt><a href="members/bashcommando.14604/" class="username">bashcommando</a></dt>
+				<
+
+start:361,&7561135387912119359,&24346,&<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407248227" data-diff="14677" data-datestring="Aug 5, 2014" data-timestring="10
+
+start:362,&2131739804843935359,&24420,&0:17 AM">Aug 5, 2014 at 10:17 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:363,&9162595289312400255,&24455,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:364,&9097490038578434431,&24542,&410" class="discussionListItem visible  " data-author="Tayfur">
+
+	<div class="listBlock 
+
+start:365,&233148254426467903,&24571,& posterAvatar">
+		<span class=
+
+start:366,&83088288298150335,&24593,&="avatarContainer">
+			
+
+start:367,&8457194010678724671,&24622,&	<a href="members/tayfur.19437
+
+start:368,&14032066092371711,&24667,&7/" class="avatar Av19437s" data-avatarhtml="t
+
+start:369,&4224467933613326207,&24708,&true"><img src="data/avatars/s/19/19437.jp
+
+start:370,&3696118081349462783,&24732,&pg?1407143172" width="48"
+
+start:371,&9097490038578434431,&24811,&" height="48" alt="Tayfur" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:372,&5646541419540057983,&24822,& main">
+
+		<
+
+start:373,&2334760548110230911,&24835,&<div class="ti
+
+start:374,&9209088905858907071,&24917,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/can-not-t
+
+start:375,&9209088905858907071,&25035,&turn-on-off-the-power-on-wi-fi.6410/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/can-not-t
+
+start:376,&8457194010678724671,&25237,&turn-on-off-the-power-on-wi-fi.6410/preview">Can not turn on/off the power on Wi-Fi.</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/tayfur.19437
+
+start:377,&7561135387912119359,&25461,&7/" class="username" title="Thread starter">Tayfur</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407142038" data-diff="120866" data-datestring="Aug 4, 2014" data-timestring="4:
+
+start:378,&5708669257894408447,&25498,&:47 AM">Aug 4, 2014 at 4:47 AM</abbr><
+
+start:379,&2553612805995756351,&25499,&</
+
+start:380,&7021099762281451071,&25592,&/a></span><span class="containerName">,
+					<a href="forums/laptops-netbooks.20/" class="foru
+
+start:381,&3887210099267326719,&25593,&um
+
+start:382,&4437007782063122943,&25628,&mLink">Laptops / Netbooks</a></span>
+
+start:383,&6578637472764240191,&25715,&>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:384,&9097490038578434431,&25755,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:385,&7556060184920079487,&25943,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>2</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>186</dd></dl>
+	</div>
+
+	
+
+start:386,&9097490038578434431,&25965,&	<div class="listBlock 
+
+start:387,&6256248537917879295,&25984,& lastPost">
+		
+			<d
+
+start:388,&8457194010678724671,&26045,&dl class="lastPostInfo">
+				<dt><a href="members/tayfur.19437
+
+start:389,&7561135387912119359,&26236,&7/" class="username">Tayfur</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407211665" data-diff="51239" data-datestring="Aug 5, 2014" data-timestring="12
+
+start:390,&2131739804843935359,&26310,&2:07 AM">Aug 5, 2014 at 12:07 AM</abbr></a></dd>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:391,&9162595289312400255,&26345,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:392,&2713204457635756287,&26359,&408" class="dis
+
+start:393,&1719878521623665727,&26413,&scussionListItem visible  " data-author="Videodrome">
+
+
+
+start:394,&6202265293670061119,&26415,&
+	<
+
+start:395,&9097490038578434431,&26436,&<div class="listBlock 
+
+start:396,&233148254426467903,&26465,& posterAvatar">
+		<span class=
+
+start:397,&83088288298150335,&26487,&="avatarContainer">
+			
+
+start:398,&14032066092371711,&26565,&	<a href="members/videodrome.11483/" class="avatar Av11483s" data-avatarhtml="t
+
+start:399,&3648007215669312383,&26606,&true"><img src="data/avatars/s/11/11483.jp
+
+start:400,&8075590130806229311,&26610,&pg?13
+
+start:401,&3056481131941346111,&26623,&384709988" wid
+
+start:402,&1845174187596901183,&26665,&dth="48" height="48" alt="Videodrome" /></a
+
+start:403,&9097490038578434431,&26713,&a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:404,&5646541419540057983,&26724,& main">
+
+		<
+
+start:405,&2334760548110230911,&26737,&<div class="ti
+
+start:406,&3975773192489034879,&27313,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/plan-9-from-bell-labs-anybody-use-this.6408/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/plan-9-from-bell-labs-anybody-use-this.6408/preview">Plan 9 From Bell Labs: Anybody use this?</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/videodrome.11483/" class="username" title="Thread starter">Videodrome</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407093538" data-diff
+
+start:407,&7561135387912119359,&27372,&f="169366" data-datestring="Aug 3, 2014" data-timestring="3:
+
+start:408,&222632442245406783,&27401,&:18 PM">Aug 3, 2014 at 3:18 PM
+
+start:409,&8757005363672640191,&27491,&M</abbr></a></span><span class="containerName">,
+					<a href="forums/other-distributions.3
+
+start:410,&1280207149588574719,&27509,&36/" class="forumLi
+
+start:411,&6578637472764240191,&27630,&ink">Other Distributions</a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:412,&9097490038578434431,&27670,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:413,&7556060184920079487,&27859,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>13</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>272</dd></dl>
+	</div>
+
+	
+
+start:414,&9097490038578434431,&27881,&	<div class="listBlock 
+
+start:415,&6256248537917879295,&27900,& lastPost">
+		
+			<d
+
+start:416,&1860919210056321919,&28014,&dl class="lastPostInfo">
+				<dt><a href="members/bashcommando.14604/" class="username">bashcommando</a></dt>
+				<
+
+start:417,&7561135387912119359,&28164,&<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407198756" data-diff="64148" data-datestring="Aug 4, 2014" data-timestring="8:
+
+start:418,&3562385158305966463,&28209,&:32 PM">Aug 4, 2014 at 8:32 PM</abbr></a></dd>
+
+start:419,&2131739804843935359,&28236,&>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:420,&9162595289312400255,&28271,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:421,&1256774954496500735,&28338,&409" class="discussionListItem visible  " data-author="bashcommando"
+
+start:422,&9097490038578434431,&28364,&">
+
+	<div class="listBlock 
+
+start:423,&233148254426467903,&28393,& posterAvatar">
+		<span class=
+
+start:424,&83088288298150335,&28415,&="avatarContainer">
+			
+
+start:425,&14032066092371711,&28495,&	<a href="members/bashcommando.14604/" class="avatar Av14604s" data-avatarhtml="t
+
+start:426,&4008295173008129151,&28536,&true"><img src="data/avatars/s/14/14604.jp
+
+start:427,&9097490038578434431,&28645,&pg?1390925907" width="48" height="48" alt="bashcommando" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:428,&5646541419540057983,&28656,& main">
+
+		<
+
+start:429,&2334760548110230911,&28669,&<div class="ti
+
+start:430,&1434100187148216063,&28970,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/five-reasons-id-rather-run-windows-8-than-linux-i-dont-think-so.6409/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/five-reasons-id-rather-run-windows-8-than-linux-i-dont-think-so.6409/preview">Five re
+
+start:431,&6401464548841820223,&28993,&easons I'd rather run Wi
+
+start:432,&7561135387912119359,&29385,&indows 8 than Linux. I don't think so.</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/bashcommando.14604/" class="username" title="Thread starter">bashcommando</a><span class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407109985" data-diff="152919" data-datestring="Aug 3, 2014" data-timestring="7:
+
+start:433,&222632425065802559,&29414,&:53 PM">Aug 3, 2014 at 7:53 PM
+
+start:434,&3012791479215920063,&29419,&M</abb
+
+start:435,&8666360904188406015,&29537,&br></a></span><span class="containerName">,
+					<a href="forums/general-linux.8/" class="forumLink">General Linux</a><
+
+start:436,&6578637472764240191,&29630,&</span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:437,&9097490038578434431,&29670,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:438,&7556060184920079487,&29858,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>4</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>803</dd></dl>
+	</div>
+
+	
+
+start:439,&9097490038578434431,&29880,&	<div class="listBlock 
+
+start:440,&6256248537917879295,&29899,& lastPost">
+		
+			<d
+
+start:441,&7561135387912119359,&30154,&dl class="lastPostInfo">
+				<dt><a href="members/ryanvade.2159/" class="username">ryanvade</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407191054" data-diff="71850" data-datestring="Aug 4, 2014" data-timestring="6:
+
+start:442,&3562385158305966463,&30199,&:24 PM">Aug 4, 2014 at 6:24 PM</abbr></a></dd>
+
+start:443,&2131739804843935359,&30226,&>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:444,&9162595289312400255,&30261,&
+
+
+					
+						
+
+
+
+<li id="thread-64
+
+start:445,&9097490038578434431,&30345,&415" class="discussionListItem visible  " data-author="Rob">
+
+	<div class="listBlock 
+
+start:446,&233148254426467903,&30374,& posterAvatar">
+		<span class=
+
+start:447,&83088288298150335,&30396,&="avatarContainer">
+			
+
+start:448,&14032066092371711,&30436,&	<a class="avatar Avs" data-avatarhtml="t
+
+start:449,&9097490038578434431,&30582,&true"><img src="styles/default/xenforo/avatars/avatar_s.png" width="48" height="48" alt="Rob" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:450,&5646541419540057983,&30593,& main">
+
+		<
+
+start:451,&2334760548110230911,&30606,&<div class="ti
+
+start:452,&2641324679323064063,&31006,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/lfd-excessive-resource-usage.6415/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/lfd-excessive-resource-usage.6415/preview">LFD: Excessive resource usage</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a class="username" title="Thread starter">Rob</a><span c
+
+start:453,&7561135387912119359,&31169,&class="startDate">,
+					<a class="faint"><abbr class="DateTime" title="" data-time="1407178359" data-diff="84545" data-datestring="Aug 4, 2014" data-timestring="2:
+
+start:454,&7619458665842159103,&31274,&:52 PM">Aug 4, 2014 at 2:52 PM</abbr></a></span><span class="containerName">,
+					<a href="forums/linux-n
+
+start:455,&227306258570710207,&31283,&news.2/" c
+
+start:456,&6578637472764240191,&31408,&class="forumLink">Linux News</a></span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:457,&9097490038578434431,&31448,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:458,&7556060184920079487,&31636,& stats pairsJustified" title="Members who liked the first message: 0">
+		<dl class="major"><dt>Replies:</dt> <dd>0</dd></dl>
+		<dl class="minor"><dt>Views:</dt> <dd>148</dd></dl>
+	</div>
+
+	
+
+start:459,&9097490038578434431,&31658,&	<div class="listBlock 
+
+start:460,&6256248537917879295,&31677,& lastPost">
+		
+			<d
+
+start:461,&172405011256197887,&31736,&dl class="lastPostInfo">
+				<dt><a class="username">Rob</a>
+
+start:462,&7561135387912119359,&31897,&></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407178359" data-diff="84545" data-datestring="Aug 4, 2014" data-timestring="2:
+
+start:463,&3562385158305966463,&31942,&:52 PM">Aug 4, 2014 at 2:52 PM</abbr></a></dd>
+
+start:464,&2131739804843935359,&31969,&>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:465,&9162595289312400255,&32004,&
+
+
+					
+						
+
+
+
+<li id="thread-35
+
+start:466,&9097490038578434431,&32094,&579" class="discussionListItem visible  " data-author="SevenBits">
+
+	<div class="listBlock 
+
+start:467,&233148254426467903,&32123,& posterAvatar">
+		<span class=
+
+start:468,&83088288298150335,&32145,&="avatarContainer">
+			
+
+start:469,&8817117270047423807,&32192,&	<a href="members/sevenbits.3291/" class="avatar
+
+start:470,&2836184634976721151,&32200,&r Av3291s
+
+start:471,&14032066092371711,&32220,&s" data-avatarhtml="t
+
+start:472,&9097490038578434431,&32372,&true"><img src="styles/default/xenforo/avatars/avatar_s.png" width="48" height="48" alt="SevenBits" /></a>
+			
+		</span>
+	</div>
+
+	<div class="listBlock 
+
+start:473,&5646541419540057983,&32383,& main">
+
+		<
+
+start:474,&2334760548110230911,&32396,&<div class="ti
+
+start:475,&8685106919603031039,&32476,&itleText">
+			
+
+			<h3 class="title">
+				
+				
+				
+				<a href="threads/mac-lin
+
+start:476,&1726567420711708479,&32492,&nux-usb-loader.35
+
+start:477,&6913494270662336639,&32494,&579
+
+start:478,&1726567420711708479,&32592,&9/"
+					title=""
+					class="PreviewTooltip"
+					data-previewUrl="threads/mac-linux-usb-loader.35
+
+start:479,&6913494270662336639,&32594,&579
+
+start:480,&5713869986664862399,&32599,&9/prev
+
+start:481,&1587184568642895167,&32806,&view">Mac Linux USB Loader</a>
+				
+			</h3>
+			
+			<div class="secondRow">
+				<div class="posterDate muted">
+					<a href="members/sevenbits.3291/" class="username" title="Thread starter">SevenBits</a><span
+
+start:482,&7718615297588151295,&32903,&n class="startDate">,
+					<a class="faint"><span class="DateTime" title="" title="Dec 12, 2012 at
+
+start:483,&5753645967574438591,&32923,&t 7:18 PM">Dec 12, 20
+
+start:484,&8666360904188406015,&33048,&012</span></a></span><span class="containerName">,
+					<a href="forums/general-linux.8/" class="forumLink">General Linux</a><
+
+start:485,&6578637472764240191,&33141,&</span>
+
+					
+				</div>
+
+				<div class="controls faint">
+					
+					
+				</div>
+			</div>
+	
+
+start:486,&9097490038578434431,&33181,&		</div>
+	</div>
+
+	<div class="listBlock 
+
+start:487,&2804469831572251455,&33304,& stats pairsJustified" title="Members who liked the first message: 1">
+		<dl class="major"><dt>Replies:</dt> <dd>5</dd></dl>
+
+start:488,&7556060184920079487,&33372,&>
+		<dl class="minor"><dt>Views:</dt> <dd>10,296</dd></dl>
+	</div>
+
+	
+
+start:489,&9097490038578434431,&33394,&	<div class="listBlock 
+
+start:490,&6256248537917879295,&33413,& lastPost">
+		
+			<d
+
+start:491,&2304310616519955583,&33486,&dl class="lastPostInfo">
+				<dt><a href="members/ramon-lins.19456/" class
+
+start:492,&7561135387912119359,&33673,&s="username">ramon lins</a></dt>
+				<dd class="muted"><a class="dateTime"><abbr class="DateTime" data-time="1407168706" data-diff="94198" data-datestring="Aug 4, 2014" data-timestring="12
+
+start:493,&3562385158305966463,&33720,&2:11 PM">Aug 4, 2014 at 12:11 PM</abbr></a></dd>
+
+start:494,&2131739804843935359,&33747,&>
+			</dl>
+		
+	</div>
+</li>
+
+
+start:495,&5144497171470091775,&33835,&
+
+
+					
+				</ol>
+			</div>
+
+			<input type="hidden" name="_xfToken" value="" />
+		</for
+
+start:496,&640440288726846015,&33923,&rm>
+
+	
+
+	<div id="PreviewTooltip">
+	<span class="arrow"><span></span></span>
+	
+	<div clas
+
+start:497,&240876729556081599,&33967,&ss="section">
+		<div class="primaryContent pr
+
+start:498,&6256455231225403135,&33970,&revi
+
+start:499,&7391997810458459263,&34227,&iewContent">
+			<span class="PreviewContents">Loading...</span>
+		</div>
+	</div>
+</div>
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="sectionMain footerBreakout portaCopy"><div class="portaCopy copyright muted">
+	<a href="http://xenforo.com/community/resources/90/">
+
+start:500,&582757870862121599,&34343,&>XenPorta</a>
+	&copy; Jason Axelrod from <a href="http://8wayrun.com/">8WAYRUN.COM</a>
+</div></div>
+
+						
+						
+		
+
+start:501,&7827564421611996735,&34394,&					
+						
+							<!-- login form, to be moved to 
+
+start:502,&2226037091505234815,&34539,& the upper drop-down -->
+							
+
+
+
+
+
+<form action="login/login" method="post" class="xenForm eAuth" id="login" style="display:none">
+
+	
+		<ul id=
+
+start:503,&6310795939864904383,&34590,&="eAuthUnit">
+			
+				
+				
+					
+					<li><a href="
+
+start:504,&9017322581503365311,&34641,&"register/facebook?reg=1" class="fbLogin" tabindex="
+
+start:505,&562283896009444479,&34663,&"110"><span>Login with 
+
+start:506,&2052100291010098239,&34888,& Facebook</span></a></li>
+				
+				
+			
+		</ul>
+	
+
+	<div class="ctrlWrapper">
+		<dl class="ctrlUnit">
+			<dt><label for="LoginControl">Your name or email address:</label></dt>
+			<dd><input type="text" name="login" id="LoginCo
+
+start:507,&610170282541977855,&35019,&ontrol" class="textCtrl" tabindex="101" /></dd>
+		</dl>
+	
+	
+		<dl class="ctrlUnit">
+			<dt>
+				<label for="ctrl_password">Do you al
+
+start:508,&635640973631767295,&35029,&lready have
+
+start:509,&3520612667604057343,&35168,&e an account?</label>
+			</dt>
+			<dd>
+				<ul>
+					<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="
+
+start:510,&3520612663309090047,&35341,&"ctrl_not_registered" tabindex="105" />
+						No, create an account now.</label></li>
+					<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="
+
+start:511,&1201029045220882303,&35384,&"ctrl_registered" tabindex="105" checked="ch
+
+start:512,&6012156122018495359,&35402,&hecked" class="Disa
+
+start:513,&6094105259994795007,&35471,&abler" />
+						Yes, my password is:</label></li>
+					<li id="ctrl_re
+
+start:514,&964570391827778111,&35571,&egistered_Disabler">
+						<input type="password" name="password" class="textCtrl" id="ctrl_password"
+
+start:515,&2577347302179796607,&35599,&" tabindex="102" />
+						<di
+
+start:516,&7334085402108511871,&35655,&iv class="lostPassword"><a href="lost-password/" class="O
+
+start:517,&1019242368143225471,&35720,&OverlayTrigger OverlayCloser" tabindex="106">Forgot your password?
+
+start:518,&580899401664303615,&36030,&?</a></div>
+					</li>
+				</ul>
+			</dd>
+		</dl>
+	
+		
+		<dl class="ctrlUnit submitUnit">
+			<dt></dt>
+			<dd>
+				<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign Up" />
+				<label for="ctrl_remember" class="rememberPassword"><input ty
+
+start:519,&3520612667604057343,&36074,&ype="checkbox" name="remember" value="1" id="
+
+start:520,&2456462360778778495,&36166,&"ctrl_remember" tabindex="103" /> Stay logged in</label>
+			</dd>
+		</dl>
+	</div>
+
+	<input ty
+
+start:521,&7597231590542837311,&36217,&ype="hidden" name="cookie_check" value="1" />
+	<inpu
+
+start:522,&6706416410018827199,&36324,&ut type="hidden" name="redirect" value="/" />
+	<input type="hidden" name="_xfToken" value="" />
+
+</form>
+			
+
+start:523,&9092307807619947455,&36495,&				
+						
+					</div>
+				</div>
+				
+				<!-- sidebar -->
+				<aside>
+					<div class="sidebar">
+						
+						
+						
+
+<div class="section loginButton">		
+	<div class="s
+
+start:524,&7304221308687641215,&36614,&secondaryContent">
+		<label for="LoginControl" id="SignupButton"><a href="login/" class="inner">Sign Up Now!</a></label>
+
+start:525,&355985306313885759,&36642,&>
+	</div>
+</div>
+
+
+
+
+
+						
+
+
+start:526,&1033400069965844735,&36656,&
+	
+		
+
+<div cla
+
+start:527,&3927987763206770175,&36659,&ass=
+
+start:528,&4021043056761679039,&36683,&="section">
+    <div clas
+
+start:529,&8524861177802738175,&36716,&ss="secondaryContent" id="HtmlBloc
+
+start:530,&8957953175535476351,&36717,&ck
+
+start:531,&7368483422136421823,&36737,&k1">
+<!-- BEGIN: Benc
+
+start:532,&605333219522373439,&36779,&chmark Email Signup Form Code -->
+<script t
+
+start:533,&8778045295785125311,&36799,&type="text/javascript
+
+start:534,&1657124694025979391,&36833,&t" id="lbscript166458" src="//www.b
+
+start:535,&4309673025585368255,&36981,&benchmarkemail.com/code/lbformnew.js?mFcQnoBFKMQlaa97ViGSReZXUawFafLCP8J8ZF%252BGWZtHNHYysVoPng%253D%253D"></script><noscript>Please enable JavaScrip
+
+start:536,&4166599537075833343,&37181,&pt <br /><a href="http://www.benchmarkemail.com" target=_new style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;">Email Marketing Services</a> by Benchmark<
+
+start:537,&5367877682064544511,&37214,&</noscript>
+<!-- END: Benchmark Em
+
+start:538,&3708851711768378751,&37257,&mail Signup Form Code -->
+
+    </div>
+</div>
+
+start:539,&4464155329526780351,&37306,&>
+	
+		<div class="section">
+    <div id="HtmlBlock
+
+start:540,&204902928647494975,&37315,&k">
+      
+
+start:541,&7719045726664377215,&37358,&   <div align="center">
+<!-- BuySellAds Zone
+
+start:542,&3685237787550589119,&37416,&e Code -->
+<div id="bsap_1277312" class="bsarocks bsap_f751
+
+start:543,&1012412146451380543,&37421,&11e222
+
+start:544,&8241574873517992831,&37546,&28a6119e86a0d5a77bb9c312"></div>
+<!-- End BuySellAds Zone Code -->
+<br />
+<a href="http://www.linuxbrigade.com"><img src="/ima
+
+start:545,&5680717238693399679,&37597,&ages/linuxbrigade_300.png" border="0"></a><br />
+   
+
+start:546,&7413853918280373823,&37618,&      </div>
+    </div
+
+start:547,&3708851711768378751,&37626,&v>
+</div>
+
+start:548,&1992195448535568127,&37724,&>
+	
+		
+
+<!-- block: sidebar_online_staff -->
+
+<!-- end block: sidebar_online_staff -->
+
+<!-- block:
+
+start:549,&3108487465541210623,&37726,&: s
+
+start:550,&9092307807619947455,&37811,&sidebar_online_users -->
+<div class="section membersOnline userList">		
+	<div class="s
+
+start:551,&9063242814126471615,&38000,&secondaryContent">
+		<h3><a href="online/" title="See all online users">Members Online Now</a></h3>
+		
+		
+		
+			
+			
+			<ol class="listInline">
+				
+					
+						<li>
+						
+							<a href="m
+
+start:552,&3423007395521048575,&38033,&members/mayurp7.17709/"
+								cl
+
+start:553,&3927987763206770175,&38269,&lass="username">mayurp7</a>
+						
+						</li>
+					
+				
+				
+			</ol>
+		
+		
+		<div class="footnote">
+			Total: 825 (members: 2, guests: 799, robots: 24)
+		</div>
+	</div>
+</div>
+<!-- end block: sidebar_online_users -->
+	
+		
+
+<div class=
+
+start:554,&4559327313605787583,&38381,&="section avatarList">
+	<div class="secondaryContent" id="statusUpdates">
+		<h3>Recent Status Updates</h3>
+
+		
+		
+
+start:555,&14032066092371711,&38482,&	<ul>
+			
+			
+				<li>
+					<a href="members/fanhao.17608/" class="avatar Av17608s" data-avatarhtml="t
+
+start:556,&4287538710035494591,&38668,&true"><img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Fanhao" /></a>
+					<a href="members/fanhao.17608/" class="username" style="display: inline;"
+
+start:557,&5128959071841478591,&38791,&">Fanhao</a>
+					<span class="userTitle">HaHaHaHa (<abbr class="DateTime" data-time="1407221669" data-diff="41235" data-dat
+
+start:558,&7561135387912119359,&38832,&testring="Aug 5, 2014" data-timestring="2:
+
+start:559,&2946248346884163647,&38938,&:54 AM">Aug 5, 2014 at 2:54 AM</abbr>)</span>
+				</li>
+			
+				<li>
+					<a href="members/kevinlindstrom.1
+
+start:560,&14032066092371711,&38987,&19431/" class="avatar Av19431s" data-avatarhtml="t
+
+start:561,&4224467933613324671,&39028,&true"><img src="data/avatars/s/19/19431.jp
+
+start:562,&4096362686861091519,&39093,&pg?1407096592" width="48" height="48" alt="KevinLindstrom" /></a>
+
+
+start:563,&2946248346884163647,&39131,&
+					<a href="members/kevinlindstrom.1
+
+start:564,&4287538710035494591,&39179,&19431/" class="username" style="display: inline;"
+
+start:565,&7561135387912119359,&39349,&">KevinLindstrom</a>
+					<span class="userTitle">Linux (<abbr class="DateTime" data-time="1407096629" data-diff="166275" data-datestring="Aug 3, 2014" data-timestring="4:
+
+start:566,&222632420770572351,&39378,&:10 PM">Aug 3, 2014 at 4:10 PM
+
+start:567,&14032066092371711,&39556,&M</abbr>)</span>
+				</li>
+			
+				<li>
+					<a href="members/%C5%A6%D1%92%D1%8D-%D0%8F%CE%AE4%C4%A3%C4%B1%E2%88%9A%D1%8D%CE%AE1.19318/" class="avatar Av19318s" data-avatarhtml="t
+
+start:568,&4224467933596676223,&39597,&true"><img src="data/avatars/s/19/19318.jp
+
+start:569,&7344215616428918015,&39658,&pg?1407020207" width="48" height="48" alt="Ŧђэ Џή4ģı√
+
+start:570,&4287538710035494591,&39810,&�эή1" /></a>
+					<a href="members/%C5%A6%D1%92%D1%8D-%D0%8F%CE%AE4%C4%A3%C4%B1%E2%88%9A%D1%8D%CE%AE1.19318/" class="username" style="display: inline;"
+
+start:571,&1651302178386001279,&39823,&">Ŧђэ Џή4
+
+start:572,&6928158225899987071,&39824,&4�
+
+start:573,&7344215616428918015,&39830,&ģı√
+
+start:574,&2545380237577268927,&39943,&�эή1</a>
+					<span class="userTitle">i need a Ddos or any type of ip flooder im in a chat room service called a
+
+start:575,&5173508065536971967,&40020,&ares and ive been getting ddos&#039;d and booted i need some help please (<abb
+
+start:576,&1177728222195450111,&40076,&br class="DateTime" data-time="1406955647" data-diff="307
+
+start:577,&7561135387912119359,&40130,&7257" data-datestring="Aug 2, 2014" data-timestring="1:
+
+start:578,&8008168143950303039,&40244,&:00 AM">Aug 2, 2014 at 1:00 AM</abbr>)</span>
+				</li>
+			
+				<li>
+					<a href="members/wllis.19377/" class="ava
+
+start:579,&14032066092371711,&40276,&atar Av19377s" data-avatarhtml="t
+
+start:580,&4224467933596286847,&40317,&true"><img src="data/avatars/s/19/19377.jp
+
+start:581,&5560335170845290047,&40324,&pg?14068
+
+start:582,&953647266144588287,&40376,&873835" width="48" height="48" alt="wllis" /></a>
+			
+
+start:583,&4287538710035494591,&40450,&			<a href="members/wllis.19377/" class="username" style="display: inline;"
+
+start:584,&7561135387912119359,&40621,&">wllis</a>
+					<span class="userTitle">Never giveup!!! (<abbr class="DateTime" data-time="1406873782" data-diff="389122" data-datestring="Aug 1, 2014" data-timestring="2:
+
+start:585,&5164852892935149311,&40634,&:16 AM">Aug 1,
+
+start:586,&14032066092371711,&40778,&, 2014 at 2:16 AM</abbr>)</span>
+				</li>
+			
+				<li>
+					<a href="members/wilfred-m-rascon.19372/" class="avatar Av19372s" data-avatarhtml="t
+
+start:587,&4224467933596285567,&40819,&true"><img src="data/avatars/s/19/19372.jp
+
+start:588,&4287538710035494591,&40974,&pg?1406844237" width="48" height="48" alt="WILFRED M RASCON" /></a>
+					<a href="members/wilfred-m-rascon.19372/" class="username" style="display: inline;"
+
+start:589,&6975407206800513151,&41045,&">WILFRED M RASCON</a>
+					<span class="userTitle">linux is the best os
+
+start:590,&2224725462628010943,&41069,&s in the world (<abbr cla
+
+start:591,&7508428476244406143,&41147,&ass="DateTime" data-time="1406844201" data-diff="418703" data-datestring="Jul 3
+
+start:592,&7561135387912119359,&41175,&31, 2014" data-timestring="6:
+
+start:593,&8648027888613345855,&41265,&:03 PM">Jul 31, 2014 at 6:03 PM</abbr>)</span>
+				</li>
+			
+			
+		</ul>
+		
+
+		
+	</div>
+</d
+
+start:594,&2131739804843937407,&41268,&div>
+
+start:595,&4464155329526780351,&41317,&>
+	
+		<div class="section">
+    <div id="HtmlBlock
+
+start:596,&200386083978517823,&41326,&k2">
+     
+
+start:597,&7719045726664377215,&41370,&    <div align="center">
+<!-- BuySellAds Zone
+
+start:598,&524460813270216383,&41410,&e Code -->
+<div id="bsap_1288933" class="
+
+start:599,&3685237787550589119,&41428,&"bsarocks bsap_f751
+
+start:600,&1012412146451380543,&41433,&11e222
+
+start:601,&3708851711768378751,&41530,&28a6119e86a0d5a77bb9c312"></div>
+<!-- End BuySellAds Zone Code -->
+<br />
+</div>
+    </div>
+</div>
+
+start:602,&2641501790766504383,&41563,&>
+	
+		<div class="section">
+	<div 
+
+start:603,&8116016306484574399,&41602,& class="secondaryContent statsList" id="
+
+start:604,&3453673777267388287,&41617,&"boardStats">
+		
+
+start:605,&2875362707267121471,&41679,&	<h3>Forum Statistics</h3>
+		<div class="pairsJustified">
+			<d
+
+start:606,&1919095107271202751,&41725,&dl class="discussionCount"><dt>Discussions:</dt
+
+start:607,&703127804155065599,&41762,&t>
+				<dd>5,929</dd></dl>
+			<dl clas
+
+start:608,&703127804155065599,&41834,&ss="messageCount"><dt>Messages:</dt>
+				<dd>20,993</dd></dl>
+			<dl clas
+
+start:609,&3920206604006361663,&41868,&ss="memberCount"><dt>Members:</dt>
+
+
+start:610,&703127804155065599,&41904,&
+				<dd>15,025</dd></dl>
+			<dl clas
+
+start:611,&8660700142309146879,&41923,&ss="mostCount"><dt>U
+
+start:612,&2653887428472609983,&41939,&User Record:</dt>
+
+start:613,&4003266724186923391,&41942,&>
+		
+
+start:614,&3421257776081195711,&42142,&			<dd class="Tooltip" title="Dec 10, 2013">4,476</dd></dl>
+			<dl><dt>Latest Member:</dt>
+				<dd><a href="members/zhuyunfei.19483/" class="username" text="rich">zhuyunfei</a></dd></dl>
+			<!-- slot: 
+
+start:615,&4093289185433288191,&42175,& forum_stats_extra -->
+		</div>
+	<
+
+start:616,&3927987763206770175,&42205,&</div>
+</div>
+	
+		
+
+<div class=
+
+start:617,&2641501790766504383,&42222,&="section">
+	<div 
+
+start:618,&8970924157042679167,&42260,& class="secondaryContent" id="facebook"
+
+start:619,&5843955578829093567,&42261,&">
+
+start:620,&4339756013433190399,&42303,&>
+		<h3>Facebook Group</h3>
+		<script src="
+
+start:621,&6601833210883952255,&42402,&"http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+		
+		<div class="facebookOuter">
+			<di
+
+start:622,&9120391990228481471,&42408,&iv clas
+
+start:623,&9006387983079098815,&42481,&ss="fb-like-box" data-href="https://www.facebook.com/LinuxDotOrg" data-wid
+
+start:624,&764873725605275775,&42520,&dth="232" data-height="280" data-show-bo
+
+start:625,&4021043056761679039,&42691,&order="false" data-show-faces="true" data-colorscheme="light" data-stream="false" data-header="false"></div>
+		</div>
+	</div>
+</div>
+	
+		<div class="section">
+    <div clas
+
+start:626,&8524861177802738175,&42724,&ss="secondaryContent" id="HtmlBloc
+
+start:627,&8957953175535476351,&42725,&ck
+
+start:628,&8778045295785125311,&42786,&k4">
+<!-- start feedwind code --><script type="text/javascript
+
+start:629,&8778045295785125311,&42833,&t">document.write('<script type="text/javascript
+
+start:630,&655032001906171711,&42847,&t" src="' + ('h
+
+start:631,&2145875802585359679,&42945,&https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js"><
+
+start:632,&8778045295785125311,&42995,&<\/script>');</script><script type="text/javascript
+
+start:633,&4838724027767924223,&43008,&t">(function()
+
+start:634,&3802240118622594623,&43012,&) {va
+
+start:635,&7475351963737888383,&43034,&ar params = {rssmikle_u
+
+start:636,&8344335231524924607,&43136,&url: "http://www.linuxnews.pro/feed/",rssmikle_frame_width: "275",rssmikle_frame_height: "260",rssmikle
+
+start:637,&8054522962117469311,&43139,&e_ta
+
+start:638,&3771411323693787775,&43196,&arget: "_blank",rssmikle_font: "Arial, Helvetica, sans-ser
+
+start:639,&7654056623294793087,&43201,&rif",r
+
+start:640,&5757865264247995199,&43229,&rssmikle_font_size: "12",rssm
+
+start:641,&7228768165138144319,&43253,&mikle_border: "off",respo
+
+start:642,&2645491004085522175,&43691,&onsive: "off",rssmikle_css_url: "",text_align: "left",corner: "off",autoscroll: "on",scrolldirection: "up",scrollstep: "3",mcspeed: "20",sort: "New",rssmikle_title: "on",rssmikle_title_sentence: "",rssmikle_title_link: "",rssmikle_title_bgcolor: "#3E3E3E",rssmikle_title_color: "#FFFFFF",rssmikle_title_bgimage: "",rssmikle_item_bgcolor: "#FFFFFF",rssmikle_item_bgimage: "",rssmikle_item_title_length: "55",rssmikle_item_title_color: "#666
+
+start:643,&3387051742839960639,&43875,&6666",rssmikle_item_border_bottom: "on",rssmikle_item_description: "off",rssmikle_item_description_length: "150",rssmikle_item_description_color: "#666666",rssmikle_item_date: "gl1",rss
+
+start:644,&6669256678167560191,&43943,&smikle_timezone: "Etc/GMT",datetime_format: "%b %e, %Y %l:%M:%S %p",r
+
+start:645,&8896144923573623679,&44046,&rssmikle_item_description_tag: "off",rssmikle_item_description_image_scaling: "off",article_num: "15",rs
+
+start:646,&3933221659333693183,&44047,&ss
+
+start:647,&1521953082352576639,&44066,&smikle_item_podcast:
+
+start:648,&4193833914912346815,&44175,&: "off"};feedwind_show_widget_iframe(params);})();</script><div style="font-size:10px; text-align:center; widt
+
+start:649,&7361457610775893823,&44193,&th:275;"><a href="h
+
+start:650,&3823908698096972607,&44293,&http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a><!--Please display 
+
+start:651,&5443646159166692543,&44341,& the above link in your web page according to Ter
+
+start:652,&7157875934273544639,&44387,&rms of Service.--></div><!-- end feedwind code 
+
+start:653,&3708851711768378751,&44409,& -->
+
+    </div>
+</div>
+
+start:654,&582757870862121599,&44429,&>
+	
+
+						
+						
+		
+
+start:655,&6769815507781618047,&44461,&				</div>
+				</aside>
+			
+			
+	
+
+start:656,&3429377357516542975,&44494,&						
+			<div class="breadBoxBott
+
+start:657,&1236664150526791999,&44701,&tom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="misc/quick-navigation-menu?selected=portal" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to.
+
+start:658,&1554021304844902143,&44799,&...--></a>
+			
+		<div class="boardTitle"><strong>Linux.org</strong></div>
+		
+		<span class="crumbs"
+
+start:659,&9030793879464404159,&44921,&">
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="http://www.linux.org/" class="crumb"><span>Home</spa
+
+start:660,&1645369524316000703,&44929,&an></a>
+	
+
+start:661,&6955523810483108671,&44977,&					<span class="arrow"><span>&gt;</span></span>
+
+start:662,&4649003209323695487,&45119,&>
+				</span>
+			
+			
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+<div id="header">
+	<div
+
+start:663,&6044496034385309631,&45124,&v id="
+
+start:664,&4456248698444992959,&45133,&"logoBlock
+
+start:665,&4810964292344959,&45277,&k">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="http://www.linux.org/">
+				<span></span>
+				<img sr
+
+start:666,&7871554811478863551,&45318,&rc="images/linux_org.png" alt="Linux.org" 
+
+start:667,&4043055163410456831,&45551,& />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth withSearch">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+	
+
+start:668,&7530986805301297791,&45578,&		
+		
+		
+		<!-- extra tabs: 
+
+start:669,&6578988513039011967,&45765,& home -->
+		
+		
+			
+				<li class="navTab portal selected">
+			
+				<a href="http://www.linux.org/" class="navLink">Home</a>
+				<a href="http://www.linux.org/" class="SplitCtrl" rel="Menu
+
+start:670,&240876729556081599,&45853,&u"></a>
+				
+				<div class="tabLinks portalTabLinks">
+					<div class="primaryContent me
+
+start:671,&8479727935160965311,&45879,&enuHeader">
+						<h3>Home<
+
+start:672,&7790546224966010751,&45916,&</h3>
+						<div class="muted">Quick L
+
+start:673,&1375053967519814655,&45937,&Links</div>
+					</div
+
+start:674,&2895765353503068991,&46095,&v>
+					<ul class="secondaryContent blockLinksList">
+	
+	<li><a href="recent-activity/">Recent Activity</a></li>
+	<li><a href="find-new/threads">What's New?</a>
+
+start:675,&3373163613910415999,&46237,&></li>
+	<li><a href="help/">Help</a></li>
+	
+</ul>
+				</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums Popup Po
+
+start:676,&4916072330239780223,&46343,&opupControl PopupClosed">
+			
+				<a href="http://www.linux.org/forums/" class="navLink">Forums</a>
+				<a 
+
+start:677,&6578988513039011967,&46406,& href="http://www.linux.org/forums/" class="SplitCtrl" rel="Menu
+
+start:678,&240876729556081599,&46505,&u"></a>
+				
+				<div class="Menu JsOnly tabMenu forumsTabLinks">
+					<div class="primaryContent me
+
+start:679,&7790546224966010751,&46570,&enuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick L
+
+start:680,&1375053967519814655,&46591,&Links</div>
+					</div
+
+start:681,&6310795939864904383,&46675,&v>
+					<ul class="secondaryContent blockLinksList">
+					
+						
+						<li><a href="
+
+start:682,&6310795939864904383,&46743,&"search/?type=post">Search Forums</a></li>
+						
+						<li><a href="
+
+start:683,&7530986805301297791,&46861,&"find-new/posts" rel="nofollow">Recent Posts</a></li>
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: 
+
+start:684,&6578988513039011967,&47100,& middle -->
+		
+		
+			
+				<li class="navTab resources Popup PopupControl PopupClosed">
+			
+				<a href="http://www.linux.org/resources/" class="navLink">Resources</a>
+				<a href="http://www.linux.org/resources/" class="SplitCtrl" rel="Menu
+
+start:685,&240876729556081599,&47202,&u"></a>
+				
+				<div class="Menu JsOnly tabMenu resourcesTabLinks">
+					<div class="primaryContent me
+
+start:686,&6003376990279262463,&47234,&enuHeader">
+						<h3>Resources</
+
+start:687,&6995692929768561407,&47237,&/h3>
+
+start:688,&7790546224966010751,&47270,&>
+						<div class="muted">Quick L
+
+start:689,&1375053967519814655,&47291,&Links</div>
+					</div
+
+start:690,&5335685135875847999,&47377,&v>
+					<ul class="secondaryContent blockLinksList">
+	<li><a href="search/?type=resourc
+
+start:691,&2298074615145225343,&47389,&ce_update">Se
+
+start:692,&3769218484107407103,&47460,&earch Resources</a></li>
+	<li><a href="resources/authors">Most Active Au
+
+start:693,&8825655848420673663,&47488,&uthors</a></li>
+	
+	
+</ul>
+			
+
+start:694,&2013658738413933951,&47576,&		</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popu
+
+start:695,&6578988513039011967,&47752,&up PopupControl PopupClosed">
+			
+				<a href="http://www.linux.org/members/" class="navLink">Members</a>
+				<a href="http://www.linux.org/members/" class="SplitCtrl" rel="Menu
+
+start:696,&240876729556081599,&47852,&u"></a>
+				
+				<div class="Menu JsOnly tabMenu membersTabLinks">
+					<div class="primaryContent me
+
+start:697,&8479727935161160383,&47878,&enuHeader">
+						<h3>Membe
+
+start:698,&7790546224966010751,&47918,&ers</h3>
+						<div class="muted">Quick L
+
+start:699,&1375053967519814655,&47939,&Links</div>
+					</div
+
+start:700,&6310795939864904383,&48016,&v>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="
+
+start:701,&1691773834611691391,&48022,&"member
+
+start:702,&6310795939864904383,&48077,&rs/">Notable Members</a></li>
+						
+						<li><a href="
+
+start:703,&6310795939864904383,&48131,&"online/">Current Visitors</a></li>
+						<li><a href="
+
+start:704,&7530986805301297791,&48240,&"recent-activity/">Recent Activity</a></li>
+					
+					</ul>
+				</div>
+			</li>
+						
+		
+		<!-- extra tabs: 
+
+start:705,&299057899250989695,&48419,& end -->
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPo
+
+start:706,&424498424269692287,&48422,&opup
+
+start:707,&6137808238477174399,&48427,&pGadge
+
+start:708,&5731121424453174911,&48466,&et"><span class="menuIcon">Menu</span></
+
+start:709,&7107400838098102271,&48577,&/a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+	
+
+start:710,&4308802064407249343,&48620,&		
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	
+
+
+start:711,&1300835024526791807,&48631,&
+</div>
+
+<sp
+
+start:712,&6918571866903187711,&48823,&pan class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+	
+
+<div id="searchBar" class="pageWidth">
+	
+	<span id="QuickSearchPlaceholder" title="Search">Search</span>
+	<fieldset id="QuickSearch">
+
+
+start:713,&5241815505062235647,&49000,&
+		<form action="search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="search" name="keywords"
+
+start:714,&887105624611199615,&49081,&" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your 
+
+start:715,&6362829265745629759,&49160,& search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryC
+
+start:716,&840459538038649727,&49292,&Controls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryContro
+
+start:717,&5314630394277523199,&49337,&ols -->
+					<dl class="ctrlUnit">
+						<dt><
+
+start:718,&1210808143436357439,&49419,&</dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" val
+
+start:719,&428600719455147135,&49467,&lue="1"
+								id="search_bar_title_only" class=
+
+start:720,&1347049444665417407,&49475,&="AutoChe
+
+start:721,&6006889197936008063,&49478,&ecke
+
+start:722,&5314630394277523199,&49629,&er"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><
+
+start:723,&6974621079920817087,&49637,&<label fo
+
+start:724,&1737274393656808575,&49702,&or="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+			
+
+start:725,&6382122239081217343,&49841,&					<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names
+
+start:726,&5314630394277523199,&49926,&s with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><
+
+start:727,&6974621079920817087,&49934,&<label fo
+
+start:728,&840459538038649727,&50142,&or="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+				</div>
+				<!-- end block: secondaryContro
+
+start:729,&516262585158026111,&50214,&ols -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd
+
+start:730,&1741012732490012543,&50220,&d>
+				
+
+start:731,&2771354579477515903,&50290,&			<input type="submit" value="Search" class="button primary Tooltip" t
+
+start:732,&3473464053468593983,&50315,&title="Find Now" />
+						
+
+start:733,&3653886830372944959,&50432,&	<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searc
+
+start:734,&240876729556081599,&50562,&ches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent me
+
+start:735,&8474484338406234879,&50690,&enuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- b
+
+start:736,&8714757167733425599,&50718,&block: useful_searches -->
+		
+
+start:737,&7961369082796057663,&50727,&								<l
+
+start:738,&6310795939864904383,&50738,&li><a href="
+
+start:739,&8714757167733425599,&50857,&"find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+		
+
+start:740,&5514637728283626751,&50966,&							</ul>
+							</div>
+						</div>
+						<a href="search/" class="button moreOptions Tooltip" title="Adva
+
+start:741,&1786831264366703359,&50977,&anced search
+
+start:742,&5144497171470091775,&51090,&h">More...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="" />
+		</for
+
+start:743,&6089162484196964607,&51114,&rm>		
+	</fieldset>
+	
+</di
+
+start:744,&6310795939864904383,&51298,&iv>
+</div>
+
+	
+	
+</header>
+
+</div>
+
+<footer>
+	
+
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<ul class="footerLinks">
+			
+				
+					<li><a href="
+
+start:745,&2855651845313002303,&51360,&"misc/contact" class="OverlayTrigger" data-overlayOptions="{&qu
+
+start:746,&6837233816759449087,&51375,&uot;fixed&quot;:
+
+start:747,&2473170881144458175,&51378,&:fal
+
+start:748,&5256960881747346431,&51514,&lse}">Contact Us</a></li>
+				
+				<li><a href="help/">Help</a></li>
+				<li><a href="http://www.linux.org/" class="homeLink">Home</a></l
+
+start:749,&6030680375754209343,&51547,&li>
+				<li><a href="/#navigation"
+
+start:750,&2937094906968636927,&51651,&" class="topLink">Top</a></li>
+				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" ta
+
+start:751,&3301189502283914303,&51653,&arg
+
+start:752,&2594067998061305023,&51691,&get="_blank"
+					title="RSS feed for L
+
+start:753,&1600798119156596287,&52082,&Linux.org">RSS</a></li>
+			
+			</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<ul id="legal">
+			
+				<li><a href="help/terms">Terms and Rules</a></li>
+				
+			
+			</ul>
+			
+			<div id="copyright"><a href="http://xenforo.com" class="concealed">Forum software by XenForo&trade; <span>&copy;2
+
+start:754,&3267461374741212799,&52094,&2010-2013 Xen
+
+start:755,&3373419145105783615,&52179,&nForo Ltd.</span></a> | <a href="http://www.linuxbrigade.com">Linux Blog</a> | <a href
+
+start:756,&330296255691793535,&52242,&f="http://www.linuxpowerhosting.com">Linux Hosting</a> | <a href
+
+start:757,&1410265706151284671,&52363,&f="http://www.linux.org/pages/advertise/">Advertise</a> | <a href="/pages/corporate-sponsors/">Corporate Sponsors</a> | <a
+
+start:758,&6228151471401015743,&52406,&a href="http://www.download-linux.com">Downl
+
+start:759,&7888431177000554047,&52617,&load Linux</a> | <a href="http://www.linuxnews.pro">Linux News</a> | <a href="http://www.k5websecurity.com">Web Security</a></div>
+			
+		
+			
+			
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+
+</footer
+
+start:760,&1451044027582428991,&52706,&r>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 0 },
+	serverTimeInfo:
+	
+
+start:761,&1442366424717379391,&52921,&	{
+		now: 1407262904,
+		today: 1407211200,
+		todayDow: 2
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask
+
+start:762,&5375536736723414207,&52940,&k:
+		{
+			color: "rg
+
+start:763,&1942533569520907967,&53044,&gb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: [],
+
+
+start:764,&6870380043835720639,&53119,&
+	_loadedScripts: {"EWRporta":true,"EWRporta_BreakOut":true,"htmlblock_6":tr
+
+start:765,&3786879543240977215,&53142,&rue,"message_user_info":
+
+start:766,&2266791019616359871,&53158,&:true,"bb_code":t
+
+start:767,&9056253382306118143,&53160,&tru
+
+start:768,&4561107841392520575,&53170,&ue,"EWRbloc
+
+start:769,&6870380043835917247,&53276,&ck_RecentNews":true,"discussion_list":true,"EWRblock_RecentThreads":true,"inline_mod":true,"htmlblock_1":tr
+
+start:770,&3018448548499883455,&53527,&rue,"EWRblock_StatusUpdates":true,"EWRblock_Facebook":true,"login_bar":true,"facebook":true,"js\/xenforo\/discussion_list.js?_v=5a1a1b96":true},
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+	_csrfToken: "",
+	_csrfRefreshUrl: "login/csrf-tok
+
+start:771,&2495214693393140671,&53580,&ken-refresh",
+	_jsVersion: "5a1a1b96"
+});
+jQuery.exten
+
+start:772,&6107417795996826943,&53631,&nd(XenForo.phrases,
+{
+	cancel: "Cancel",
+
+	a_moment_
+
+start:773,&9096105233292490751,&53745,&_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x: 
+
+start:774,&5173273512700676415,&53794,&      "Today at %time%",
+	yesterday_at_x:  "Yester
+
+start:775,&7805598091594921855,&53920,&rday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+
+
+start:776,&8990104175393350719,&53967,&
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Sat
+
+start:777,&8554223726082586431,&53997,&turday",
+
+	_months: "January,Fe
+
+start:778,&8859730075710722623,&53998,&eb
+
+start:779,&1325882273653344191,&54076,&bruary,March,April,May,June,July,August,September,October,November,December",
+	
+
+start:780,&8669258322970185343,&54091,&	_daysShort: "Su
+
+start:781,&1353685612468674751,&54238,&un,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did 
+
+start:782,&3609713292331828927,&54280,& not respond in time. Please try again.",
+	
+
+start:783,&577673527977160703,&54336,&	logging_in: "Logging in",
+	click_image_show_full_size_ve
+
+start:784,&5191907236787075839,&54368,&ersion: "Click this image to show
+
+start:785,&4167801284367901823,&54397,&w the full-size version.",
+	sh
+
+start:786,&3156525197461604415,&54577,&how_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "184703344946328";
+XenForo.Facebook.forceInit = false;
+
+
+</script>
+
