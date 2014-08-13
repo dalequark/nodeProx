@@ -448,7 +448,62 @@ Handle<Value> n_getMRCMask(const Arguments& args)
 
 }
 
-Handle<Value> n_getRabinChunkSize(const Arguments& args)
+// Returns an array of alternating fingers and their chunk boundary offsets.
+// Takes four args-- src, srclength, minmask, maxmask
+Handle<Value> n_getRabinChunksAndFingers(const Arguments& args)
+{
+  HandleScope scope;
+
+  if(args.Length() != 4){
+      ThrowException(Exception::TypeError(String::New("Wrong number of arguments")));
+      return scope.Close(Undefined());
+  }
+  if (!args[0]->IsString() && !args[1]->IsNumber()  && !args[2]->IsNumber() && !args[3]->IsNumber() ) {
+    ThrowException(Exception::TypeError(String::New("Wrong arguments")));
+    return scope.Close(Undefined());
+  }
+
+  v8::String::AsciiValue str(args[0]);
+  char* src = (char*) malloc(str.length() + 1);
+  strcpy(src, *str);
+  int32 srclen = args[1]->Int32Value();
+  u_int min_mask = args[2]->IntegerValue();
+  u_int max_mask = args[3]->IntegerValue();
+
+
+  int g_ChunkSize = 1024; 
+  RabinBoundary* boundaries = (RabinBoundary*) malloc(sizeof(RabinBoundary) * g_ChunkSize);
+  if (boundaries == NULL) {
+    ThrowException(Exception::TypeError(String::New("Couldn't allocate memory for boundaries")));
+    return scope.Close(Undefined());
+  }
+  u_int numBoundaries;
+
+  int32 result = GetRabinChunkSizeEx(&fixedCtx, (const u_char*) src, srclen, min_mask, max_mask, 
+    1, boundaries, &numBoundaries);
+
+  Handle<Array> results = Array::New(numBoundaries);
+
+  if(results.IsEmpty())
+  {
+    ThrowException(Exception::TypeError(String::New("Couldn't allocate memory for boundary results")));
+    return scope.Close(Undefined());
+  }
+
+  for(int j = 0; j < numBoundaries; j++)
+  {
+    results->Set(j, Number::New(boundaries[j].offset));
+  }
+
+  free(boundaries);
+  free(src);
+  return scope.Close(results);
+
+}
+
+// Returns an array of chunk boundaries
+// Takes four args-- src, srclength, minmask, maxmask
+Handle<Value> n_getRabinChunks(const Arguments& args)
 {
   HandleScope scope;
 
@@ -503,8 +558,10 @@ Handle<Value> n_getRabinChunkSize(const Arguments& args)
 void Init(Handle<Object> exports){
   exports->Set(String::NewSymbol("getMRCMask"),
         FunctionTemplate::New(n_getMRCMask)->GetFunction());
-  exports->Set(String::NewSymbol("getRabinChunkSize"),
-        FunctionTemplate::New(n_getRabinChunkSize)->GetFunction());
+  exports->Set(String::NewSymbol("getRabinChunks"),
+        FunctionTemplate::New(n_getRabinChunks)->GetFunction());
+    exports->Set(String::NewSymbol("getRabinChunksAndFingers"),
+        FunctionTemplate::New(n_getRabinChunksAndFingers)->GetFunction());
 }
 
 NODE_MODULE(rabinfinger, Init)
